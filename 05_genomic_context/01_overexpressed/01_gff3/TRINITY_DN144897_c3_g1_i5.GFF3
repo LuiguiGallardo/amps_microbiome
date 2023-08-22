@@ -1,0 +1,14 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP107213.1 2633633 2643988
+CP107213.1	Genbank	gene	2633633	2634766	.	-	.	ID=gene-OGM65_12830;Name=OGM65_12830;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12830;partial=true;start_range=.,2633633
+CP107213.1	Genbank	gene	2634851	2636167	.	-	.	ID=gene-OGM65_12835;Name=OGM65_12835;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12835
+CP107213.1	Genbank	gene	2636188	2636913	.	-	.	ID=gene-OGM65_12840;Name=OGM65_12840;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12840
+CP107213.1	Genbank	gene	2637288	2638475	.	-	.	ID=gene-OGM65_12845;Name=OGM65_12845;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12845
+CP107213.1	Genbank	gene	2640018	2640701	.	+	.	ID=gene-OGM65_12850;Name=OGM65_12850;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12850
+CP107213.1	Genbank	gene	2640790	2641014	.	+	.	ID=gene-OGM65_12855;Name=atpE;gbkey=Gene;gene=atpE;gene_biotype=other;locus_tag=OGM65_12855
+CP107213.1	Genbank	gene	2641032	2641523	.	+	.	ID=gene-OGM65_12860;Name=OGM65_12860;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12860
+CP107213.1	Genbank	gene	2641513	2643267	.	+	.	ID=gene-OGM65_12865;Name=atpA;gbkey=Gene;gene=atpA;gene_biotype=other;locus_tag=OGM65_12865
+CP107213.1	Genbank	gene	2643254	2643988	.	+	.	ID=gene-OGM65_12870;Name=atpG;end_range=2643988,.;gbkey=Gene;gene=atpG;gene_biotype=other;locus_tag=OGM65_12870;partial=true
+###

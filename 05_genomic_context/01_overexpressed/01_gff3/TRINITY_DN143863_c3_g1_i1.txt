@@ -1,0 +1,30 @@
+Query: TRINITY_DN143863_c3_g1_i1 len=199 path=[177:0-198] [-1, 177, -2] Query ID: lcl|Query_391277 Length: 199
+
+
+>Clostridium fessum strain AM88-09pH10A AM88-09pH10A.Scaf9, whole genome shotgun sequence
+Sequence ID: NZ_JAQEQF010000009.1 Length: 149964
+Range 1: 107997 to 108184
+
+Score:259 bits(140), Expect:7e-68, 
+Identities:172/188(91%),  Gaps:0/188(0%), Strand: Plus/Plus
+
+Query  1       GGGCAGTGTAAGAGACTACCGCCCGTCTGGTAACAGACGGGGCACATGTAAACCCCATTC  60
+               ||||||||||||||||||||||||| |||||||||| ||||||||||||||||||||| |
+Sbjct  107997  GGGCAGTGTAAGAGACTACCGCCCGGCTGGTAACAGCCGGGGCACATGTAAACCCCATCC  108056
+
+Query  61      GAAGCAAGACCGAACAGAAAGCATAAGGCGGCCCGTCTGCTTTCGGGTAGGTCGCTTGAA  120
+               |||||||||||||||||| |||  ||||||||||||||||| ||||||||||||||||| 
+Sbjct  108057  GAAGCAAGACCGAACAGAGAGCGCAAGGCGGCCCGTCTGCTCTCGGGTAGGTCGCTTGAG  108116
+
+Query  121     CCAGGTGGTGACATCTGGTCTAGATAGATGACCATTCAACGACATAACCCGGCTTATCGT  180
+               || | ||| |||| | || ||||||||||||||||||||||||||||||||||||| |||
+Sbjct  108117  CCTGCTGGCGACAGCAGGACTAGATAGATGACCATTCAACGACATAACCCGGCTTACCGT  108176
+
+Query  181     CTTGCTCA  188
+                |||||||
+Sbjct  108177  TTTGCTCA  108184
+
+
+
+
+

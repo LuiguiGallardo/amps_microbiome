@@ -1,0 +1,18 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NZ_CP050956.1 165883 176296
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Parabacteroides+distasonis
+NZ_CP050956.1	RefSeq	region	165883	176296	.	+	.	ID=NZ_CP050956.1:1..5109992;Name=ANONYMOUS;collected-by=NY State Wadsworth;country=USA: NY;culture-collection=FDA:FDAARGOS_615;gbkey=Src;genome=chromosome;isolation-source=clinical isolate;mol_type=genomic DNA;nat-host=Homo sapiens;strain=FDAARGOS_615
+NZ_CP050956.1	RefSeq	gene	165883	166122	.	+	.	ID=gene-FOB23_RS00645;Dbxref=GeneID:57234659;Name=uxuA;gbkey=Gene;gene=uxuA;gene_biotype=other;locus_tag=FOB23_RS00645;old_locus_tag=FOB23_00660;partial=true;start_range=.,165883
+NZ_CP050956.1	RefSeq	gene	166301	167599	.	-	.	ID=gene-FOB23_RS00650;Dbxref=GeneID:57234660;Name=FOB23_RS00650;gbkey=Gene;gene_biotype=other;locus_tag=FOB23_RS00650;old_locus_tag=FOB23_00665
+NZ_CP050956.1	RefSeq	gene	167612	168082	.	-	.	ID=gene-FOB23_RS00655;Dbxref=GeneID:57234661;Name=FOB23_RS00655;gbkey=Gene;gene_biotype=other;locus_tag=FOB23_RS00655;old_locus_tag=FOB23_00670
+NZ_CP050956.1	RefSeq	gene	168066	169061	.	-	.	ID=gene-FOB23_RS00660;Dbxref=GeneID:57234662;Name=FOB23_RS00660;gbkey=Gene;gene_biotype=other;locus_tag=FOB23_RS00660;old_locus_tag=FOB23_00675
+NZ_CP050956.1	RefSeq	gene	169311	169613	.	-	.	ID=gene-FOB23_RS00665;Dbxref=GeneID:57234663;Name=FOB23_RS00665;gbkey=Gene;gene_biotype=other;locus_tag=FOB23_RS00665;old_locus_tag=FOB23_00680
+NZ_CP050956.1	RefSeq	gene	170037	170858	.	+	.	ID=gene-FOB23_RS00670;Dbxref=GeneID:57234664;Name=FOB23_RS00670;gbkey=Gene;gene_biotype=other;locus_tag=FOB23_RS00670;old_locus_tag=FOB23_00685
+NZ_CP050956.1	RefSeq	gene	170899	171298	.	-	.	ID=gene-FOB23_RS00675;Dbxref=GeneID:57234665;Name=ssrA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=FOB23_RS00675;old_locus_tag=FOB23_00690
+NZ_CP050956.1	RefSeq	gene	171383	173695	.	-	.	ID=gene-FOB23_RS00680;Dbxref=GeneID:57234666;Name=bglX;gbkey=Gene;gene=bglX;gene_biotype=other;locus_tag=FOB23_RS00680;old_locus_tag=FOB23_00695
+NZ_CP050956.1	RefSeq	gene	173902	174783	.	-	.	ID=gene-FOB23_RS00685;Dbxref=GeneID:57234667;Name=FOB23_RS00685;gbkey=Gene;gene_biotype=other;locus_tag=FOB23_RS00685;old_locus_tag=FOB23_00700
+NZ_CP050956.1	RefSeq	gene	174922	175032	.	-	.	ID=gene-FOB23_RS00690;Dbxref=GeneID:57234668;Name=rrf;gbkey=Gene;gene=rrf;gene_biotype=other;locus_tag=FOB23_RS00690;old_locus_tag=FOB23_00705
+NZ_CP050956.1	RefSeq	gene	175116	176296	.	-	.	ID=gene-FOB23_RS00695;Dbxref=GeneID:57234669;Name=FOB23_RS00695;end_range=176296,.;gbkey=Gene;gene_biotype=other;locus_tag=FOB23_RS00695;old_locus_tag=FOB23_00710;partial=true
+###

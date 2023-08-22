@@ -1,0 +1,45 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NZ_JAQEQF010000009.1 102988 149964
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Clostridium+fessum
+NZ_JAQEQF010000009.1	RefSeq	region	102988	149964	.	+	.	ID=NZ_JAQEQF010000009.1:1..149964;collection-date=2014-02-01;country=China: Shenzhen;gbkey=Src;genome=genomic;isolation-source=fecal material [ENVO:00002003];lat-lon=22.32 N 114.05 E;mol_type=genomic DNA;nat-host=Homo sapiens;strain=AM88-09pH10A
+NZ_JAQEQF010000009.1	RefSeq	gene	102988	103214	.	+	.	ID=gene-PG862_RS11870;Dbxref=GeneID:79841309;Name=dnaG;gbkey=Gene;gene=dnaG;gene_biotype=other;locus_tag=PG862_RS11870;partial=true;start_range=.,102988
+NZ_JAQEQF010000009.1	RefSeq	gene	103418	104533	.	+	.	ID=gene-PG862_RS11875;Dbxref=GeneID:79841310;Name=rpoD;gbkey=Gene;gene=rpoD;gene_biotype=other;locus_tag=PG862_RS11875
+NZ_JAQEQF010000009.1	RefSeq	gene	104577	105344	.	+	.	ID=gene-PG862_RS11880;Dbxref=GeneID:79841311;Name=PG862_RS11880;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11880
+NZ_JAQEQF010000009.1	RefSeq	gene	105331	106131	.	+	.	ID=gene-PG862_RS11885;Dbxref=GeneID:79841312;Name=PG862_RS11885;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11885
+NZ_JAQEQF010000009.1	RefSeq	gene	106144	107796	.	+	.	ID=gene-PG862_RS11890;Dbxref=GeneID:79841313;Name=PG862_RS11890;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11890
+NZ_JAQEQF010000009.1	RefSeq	gene	107841	108188	.	+	.	ID=gene-PG862_RS11895;Dbxref=GeneID:79841314;Name=rnpB;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=PG862_RS11895
+NZ_JAQEQF010000009.1	RefSeq	gene	108289	109716	.	+	.	ID=gene-PG862_RS11900;Dbxref=GeneID:79841315;Name=PG862_RS11900;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11900
+NZ_JAQEQF010000009.1	RefSeq	gene	109853	110278	.	-	.	ID=gene-PG862_RS11905;Dbxref=GeneID:79841316;Name=PG862_RS11905;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11905
+NZ_JAQEQF010000009.1	RefSeq	gene	110272	111195	.	-	.	ID=gene-PG862_RS11910;Dbxref=GeneID:79841317;Name=pyrB;gbkey=Gene;gene=pyrB;gene_biotype=other;locus_tag=PG862_RS11910
+NZ_JAQEQF010000009.1	RefSeq	gene	111615	112382	.	+	.	ID=gene-PG862_RS11915;Dbxref=GeneID:79841318;Name=PG862_RS11915;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11915
+NZ_JAQEQF010000009.1	RefSeq	gene	112538	114529	.	+	.	ID=gene-PG862_RS11920;Dbxref=GeneID:79841319;Name=PG862_RS11920;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11920
+NZ_JAQEQF010000009.1	RefSeq	gene	114545	115906	.	+	.	ID=gene-PG862_RS11925;Dbxref=GeneID:79841320;Name=PG862_RS11925;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11925
+NZ_JAQEQF010000009.1	RefSeq	gene	116036	116545	.	+	.	ID=gene-PG862_RS11930;Dbxref=GeneID:79841321;Name=PG862_RS11930;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11930
+NZ_JAQEQF010000009.1	RefSeq	gene	116689	119766	.	+	.	ID=gene-PG862_RS11935;Dbxref=GeneID:79841322;Name=PG862_RS11935;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11935
+NZ_JAQEQF010000009.1	RefSeq	gene	119800	121485	.	+	.	ID=gene-PG862_RS11940;Dbxref=GeneID:79841323;Name=PG862_RS11940;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11940
+NZ_JAQEQF010000009.1	RefSeq	gene	121518	122579	.	+	.	ID=gene-PG862_RS11945;Dbxref=GeneID:79841324;Name=PG862_RS11945;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11945
+NZ_JAQEQF010000009.1	RefSeq	gene	122728	123834	.	+	.	ID=gene-PG862_RS11950;Dbxref=GeneID:79841325;Name=PG862_RS11950;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11950
+NZ_JAQEQF010000009.1	RefSeq	gene	123873	124229	.	+	.	ID=gene-PG862_RS11955;Dbxref=GeneID:79841326;Name=PG862_RS11955;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11955
+NZ_JAQEQF010000009.1	RefSeq	gene	124356	127067	.	-	.	ID=gene-PG862_RS11960;Dbxref=GeneID:79841327;Name=PG862_RS11960;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11960
+NZ_JAQEQF010000009.1	RefSeq	gene	127355	128005	.	+	.	ID=gene-PG862_RS11965;Dbxref=GeneID:79841328;Name=PG862_RS11965;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11965
+NZ_JAQEQF010000009.1	RefSeq	gene	128171	130009	.	+	.	ID=gene-PG862_RS11970;Dbxref=GeneID:79841329;Name=typA;gbkey=Gene;gene=typA;gene_biotype=other;locus_tag=PG862_RS11970
+NZ_JAQEQF010000009.1	RefSeq	gene	130277	130906	.	+	.	ID=gene-PG862_RS11975;Dbxref=GeneID:79841330;Name=PG862_RS11975;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11975
+NZ_JAQEQF010000009.1	RefSeq	gene	131152	131673	.	+	.	ID=gene-PG862_RS11980;Dbxref=GeneID:79841331;Name=PG862_RS11980;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11980
+NZ_JAQEQF010000009.1	RefSeq	gene	132162	133055	.	+	.	ID=gene-PG862_RS11985;Dbxref=GeneID:79841332;Name=dapA;gbkey=Gene;gene=dapA;gene_biotype=other;locus_tag=PG862_RS11985
+NZ_JAQEQF010000009.1	RefSeq	gene	133104	133859	.	+	.	ID=gene-PG862_RS11990;Dbxref=GeneID:79841333;Name=dapB;gbkey=Gene;gene=dapB;gene_biotype=other;locus_tag=PG862_RS11990
+NZ_JAQEQF010000009.1	RefSeq	gene	133909	134196	.	+	.	ID=gene-PG862_RS11995;Dbxref=GeneID:79841334;Name=PG862_RS11995;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS11995
+NZ_JAQEQF010000009.1	RefSeq	gene	134628	134891	.	+	.	ID=gene-PG862_RS12000;Dbxref=GeneID:79841335;Name=PG862_RS12000;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12000
+NZ_JAQEQF010000009.1	RefSeq	gene	134899	136530	.	+	.	ID=gene-PG862_RS12005;Dbxref=GeneID:79841336;Name=PG862_RS12005;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12005
+NZ_JAQEQF010000009.1	RefSeq	gene	136527	136976	.	+	.	ID=gene-PG862_RS12010;Dbxref=GeneID:79841337;Name=PG862_RS12010;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12010
+NZ_JAQEQF010000009.1	RefSeq	gene	136973	138151	.	+	.	ID=gene-PG862_RS12015;Dbxref=GeneID:79841338;Name=PG862_RS12015;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12015
+NZ_JAQEQF010000009.1	RefSeq	gene	138135	139868	.	+	.	ID=gene-PG862_RS12020;Dbxref=GeneID:79841339;Name=PG862_RS12020;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12020
+NZ_JAQEQF010000009.1	RefSeq	gene	139862	140836	.	+	.	ID=gene-PG862_RS12025;Dbxref=GeneID:79841340;Name=PG862_RS12025;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12025
+NZ_JAQEQF010000009.1	RefSeq	gene	140987	142417	.	+	.	ID=gene-PG862_RS12030;Dbxref=GeneID:79841341;Name=purB;gbkey=Gene;gene=purB;gene_biotype=other;locus_tag=PG862_RS12030
+NZ_JAQEQF010000009.1	RefSeq	gene	142410	143327	.	+	.	ID=gene-PG862_RS12035;Dbxref=GeneID:79841342;Name=PG862_RS12035;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12035
+NZ_JAQEQF010000009.1	RefSeq	gene	143538	144818	.	+	.	ID=gene-PG862_RS12040;Dbxref=GeneID:79841343;Name=PG862_RS12040;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12040
+NZ_JAQEQF010000009.1	RefSeq	gene	145215	146489	.	+	.	ID=gene-PG862_RS12045;Dbxref=GeneID:79841344;Name=PG862_RS12045;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12045
+NZ_JAQEQF010000009.1	RefSeq	gene	146614	146988	.	+	.	ID=gene-PG862_RS12050;Dbxref=GeneID:79841345;Name=PG862_RS12050;gbkey=Gene;gene_biotype=other;locus_tag=PG862_RS12050
+NZ_JAQEQF010000009.1	RefSeq	pseudogene	146999	149715	.	+	.	ID=gene-PG862_RS12055;Dbxref=GeneID:79841346;Name=PG862_RS12055;end_range=149715,.;gbkey=Gene;gene_biotype=pseudogene;locus_tag=PG862_RS12055;partial=true;pseudo=true
+###

@@ -1,0 +1,14 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region NZ_JH976460.1 1 8753
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Parabacteroides+merdae+CL03T12C32
+NZ_JH976460.1	RefSeq	region	1	8753	.	+	.	ID=NZ_JH976460.1:1..14090;gbkey=Src;genome=genomic;isolation-source=biological product [ENVO:02000043];mol_type=genomic DNA;nat-host=Homo sapiens;strain=CL03T12C32
+NZ_JH976460.1	RefSeq	gene	840	2381	.	+	.	ID=gene-HMPREF1060_RS20345;Dbxref=GeneID:69718366;Name=HMPREF1060_RS20345;gbkey=Gene;gene_biotype=other;locus_tag=HMPREF1060_RS20345;old_locus_tag=HMPREF1060_04098
+NZ_JH976460.1	RefSeq	gene	2412	3293	.	+	.	ID=gene-HMPREF1060_RS20350;Dbxref=GeneID:69718367;Name=HMPREF1060_RS20350;gbkey=Gene;gene_biotype=other;locus_tag=HMPREF1060_RS20350;old_locus_tag=HMPREF1060_04099
+NZ_JH976460.1	RefSeq	gene	3353	3753	.	+	.	ID=gene-HMPREF1060_RS21280;Dbxref=GeneID:69718431;Name=ssrA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=HMPREF1060_RS21280
+NZ_JH976460.1	RefSeq	gene	4795	5598	.	+	.	ID=gene-HMPREF1060_RS20355;Dbxref=GeneID:69718368;Name=HMPREF1060_RS20355;gbkey=Gene;gene_biotype=other;locus_tag=HMPREF1060_RS20355;old_locus_tag=HMPREF1060_04100
+NZ_JH976460.1	RefSeq	gene	5605	6042	.	+	.	ID=gene-HMPREF1060_RS20360;Dbxref=GeneID:69718369;Name=HMPREF1060_RS20360;gbkey=Gene;gene_biotype=other;locus_tag=HMPREF1060_RS20360;old_locus_tag=HMPREF1060_04101
+NZ_JH976460.1	RefSeq	pseudogene	6075	6836	.	+	.	ID=gene-HMPREF1060_RS20365;Dbxref=GeneID:69718370;Name=HMPREF1060_RS20365;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HMPREF1060_RS20365;old_locus_tag=HMPREF1060_04103;pseudo=true
+NZ_JH976460.1	RefSeq	pseudogene	7033	8393	.	+	.	ID=gene-HMPREF1060_RS20370;Dbxref=GeneID:69718371;Name=HMPREF1060_RS20370;gbkey=Gene;gene_biotype=pseudogene;locus_tag=HMPREF1060_RS20370;pseudo=true
+###

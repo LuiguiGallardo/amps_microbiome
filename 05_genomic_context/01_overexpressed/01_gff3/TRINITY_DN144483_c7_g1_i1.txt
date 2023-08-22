@@ -1,0 +1,30 @@
+Query: TRINITY_DN144483_c7_g1_i1 len=457 path=[1:0-456] [-1, 1, -2] Query ID: lcl|Query_39861 Length: 457
+
+
+>[Eubacterium] eligens ATCC 27750 chromosome, complete genome
+Sequence ID: CP001104.1 Length: 2144190
+Range 1: 1371579 to 1371792
+
+Score:200 bits(108), Expect:2e-46, 
+Identities:187/223(84%),  Gaps:13/223(5%), Strand: Plus/Plus
+
+Query  9        ATGAGCAGCACTATAAGCCGGGTTATGTCCAGCCAACATCTGGCTGATGATAATCATCTA  68
+                ||||||||||||||||||||||||||||| ||    |||   |||| |||| ||||||||
+Sbjct  1371579  ATGAGCAGCACTATAAGCCGGGTTATGTC-AG----CAT-AAGCTG-TGATGATCATCTA  1371631
+
+Query  69       TCTAGACTTACTGTTACCAGTAAGCTCAAGCGACCTACCTAAAAGCACGACGGGCAGCC-  127
+                ||||| | | ||||| |||| | |||||||| |||||||| ||||| || ||||||||| 
+Sbjct  1371632  TCTAGTCCTGCTGTTGCCAGCAGGCTCAAGCAACCTACCT-AAAGCTCGGCGGGCAGCCT  1371690
+
+Query  128      --GTATCGCTTTATGTTTGGTCTTGCTTCGGATGGGGTTTACAT-AGCCAGCACTGTTAC  184
+                   ||||||||| | ||||||||||||||| |||||||||||||  ||||   |||||||
+Sbjct  1371691  TTATATCGCTTT-TATTTGGTCTTGCTTCGAATGGGGTTTACATGTGCCACTGCTGTTAC  1371749
+
+Query  185      CAGTGCTGCGGTAGTCTCTTACGCTGCCTTTCCACCCTTACCA  227
+                |||   |||||||||||||||| ||||||||||||||||||||
+Sbjct  1371750  CAGCAATGCGGTAGTCTCTTACACTGCCTTTCCACCCTTACCA  1371792
+
+
+
+
+

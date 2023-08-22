@@ -1,0 +1,11 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP015403.2 265915 276318
+CP015403.2	Genbank	gene	265915	267594	.	+	.	ID=gene-A4V04_01420;Name=A4V04_01420;gbkey=Gene;gene_biotype=other;locus_tag=A4V04_01420;partial=true;start_range=.,265915
+CP015403.2	Genbank	gene	267601	268350	.	+	.	ID=gene-A4V04_01425;Name=A4V04_01425;gbkey=Gene;gene_biotype=other;locus_tag=A4V04_01425
+CP015403.2	Genbank	gene	268387	269022	.	+	.	ID=gene-A4V04_01430;Name=A4V04_01430;gbkey=Gene;gene_biotype=other;locus_tag=A4V04_01430
+CP015403.2	Genbank	gene	269414	270745	.	-	.	ID=gene-A4V04_01435;Name=A4V04_01435;gbkey=Gene;gene_biotype=other;locus_tag=A4V04_01435
+CP015403.2	Genbank	gene	270935	271300	.	-	.	ID=gene-A4V04_01440;Name=ssrA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=A4V04_01440
+CP015403.2	Genbank	gene	271352	276318	.	-	.	ID=gene-A4V04_01445;Name=A4V04_01445;end_range=276318,.;gbkey=Gene;gene_biotype=other;locus_tag=A4V04_01445;partial=true
+###

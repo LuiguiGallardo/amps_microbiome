@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP001104.1 1366569 1376802
+CP001104.1	Genbank	gene	1366569	1366750	.	+	.	ID=gene-EUBELI_01332;Name=EUBELI_01332;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01332;partial=true;start_range=.,1366569
+CP001104.1	Genbank	gene	1366810	1367232	.	-	.	ID=gene-EUBELI_01333;Name=EUBELI_01333;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01333
+CP001104.1	Genbank	gene	1367245	1368207	.	-	.	ID=gene-EUBELI_01334;Name=EUBELI_01334;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01334
+CP001104.1	Genbank	gene	1368246	1369337	.	-	.	ID=gene-EUBELI_01335;Name=EUBELI_01335;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01335
+CP001104.1	Genbank	gene	1369373	1370734	.	-	.	ID=gene-EUBELI_01336;Name=EUBELI_01336;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01336
+CP001104.1	Genbank	gene	1370810	1371310	.	-	.	ID=gene-EUBELI_01337;Name=EUBELI_01337;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01337
+CP001104.1	Genbank	gene	1371273	1371401	.	-	.	ID=gene-EUBELI_01338;Name=EUBELI_01338;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01338
+CP001104.1	Genbank	gene	1371592	1371892	.	-	.	ID=gene-EUBELI_01339;Name=EUBELI_01339;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01339
+CP001104.1	Genbank	gene	1371937	1372296	.	-	.	ID=gene-EUBELI_01340;Name=EUBELI_01340;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01340
+CP001104.1	Genbank	gene	1372580	1373611	.	-	.	ID=gene-EUBELI_01341;Name=EUBELI_01341;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01341
+CP001104.1	Genbank	gene	1374154	1376580	.	-	.	ID=gene-EUBELI_01342;Name=EUBELI_01342;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01342
+CP001104.1	Genbank	gene	1376644	1376802	.	-	.	ID=gene-EUBELI_01343;Name=EUBELI_01343;end_range=1376802,.;gbkey=Gene;gene_biotype=other;locus_tag=EUBELI_01343;partial=true
+###

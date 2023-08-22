@@ -1,0 +1,26 @@
+Query: TRINITY_DN145055_c3_g1_i3 len=180 path=[1:0-64 43:65-65 44:66-82 61:83-107 86:108-109 88:110-114 93:115-115 94:116-122 101:123-163 142:164-179] [-1, 1, 43, 44, 61, 86, 88, 93, 94, 101, 142, -2] Query ID: lcl|Query_39867 Length: 180
+
+
+>Blautia wexlerae DSM 19850 chromosome, complete genome
+Sequence ID: CP102267.1 Length: 4685728
+Range 1: 1346169 to 1346346
+
+Score:307 bits(166), Expect:5e-79, 
+Identities:175/179(98%),  Gaps:1/179(0%), Strand: Plus/Plus
+
+Query  2        TGGATTTAAAAGCTTAAGTTCTTCGTGGTCCGTACCTGCCTTTCTTATAAGTCATGAATT  61
+                ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1346169  TGGATTTAAAAGCTTAAGTTCTTGGTGGTCCGTACCTGCCTTTCTTATAAGTCATGAATT  1346228
+
+Query  62       TGAAACTTTGCTATTCTGGTGGTGTGTACCTCGCTTTCTTAAATTATGAAGAAAAGATTA  121
+                ||||||||||||||||||||||| ||||||||||||||||||||||||||||||||||||
+Sbjct  1346229  TGAAACTTTGCTATTCTGGTGGTCTGTACCTCGCTTTCTTAAATTATGAAGAAAAGATTA  1346288
+
+Query  122      TGTTTTCGGTGGTCTCTCTCCTTTACtttttttgtttttCGTAATCCCTTTTGTTTTAT  180
+                |||||||||||||||| ||||||||| ||||||||||||||||||||||||||||||||
+Sbjct  1346289  TGTTTTCGGTGGTCTCACTCCTTTAC-TTTTTTGTTTTTCGTAATCCCTTTTGTTTTAT  1346346
+
+
+
+
+

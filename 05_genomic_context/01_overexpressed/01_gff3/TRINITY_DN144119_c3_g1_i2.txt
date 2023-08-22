@@ -1,0 +1,30 @@
+Query: TRINITY_DN144119_c3_g1_i2 len=222 path=[1:0-184 163:185-188 167:189-203 182:204-221] [-1, 1, 163, 167, 182, -2] Query ID: lcl|Query_51273 Length: 222
+
+
+>Blautia obeum ATCC 29174 chromosome, complete genome
+Sequence ID: NZ_CP102265.1 Length: 3649956
+Range 1: 2266453 to 2266655
+
+Score:375 bits(203), Expect:5e-105, 
+Identities:203/203(100%),  Gaps:0/203(0%), Strand: Plus/Plus
+
+Query  1        GCACTCACACATCAGGAATCTGGTGTCGACTATGTGAGAAACCTTGCCGGGTAAGCTTTG  60
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2266453  GCACTCACACATCAGGAATCTGGTGTCGACTATGTGAGAAACCTTGCCGGGTAAGCTTTG  2266512
+
+Query  61       CCCCGGTAGATGTATCATGAAGCTACTGAAGCAATAAGCCTGTCGATGGGCGTATTGCCA  120
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2266513  CCCCGGTAGATGTATCATGAAGCTACTGAAGCAATAAGCCTGTCGATGGGCGTATTGCCA  2266572
+
+Query  121      AGGGAATGTTAAAACAGCGACTGTGATGGGAGACACCGCAAGGGATAGGCTTTCGGACAG  180
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2266573  AGGGAATGTTAAAACAGCGACTGTGATGGGAGACACCGCAAGGGATAGGCTTTCGGACAG  2266632
+
+Query  181      GGGTTCGATTCCCCTCAGGTCCA  203
+                |||||||||||||||||||||||
+Sbjct  2266633  GGGTTCGATTCCCCTCAGGTCCA  2266655
+
+
+
+
+

@@ -1,0 +1,15 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region AP025576.1 6914182 6924399
+AP025576.1	DDBJ	gene	6914182	6915041	.	-	.	ID=gene-CE91St56_60510;Name=CE91St56_60510;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60510;partial=true;start_range=.,6914182
+AP025576.1	DDBJ	gene	6915254	6916177	.	-	.	ID=gene-CE91St56_60520;Name=CE91St56_60520;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60520
+AP025576.1	DDBJ	gene	6916411	6917571	.	-	.	ID=gene-CE91St56_60530;Name=CE91St56_60530;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60530
+AP025576.1	DDBJ	gene	6917725	6917898	.	-	.	ID=gene-CE91St56_60540;Name=CE91St56_60540;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60540
+AP025576.1	DDBJ	gene	6918120	6918917	.	+	.	ID=gene-CE91St56_60550;Name=CE91St56_60550;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60550
+AP025576.1	DDBJ	gene	6919644	6921032	.	+	.	ID=gene-CE91St56_60560;Name=CE91St56_60560;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60560
+AP025576.1	DDBJ	gene	6921459	6922373	.	-	.	ID=gene-CE91St56_60570;Name=CE91St56_60570;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60570
+AP025576.1	DDBJ	gene	6922841	6923137	.	+	.	ID=gene-CE91St56_60580;Name=CE91St56_60580;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60580
+AP025576.1	DDBJ	gene	6923184	6923999	.	-	.	ID=gene-CE91St56_60590;Name=CE91St56_60590;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60590
+AP025576.1	DDBJ	gene	6923983	6924399	.	-	.	ID=gene-CE91St56_60600;Name=CE91St56_60600;end_range=6924399,.;gbkey=Gene;gene_biotype=other;locus_tag=CE91St56_60600;partial=true
+###

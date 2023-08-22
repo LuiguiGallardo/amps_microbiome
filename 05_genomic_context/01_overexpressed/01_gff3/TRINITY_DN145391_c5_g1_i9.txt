@@ -1,0 +1,26 @@
+Query: TRINITY_DN145391_c5_g1_i9 len=187 path=[1:0-31 10:32-53 32:54-54 33:55-55 34:56-56 35:57-57 658:58-65 666:66-66 667:67-67 668:68-68 669:69-80 681:81-126 727:127-186] [-1, 1, 10, 32, 33, 34, 35, 658, 666, 667, 668, 669, 681, 727, -2] Query ID: lcl|Query_39866 Length: 187
+
+
+>Faecalibacterium prausnitzii strain Fp360 chromosome, complete genome
+Sequence ID: CP065376.1 Length: 3039229
+Range 1: 909645 to 909823
+
+Score:296 bits(160), Expect:1e-75, 
+Identities:173/179(97%),  Gaps:1/179(0%), Strand: Plus/Minus
+
+Query  1       AATGTACTAAG-AATTCATTCCCCTGCTGATCGTTCTTCACCGTTTCAAAGGAGAATCTT  59
+               ||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  909823  AATGTACTAAGAAATTCATTCCCCTGCTGATCGTTCTTCACCGTTTCAAAGGAGAATCTT  909764
+
+Query  60      CTATGAAACGTCCGGAACAGACCGAAAAATGAAGAAATCGAGGTCAAGAGGCAATGACTC  119
+               ||||||||||||||| |||||||||||||||||||||||||||||||||||| |||||||
+Sbjct  909763  CTATGAAACGTCCGGTACAGACCGAAAAATGAAGAAATCGAGGTCAAGAGGCTATGACTC  909704
+
+Query  120     CGAAGAAGTAAGCATCCTGCCGACAGAGGGCTTGCAACCGCCTCGTGTCGGCAGGTTTT  178
+               |||||||||||||||||||||||| |||||||||||||||| ||| |||||||||||||
+Sbjct  909703  CGAAGAAGTAAGCATCCTGCCGACTGAGGGCTTGCAACCGCTTCGAGTCGGCAGGTTTT  909645
+
+
+
+
+
