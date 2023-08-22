@@ -1,42 +1,42 @@
 tax.id	count
-Anaerobutyricum hallii	3
+Faecalibacterium prausnitzii	115
+Siphoviridae sp.	7
+uncultured human fecal virus	7
 Anaerostipes hadrus	5
+Clostridiaceae bacterium Marseille-Q4143	4
+Lachnospiraceae bacterium	4
+Paraprevotella xylaniphila	4
+Anaerobutyricum hallii	3
+Myoviridae sp.	3
+Roseburia intestinalis	3
+Ruminococcus torques	3
+Blautia argi	2
+Blautia obeum	2
+Coprococcus comes	2
+Roseburia hominis	2
+Ruminococcus bicirculans	2
+Ruthenibacterium lactatiformans	2
+Clostridium scindens	2
+Ruminococcus gnavus	2
 Bacteroides caccae	1
 Bacteroides xylanisolvens	1
 Barnesiella viscericola	1
-Blautia argi	2
-Blautia obeum	2
 Christensenella sp. MSJ-20	1
-Clostridiaceae bacterium Marseille-Q4143	4
 Clostridium sp. CT4	1
-Coprococcus comes	2
 Dysosmobacter sp. Marseille-Q4140	1
 Eggerthella lenta	1
 Escherichia coli	1
-Faecalibacterium prausnitzii	115
 Flavonifractor plautii	1
 Lachnospiraceae bacterium NSJ-29	1
-Lachnospiraceae bacterium	4
-Myoviridae sp.	3
 Odoribacter splanchnicus	1
 Opuntia virus 2	1
-Paraprevotella xylaniphila	4
 Phage sp. ctXnn1	1
 Phocaeicola vulgatus	1
 Pusillimonas faecalis	1
 Romboutsia ilealis	1
-Roseburia hominis	2
-Roseburia intestinalis	3
-Ruminococcus bicirculans	2
-Ruthenibacterium lactatiformans	2
 Sarcina sp. JB2	1
-Siphoviridae sp.	7
 Sutterella wadsworthensis	1
 Terrisporobacter sp. MCA3	1
 Vescimonas fastidiosa	1
-[Clostridium] scindens	2
-[Ruminococcus] gnavus	2
-[Ruminococcus] torques	3
 uncultured Blautia sp.	1
 uncultured Sutterella sp.	1
-uncultured human fecal virus	7
