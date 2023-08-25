@@ -2,11 +2,13 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region AP019738.1 1270496 1280838
-AP019738.1	DDBJ	gene	1270496	1273148	.	-	.	ID=gene-A5NYCFA2_11050;Name=A5NYCFA2_11050;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11050;partial=true;start_range=.,1270496
-AP019738.1	DDBJ	gene	1273351	1274352	.	-	.	ID=gene-A5NYCFA2_11060;Name=A5NYCFA2_11060;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11060
-AP019738.1	DDBJ	gene	1274435	1275031	.	-	.	ID=gene-A5NYCFA2_11070;Name=A5NYCFA2_11070;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11070
-AP019738.1	DDBJ	gene	1275977	1277452	.	+	.	ID=gene-A5NYCFA2_11080;Name=A5NYCFA2_11080;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11080
-AP019738.1	DDBJ	gene	1277619	1278881	.	-	.	ID=gene-A5NYCFA2_11090;Name=chuR;gbkey=Gene;gene=chuR;gene_biotype=other;locus_tag=A5NYCFA2_11090
-AP019738.1	DDBJ	gene	1279056	1280180	.	+	.	ID=gene-A5NYCFA2_11100;Name=A5NYCFA2_11100;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11100
-AP019738.1	DDBJ	gene	1280368	1280838	.	+	.	ID=gene-A5NYCFA2_11110;Name=hutH2;end_range=1280838,.;gbkey=Gene;gene=hutH2;gene_biotype=other;locus_tag=A5NYCFA2_11110;partial=true
+AP019738.1	DDBJ	gene	1270496	1273148	.	-	.	ID=gene-A5NYCFA2_11050;Name=SusC/RagA family TonB-linked outer membrane protein;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11050;partial=true;start_range=.,1270496
+AP019738.1	DDBJ	gene	1273351	1274352	.	-	.	ID=gene-A5NYCFA2_11060;Name=anti-sigma factor;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11060
+AP019738.1	DDBJ	gene	1274435	1275031	.	-	.	ID=gene-A5NYCFA2_11070;Name=DNA-directed RNA polymerase sigma-70 factor;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11070
+AP019738.1	DDBJ	gene	1275977	1277452	.	+	.	ID=gene-A5NYCFA2_11080;Name=MFS transporter;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11080
+AP019738.1	DDBJ	gene	1277619	1278881	.	-	.	ID=gene-A5NYCFA2_11090;Name=anaerobic sulfatase-maturating enzyme;gbkey=Gene;gene=chuR;gene_biotype=other;locus_tag=A5NYCFA2_11090
+AP019738.1	DDBJ	gene	1279056	1280180	.	+	.	ID=gene-A5NYCFA2_11100;Name=aldose 1-epimerase;gbkey=Gene;gene_biotype=other;locus_tag=A5NYCFA2_11100
+AP019738.1	DDBJ	gene	1280368	1280838	.	+	.	ID=gene-A5NYCFA2_11110;Name=histidine ammonia-lyase;end_range=1280838,.;gbkey=Gene;gene=hutH2;gene_biotype=other;locus_tag=A5NYCFA2_11110;partial=true
+AP019738.1	DDBJ	AMP	1275510	1275793	.	+	.	ID=AMP;Name=AMP;end_range=1280838,.;gbkey=Gene;gene=hutH2;gene_biotype=other;locus_tag=A5NYCFA2_11110
+AP019738.1	DDBJ	AMP	1275512	1275527	.	+	.	ID=AMP;Name=AMP;end_range=1280838,.;gbkey=Gene;gene=hutH2;gene_biotype=other;locus_tag=A5NYCFA2_11110
 ###

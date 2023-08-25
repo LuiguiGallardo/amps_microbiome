@@ -3,15 +3,16 @@
 #!processor NCBI annotwriter
 ##sequence-region NZ_LR699004.1 5282895 5293131
 ##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Phocaeicola+dorei
-NZ_LR699004.1	RefSeq	region	5282895	5293131	.	+	.	ID=NZ_LR699004.1:1..5444912;Name=1;chromosome=1;gbkey=Src;genome=chromosome;isolate=MGYG-HGUT-02478;isolation-source=human gut;mol_type=genomic DNA;old-name=Bacteroides dorei
-NZ_LR699004.1	RefSeq	gene	5282895	5283025	.	-	.	ID=gene-FYB91_RS22740;Dbxref=GeneID:56618316;Name=FYB91_RS22740;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22740;partial=true;start_range=.,5282895
-NZ_LR699004.1	RefSeq	gene	5283150	5284007	.	+	.	ID=gene-FYB91_RS22745;Dbxref=GeneID:56618317;Name=FYB91_RS22745;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22745
-NZ_LR699004.1	RefSeq	gene	5284095	5285618	.	-	.	ID=gene-FYB91_RS22750;Dbxref=GeneID:56618318;Name=FYB91_RS22750;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22750
-NZ_LR699004.1	RefSeq	gene	5285817	5286851	.	+	.	ID=gene-FYB91_RS22755;Dbxref=GeneID:56618319;Name=mltG;gbkey=Gene;gene=mltG;gene_biotype=other;locus_tag=FYB91_RS22755
-NZ_LR699004.1	RefSeq	gene	5287076	5287843	.	-	.	ID=gene-FYB91_RS22760;Dbxref=GeneID:56618320;Name=FYB91_RS22760;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22760
-NZ_LR699004.1	RefSeq	gene	5288310	5288660	.	-	.	ID=gene-FYB91_RS22765;Dbxref=GeneID:56618321;Name=rplT;gbkey=Gene;gene=rplT;gene_biotype=other;locus_tag=FYB91_RS22765
-NZ_LR699004.1	RefSeq	gene	5288772	5288969	.	-	.	ID=gene-FYB91_RS22770;Dbxref=GeneID:56618322;Name=rpmI;gbkey=Gene;gene=rpmI;gene_biotype=other;locus_tag=FYB91_RS22770
-NZ_LR699004.1	RefSeq	gene	5289041	5289637	.	-	.	ID=gene-FYB91_RS22775;Dbxref=GeneID:56618323;Name=infC;gbkey=Gene;gene=infC;gene_biotype=other;locus_tag=FYB91_RS22775
-NZ_LR699004.1	RefSeq	gene	5289753	5291693	.	-	.	ID=gene-FYB91_RS22780;Dbxref=GeneID:56618324;Name=thrS;gbkey=Gene;gene=thrS;gene_biotype=other;locus_tag=FYB91_RS22780
-NZ_LR699004.1	RefSeq	gene	5291774	5293131	.	-	.	ID=gene-FYB91_RS22785;Dbxref=GeneID:56618325;Name=FYB91_RS22785;end_range=5293131,.;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22785;partial=true
+NZ_LR699004.1	RefSeq	gene	5282895	5283025	.	-	.	ID=gene-FYB91_RS22740;Dbxref=GeneID:56618316;Name=alpha-L-fucosidase;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22740;partial=true;start_range=.,5282895
+NZ_LR699004.1	RefSeq	gene	5283150	5284007	.	+	.	ID=gene-FYB91_RS22745;Dbxref=GeneID:56618317;Name=DNA/RNA non-specific endonuclease;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22745
+NZ_LR699004.1	RefSeq	gene	5284095	5285618	.	-	.	ID=gene-FYB91_RS22750;Dbxref=GeneID:56618318;Name=alpha-N-arabinofuranosidase;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22750
+NZ_LR699004.1	RefSeq	gene	5285817	5286851	.	+	.	ID=gene-FYB91_RS22755;Dbxref=GeneID:56618319;Name=endolytic transglycosylase;gbkey=Gene;gene=mltG;gene_biotype=other;locus_tag=FYB91_RS22755
+NZ_LR699004.1	RefSeq	gene	5287076	5287843	.	-	.	ID=gene-FYB91_RS22760;Dbxref=GeneID:56618320;Name=EFR1 family ferrodoxin;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22760
+NZ_LR699004.1	RefSeq	gene	5288310	5288660	.	-	.	ID=gene-FYB91_RS22765;Dbxref=GeneID:56618321;Name=50S ribosomal subunit protein L20;gbkey=Gene;gene=rplT;gene_biotype=other;locus_tag=FYB91_RS22765
+NZ_LR699004.1	RefSeq	gene	5288772	5288969	.	-	.	ID=gene-FYB91_RS22770;Dbxref=GeneID:56618322;Name=50S ribosomal subunit protein L35;gbkey=Gene;gene=rpmI;gene_biotype=other;locus_tag=FYB91_RS22770
+NZ_LR699004.1	RefSeq	gene	5289041	5289637	.	-	.	ID=gene-FYB91_RS22775;Dbxref=GeneID:56618323;Name=translation initiation factor IF-3;gbkey=Gene;gene=infC;gene_biotype=other;locus_tag=FYB91_RS22775
+NZ_LR699004.1	RefSeq	gene	5289753	5291693	.	-	.	ID=gene-FYB91_RS22780;Dbxref=GeneID:56618324;Name=threonine--tRNA ligase;gbkey=Gene;gene=thrS;gene_biotype=other;locus_tag=FYB91_RS22780
+NZ_LR699004.1	RefSeq	gene	5291774	5293131	.	-	.	ID=gene-FYB91_RS22785;Dbxref=GeneID:56618325;Name=tetratricopeptide repeat protein;end_range=5293131,.;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22785;partial=true
+NZ_LR699004.1	RefSeq	AMP	5287905	5288121	.	-	.	ID=AMP;Dbxref=GeneID:56618325;Name=AMP;end_range=5293131,.;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22785
+NZ_LR699004.1	RefSeq	AMP	5288077	5288118	.	-	.	ID=AMP;Dbxref=GeneID:56618325;Name=AMP;end_range=5293131,.;gbkey=Gene;gene_biotype=other;locus_tag=FYB91_RS22785
 ###

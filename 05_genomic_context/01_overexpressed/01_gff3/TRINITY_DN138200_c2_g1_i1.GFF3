@@ -2,13 +2,13 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region CP103125.1 5386961 5397778
-CP103125.1	Genbank	gene	5386961	5387693	.	+	.	ID=gene-NXY18_22005;Name=NXY18_22005;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22005;partial=true;start_range=.,5386961
-CP103125.1	Genbank	pseudogene	5387909	5391875	.	-	.	ID=gene-NXY18_22010;Name=NXY18_22010;gbkey=Gene;gene_biotype=pseudogene;locus_tag=NXY18_22010;pseudo=true
-CP103125.1	Genbank	gene	5392071	5392241	.	-	.	ID=gene-NXY18_22015;Name=NXY18_22015;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22015
-CP103125.1	Genbank	gene	5392806	5393012	.	-	.	ID=gene-NXY18_22020;Name=NXY18_22020;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22020
-CP103125.1	Genbank	pseudogene	5392978	5393427	.	+	.	ID=gene-NXY18_22025;Name=NXY18_22025;gbkey=Gene;gene_biotype=pseudogene;locus_tag=NXY18_22025;pseudo=true
-CP103125.1	Genbank	gene	5393636	5394763	.	+	.	ID=gene-NXY18_22030;Name=NXY18_22030;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22030
-CP103125.1	Genbank	gene	5394965	5396065	.	+	.	ID=gene-NXY18_22035;Name=NXY18_22035;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22035
-CP103125.1	Genbank	gene	5396082	5396969	.	+	.	ID=gene-NXY18_22040;Name=NXY18_22040;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22040
-CP103125.1	Genbank	gene	5396990	5397778	.	+	.	ID=gene-NXY18_22045;Name=NXY18_22045;end_range=5397778,.;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22045;partial=true
+CP103125.1	Genbank	gene	5386961	5387693	.	+	.	ID=gene-NXY18_22005;Name=zincin-like metallopeptidase domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22005;partial=true;start_range=.,5386961
+CP103125.1	Genbank	gene	5392071	5392241	.	-	.	ID=gene-NXY18_22015;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22015
+CP103125.1	Genbank	gene	5392806	5393012	.	-	.	ID=gene-NXY18_22020;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22020
+CP103125.1	Genbank	gene	5393636	5394763	.	+	.	ID=gene-NXY18_22030;Name=helix-turn-helix domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22030
+CP103125.1	Genbank	gene	5394965	5396065	.	+	.	ID=gene-NXY18_22035;Name=DUF3575 domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22035
+CP103125.1	Genbank	gene	5396082	5396969	.	+	.	ID=gene-NXY18_22040;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22040
+CP103125.1	Genbank	gene	5396990	5397778	.	+	.	ID=gene-NXY18_22045;Name=fimbrillin family protein;end_range=5397778,.;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22045;partial=true
+CP103125.1	Genbank	AMP	5391998	5392741	.	-	.	ID=AMP;Name=AMP;end_range=5397778,.;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22045
+CP103125.1	Genbank	AMP	5391326	5392287	.	-	.	ID=AMP;Name=AMP;end_range=5397778,.;gbkey=Gene;gene_biotype=other;locus_tag=NXY18_22045
 ###

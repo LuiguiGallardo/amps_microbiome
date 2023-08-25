@@ -3,14 +3,15 @@
 #!processor NCBI annotwriter
 ##sequence-region NZ_JACRSX010000002.1 175579 185954
 ##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Jutongia+huaianensis
-NZ_JACRSX010000002.1	RefSeq	region	175579	185954	.	+	.	ID=NZ_JACRSX010000002.1:1..313281;collection-date=2018-06-01;country=China: Beijing;gbkey=Src;isolation-source=feces;mol_type=genomic DNA;nat-host=Homo sapiens;old-name=Lachnospiraceae bacterium NSJ-37;strain=NSJ-37;type-material=type strain of Jutongia huaianensis
-NZ_JACRSX010000002.1	RefSeq	gene	175579	176992	.	+	.	ID=gene-H8704_RS02830;Name=gpmI;gbkey=Gene;gene=gpmI;gene_biotype=other;locus_tag=H8704_RS02830;old_locus_tag=H8704_02820;partial=true;start_range=.,175579
-NZ_JACRSX010000002.1	RefSeq	gene	177150	177398	.	+	.	ID=gene-H8704_RS02835;Name=secG;gbkey=Gene;gene=secG;gene_biotype=other;locus_tag=H8704_RS02835;old_locus_tag=H8704_02825
-NZ_JACRSX010000002.1	RefSeq	gene	177605	179959	.	+	.	ID=gene-H8704_RS02840;Name=rnr;gbkey=Gene;gene=rnr;gene_biotype=other;locus_tag=H8704_RS02840;old_locus_tag=H8704_02830
-NZ_JACRSX010000002.1	RefSeq	gene	180021	180488	.	+	.	ID=gene-H8704_RS02845;Name=smpB;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=H8704_RS02845;old_locus_tag=H8704_02835
-NZ_JACRSX010000002.1	RefSeq	gene	180596	180939	.	+	.	ID=gene-H8704_RS02850;Name=ssrA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=H8704_RS02850;old_locus_tag=H8704_02840
-NZ_JACRSX010000002.1	RefSeq	gene	181048	181740	.	+	.	ID=gene-H8704_RS02855;Name=H8704_RS02855;gbkey=Gene;gene_biotype=other;locus_tag=H8704_RS02855;old_locus_tag=H8704_02845
-NZ_JACRSX010000002.1	RefSeq	gene	181778	183535	.	+	.	ID=gene-H8704_RS02860;Name=H8704_RS02860;gbkey=Gene;gene_biotype=other;locus_tag=H8704_RS02860;old_locus_tag=H8704_02850
-NZ_JACRSX010000002.1	RefSeq	gene	183720	184400	.	+	.	ID=gene-H8704_RS02865;Name=H8704_RS02865;gbkey=Gene;gene_biotype=other;locus_tag=H8704_RS02865;old_locus_tag=H8704_02855
-NZ_JACRSX010000002.1	RefSeq	gene	184590	185954	.	+	.	ID=gene-H8704_RS02870;Name=H8704_RS02870;end_range=185954,.;gbkey=Gene;gene_biotype=other;locus_tag=H8704_RS02870;old_locus_tag=H8704_02860;partial=true
+NZ_JACRSX010000002.1	RefSeq	gene	175579	176992	.	+	.	ID=gene-H8704_RS02830;Name=gpmI 2,3-bisphosphoglycerate-independent phosphoglycerate mutase;gbkey=Gene;gene=gpmI;gene_biotype=other;locus_tag=H8704_RS02830;old_locus_tag=H8704_02820;partial=true;start_range=.,175579
+NZ_JACRSX010000002.1	RefSeq	gene	177150	177398	.	+	.	ID=gene-H8704_RS02835;Name=Sec translocon subunit SecG ;gbkey=Gene;gene=secG;gene_biotype=other;locus_tag=H8704_RS02835;old_locus_tag=H8704_02825
+NZ_JACRSX010000002.1	RefSeq	gene	177605	179959	.	+	.	ID=gene-H8704_RS02840;Name=rnr RNase R;gbkey=Gene;gene=rnr;gene_biotype=other;locus_tag=H8704_RS02840;old_locus_tag=H8704_02830
+NZ_JACRSX010000002.1	RefSeq	gene	180021	180488	.	+	.	ID=gene-H8704_RS02845;Name=smpB SsrA-binding protein;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=H8704_RS02845;old_locus_tag=H8704_02835
+NZ_JACRSX010000002.1	RefSeq	gene	180596	180939	.	+	.	ID=gene-H8704_RS02850;Name=ssrA ncRNA;gbkey=Gene;gene=ssrA ncRNA;gene_biotype=other;locus_tag=H8704_RS02850;old_locus_tag=H8704_02840
+NZ_JACRSX010000002.1	RefSeq	gene	181048	181740	.	+	.	ID=gene-H8704_RS02855;Name=alpha/beta hydrolase-fold protein;gbkey=Gene;gene_biotype=other;locus_tag=alpha/beta hydrolase-fold protein;old_locus_tag=H8704_02845
+NZ_JACRSX010000002.1	RefSeq	gene	181778	183535	.	+	.	ID=gene-H8704_RS02860;Name=diguanylate cyclase;gbkey=Gene;gene_biotype=other;locus_tag=diguanylate cyclase;old_locus_tag=H8704_02850
+NZ_JACRSX010000002.1	RefSeq	gene	183720	184400	.	+	.	ID=gene-H8704_RS02865;Name=peptidylprolyl isomerase;gbkey=Gene;gene_biotype=other;locus_tag=peptidylprolyl isomerase;old_locus_tag=H8704_02855
+NZ_JACRSX010000002.1	RefSeq	gene	184590	185954	.	+	.	ID=gene-H8704_RS02870;Name=M14 family zinc carboxypeptidase;end_range=185954,.;gbkey=Gene;gene_biotype=other;locus_tag=H8704_RS02870;old_locus_tag=H8704_02860;partial=true
+NZ_JACRSX010000002.1	RefSeq	AMP	180596	180937	.	+	.	ID=AMP;Name=AMP;end_range=185954,.;gbkey=Gene;gene_biotype=other;locus_tag=H8704_RS02870;old_locus_tag=H8704_02860;partial=true
+NZ_JACRSX010000002.1	RefSeq	AMP	180596	180716	.	+	.	ID=AMP;Name=AMP;end_range=185954,.;gbkey=Gene;gene_biotype=other;locus_tag=H8704_RS02870;old_locus_tag=H8704_02860;partial=true
 ###

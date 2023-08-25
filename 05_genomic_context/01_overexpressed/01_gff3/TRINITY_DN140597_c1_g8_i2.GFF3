@@ -2,15 +2,17 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region CP090598.1 1484230 1494628
-CP090598.1	Genbank	gene	1484230	1485064	.	-	.	ID=gene-L0J99_06380;Name=trpD;gbkey=Gene;gene=trpD;gene_biotype=other;locus_tag=L0J99_06380;partial=true;start_range=.,1484230
-CP090598.1	Genbank	gene	1485324	1488200	.	-	.	ID=gene-L0J99_06385;Name=secA;gbkey=Gene;gene=secA;gene_biotype=other;locus_tag=L0J99_06385
-CP090598.1	Genbank	gene	1488413	1489072	.	-	.	ID=gene-L0J99_06390;Name=raiA;gbkey=Gene;gene=raiA;gene_biotype=other;locus_tag=L0J99_06390
+CP090598.1	Genbank	gene	1484230	1485064	.	-	.	ID=gene-L0J99_06380;Name=anthranilate synthase subunit TrpD;gbkey=Gene;gene=trpD;gene_biotype=other;locus_tag=L0J99_06380;partial=true;start_range=.,1484230
+CP090598.1	Genbank	gene	1485324	1488200	.	-	.	ID=gene-L0J99_06385;Name=protein translocation ATPase;gbkey=Gene;gene=secA;gene_biotype=other;locus_tag=L0J99_06385
+CP090598.1	Genbank	gene	1488413	1489072	.	-	.	ID=gene-L0J99_06390;Name=ribosome-associated inhibitor A;gbkey=Gene;gene=raiA;gene_biotype=other;locus_tag=L0J99_06390
 CP090598.1	Genbank	gene	1489250	1489612	.	+	.	ID=gene-L0J99_06395;Name=rnpB;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=L0J99_06395
-CP090598.1	Genbank	gene	1489686	1490366	.	-	.	ID=gene-L0J99_06400;Name=L0J99_06400;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06400
+CP090598.1	Genbank	gene	1489686	1490366	.	-	.	ID=gene-L0J99_06400;Name=RecX family transcriptional regulator;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06400
 CP090598.1	Genbank	gene	1490370	1491554	.	-	.	ID=gene-L0J99_06405;Name=recA;gbkey=Gene;gene=recA;gene_biotype=other;locus_tag=L0J99_06405
-CP090598.1	Genbank	gene	1491810	1492073	.	-	.	ID=gene-L0J99_06410;Name=L0J99_06410;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06410
-CP090598.1	Genbank	gene	1492131	1492643	.	-	.	ID=gene-L0J99_06415;Name=L0J99_06415;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06415
-CP090598.1	Genbank	gene	1492704	1493270	.	-	.	ID=gene-L0J99_06420;Name=L0J99_06420;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06420
-CP090598.1	Genbank	gene	1493278	1493958	.	-	.	ID=gene-L0J99_06425;Name=pgsA;gbkey=Gene;gene=pgsA;gene_biotype=other;locus_tag=L0J99_06425
-CP090598.1	Genbank	gene	1494026	1494628	.	-	.	ID=gene-L0J99_06430;Name=L0J99_06430;end_range=1494628,.;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06430;partial=true
+CP090598.1	Genbank	gene	1491810	1492073	.	-	.	ID=gene-L0J99_06410;Name=DUF3046 domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06410
+CP090598.1	Genbank	gene	1492131	1492643	.	-	.	ID=gene-L0J99_06415;Name=helix-turn-helix domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06415
+CP090598.1	Genbank	gene	1492704	1493270	.	-	.	ID=gene-L0J99_06420;Name=CinA family protein;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06420
+CP090598.1	Genbank	gene	1493278	1493958	.	-	.	ID=gene-L0J99_06425;Name=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase;gbkey=Gene;gene=pgsA;gene_biotype=other;locus_tag=L0J99_06425
+CP090598.1	Genbank	gene	1494026	1494628	.	-	.	ID=gene-L0J99_06430;Name=DNA translocase FtsK;end_range=1494628,.;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06430;partial=true
+CP090598.1	Genbank	AMP	1489248	1489610	.	+	.	ID=AMP;Name=AMP;end_range=1494628,.;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06430;partial=true
+CP090598.1	Genbank	AMP	1489452	1489523	.	+	.	ID=AMP;Name=AMP;end_range=1494628,.;gbkey=Gene;gene_biotype=other;locus_tag=L0J99_06430;partial=true
 ###

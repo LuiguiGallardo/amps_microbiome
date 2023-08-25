@@ -3,7 +3,6 @@
 #!processor NCBI annotwriter
 ##sequence-region NZ_CP102265.1 2261443 2271665
 ##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?name=Blautia+obeum+ATCC+29174
-NZ_CP102265.1	RefSeq	region	2261443	2271665	.	+	.	ID=NZ_CP102265.1:1..3649956;Name=ANONYMOUS;culture-collection=ATCC:29174;gbkey=Src;genome=chromosome;mol_type=genomic DNA;nat-host=Homo sapiens;old-name=Blautia obeum;strain=ATCC 29174;type-material=type strain of Blautia obeum
 NZ_CP102265.1	RefSeq	gene	2261443	2261607	.	-	.	ID=gene-NQ503_RS10935;Dbxref=GeneID:79804538;Name=NQ503_RS10935;gbkey=Gene;gene_biotype=other;locus_tag=NQ503_RS10935;old_locus_tag=NQ503_10935;partial=true;start_range=.,2261443
 NZ_CP102265.1	RefSeq	gene	2261803	2262225	.	-	.	ID=gene-NQ503_RS10940;Dbxref=GeneID:79804539;Name=NQ503_RS10940;gbkey=Gene;gene_biotype=other;locus_tag=NQ503_RS10940;old_locus_tag=NQ503_10940
 NZ_CP102265.1	RefSeq	gene	2262250	2262801	.	-	.	ID=gene-NQ503_RS10945;Dbxref=GeneID:79804540;Name=NQ503_RS10945;gbkey=Gene;gene_biotype=other;locus_tag=NQ503_RS10945;old_locus_tag=NQ503_10945
@@ -17,4 +16,6 @@ NZ_CP102265.1	RefSeq	gene	2269175	2269867	.	-	.	ID=gene-NQ503_RS10980;Dbxref=Gen
 NZ_CP102265.1	RefSeq	gene	2269860	2270222	.	-	.	ID=gene-NQ503_RS10985;Dbxref=GeneID:79804548;Name=NQ503_RS10985;gbkey=Gene;gene_biotype=other;locus_tag=NQ503_RS10985;old_locus_tag=NQ503_10985
 NZ_CP102265.1	RefSeq	gene	2270462	2270932	.	-	.	ID=gene-NQ503_RS10990;Dbxref=GeneID:79804549;Name=tnpA;gbkey=Gene;gene=tnpA;gene_biotype=other;locus_tag=NQ503_RS10990;old_locus_tag=NQ503_10990
 NZ_CP102265.1	RefSeq	gene	2271358	2271665	.	-	.	ID=gene-NQ503_RS10995;Dbxref=GeneID:79804550;Name=NQ503_RS10995;end_range=2271665,.;gbkey=Gene;gene_biotype=other;locus_tag=NQ503_RS10995;old_locus_tag=NQ503_10995;partial=true
+NZ_CP102265.1	RefSeq	AMP	2266453	2266655	.	+	.	ID=AMP;Dbxref=GeneID:79804550;Name=AMP;end_range=2271665,.;gbkey=Gene;gene_biotype=other;locus_tag=NQ503_RS10995
+NZ_CP102265.1	RefSeq	AMP	2266453	2266507	.	+	.	ID=AMP;Dbxref=GeneID:79804550;Name=AMP;end_range=2271665,.;gbkey=Gene;gene_biotype=other;locus_tag=NQ503_RS10995
 ###

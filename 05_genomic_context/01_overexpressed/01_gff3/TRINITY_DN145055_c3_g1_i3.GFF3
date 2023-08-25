@@ -2,13 +2,15 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region CP102267.1 1341161 1351354
-CP102267.1	Genbank	gene	1341161	1341737	.	+	.	ID=gene-NQ550_06200;Name=NQ550_06200;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06200;partial=true;start_range=.,1341161
-CP102267.1	Genbank	gene	1341718	1342395	.	+	.	ID=gene-NQ550_06205;Name=NQ550_06205;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06205
-CP102267.1	Genbank	gene	1342429	1343172	.	+	.	ID=gene-NQ550_06210;Name=NQ550_06210;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06210
-CP102267.1	Genbank	gene	1343465	1344457	.	+	.	ID=gene-NQ550_06215;Name=NQ550_06215;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06215
-CP102267.1	Genbank	gene	1344819	1345646	.	-	.	ID=gene-NQ550_06220;Name=NQ550_06220;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06220
-CP102267.1	Genbank	gene	1346807	1348144	.	+	.	ID=gene-NQ550_06225;Name=eno;gbkey=Gene;gene=eno;gene_biotype=other;locus_tag=NQ550_06225
-CP102267.1	Genbank	gene	1348232	1348468	.	+	.	ID=gene-NQ550_06230;Name=secG;gbkey=Gene;gene=secG;gene_biotype=other;locus_tag=NQ550_06230
-CP102267.1	Genbank	gene	1348588	1350840	.	+	.	ID=gene-NQ550_06235;Name=rnr;gbkey=Gene;gene=rnr;gene_biotype=other;locus_tag=NQ550_06235
-CP102267.1	Genbank	gene	1350916	1351354	.	+	.	ID=gene-NQ550_06240;Name=smpB;end_range=1351354,.;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=NQ550_06240;partial=true
+CP102267.1	Genbank	gene	1341161	1341737	.	+	.	ID=gene-NQ550_06200;Name=amino acid ABC transporter permease;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06200;partial=true;start_range=.,1341161
+CP102267.1	Genbank	gene	1341718	1342395	.	+	.	ID=gene-NQ550_06205;Name=amino acid ABC transporter permease;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06205
+CP102267.1	Genbank	gene	1342429	1343172	.	+	.	ID=gene-NQ550_06210;Name=amino acid ABC transporter ATP-binding protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06210
+CP102267.1	Genbank	gene	1343465	1344457	.	+	.	ID=gene-NQ550_06215;Name=cysteine ABC transporter substrate-binding protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06215
+CP102267.1	Genbank	gene	1344819	1345646	.	-	.	ID=gene-NQ550_06220;Name=polysaccharide deacetylase family protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06220
+CP102267.1	Genbank	gene	1346807	1348144	.	+	.	ID=gene-NQ550_06225;Name=phosphopyruvate hydratase;gbkey=Gene;gene=eno;gene_biotype=other;locus_tag=NQ550_06225
+CP102267.1	Genbank	gene	1348232	1348468	.	+	.	ID=gene-NQ550_06230;Name=preprotein translocase subunit SecG;gbkey=Gene;gene=secG;gene_biotype=other;locus_tag=NQ550_06230
+CP102267.1	Genbank	gene	1348588	1350840	.	+	.	ID=gene-NQ550_06235;Name=ribonuclease R;gbkey=Gene;gene=rnr;gene_biotype=other;locus_tag=NQ550_06235
+CP102267.1	Genbank	gene	1350916	1351354	.	+	.	ID=gene-NQ550_06240;Name=SsrA-binding protein SmpB;end_range=1351354,.;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=NQ550_06240;partial=true
+CP102267.1	Genbank	AMP	1346169	1346346	.	+	.	ID=AMP;Name=AMP;end_range=1351354,.;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=NQ550_06240;partial=true
+CP102267.1	Genbank	AMP	1346169	1346187	.	+	.	ID=AMP;Name=AMP;end_range=1351354,.;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=NQ550_06240;partial=true
 ###

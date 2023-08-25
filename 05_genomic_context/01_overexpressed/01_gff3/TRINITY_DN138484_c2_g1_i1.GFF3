@@ -1,6 +1,20 @@
 ##gff-version 3
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
-##sequence-region CP030777.1 2776493 2776812
-CP030777.1	Genbank	gene	2776510	2776770	.	+	.	ID=gene-C4Q21_13375;Name=rpsT;gbkey=Gene;gene=rpsT;gene_biotype=other;locus_tag=C4Q21_13375
+##sequence-region CP030777.1 2771493 2781833
+CP030777.1	Genbank	gene	2771493	2771934	.	-	.	ID=gene-C4Q21_13350;Name=mutY adenine DNA glycosylase;gbkey=Gene;gene=mutY;gene_biotype=other;locus_tag=C4Q21_13350;partial=true;start_range=.,2771493
+CP030777.1	Genbank	gene	2772021	2773409	.	-	.	ID=gene-C4Q21_13355;Name=asparagine tRNA ligase;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13355
+CP030777.1	Genbank	gene	2773819	2774412	.	+	.	ID=gene-C4Q21_13360;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13360
+CP030777.1	Genbank	gene	2774414	2775541	.	-	.	ID=gene-C4Q21_13365;Name=stage II sporulation protein P;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13365
+CP030777.1	Genbank	gene	2775559	2776344	.	-	.	ID=gene-C4Q21_13370;Name=GPR endopeptidase;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13370
+CP030777.1	Genbank	gene	2776510	2776770	.	+	.	ID=gene-C4Q21_13375;Name=rpsT 30S ribosomal subunit protein S20 ;gbkey=Gene;gene=rpsT;gene_biotype=other;locus_tag=C4Q21_13375
+CP030777.1	Genbank	gene	2776843	2777094	.	-	.	ID=gene-C4Q21_13380;Name=peptidoglycan synthetase;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13380
+CP030777.1	Genbank	gene	2777170	2777526	.	-	.	ID=gene-C4Q21_13385;Name=stage V sporulation protein AE;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13385
+CP030777.1	Genbank	gene	2777528	2778544	.	-	.	ID=gene-C4Q21_13390;Name=stage V sporulation protein AD;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13390
+CP030777.1	Genbank	gene	2778634	2779083	.	-	.	ID=gene-C4Q21_13395;Name=stage V sporulation protein AD;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13395
+CP030777.1	Genbank	gene	2779163	2779981	.	+	.	ID=gene-C4Q21_13400;Name=D-alanyl-D-alanine carboxypeptidase family protein;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13400
+CP030777.1	Genbank	gene	2780123	2780692	.	+	.	ID=gene-C4Q21_13405;Name=DUF4358 domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13405
+CP030777.1	Genbank	gene	2780859	2781833	.	+	.	ID=gene-C4Q21_13410;Name=MBOAT family protein;end_range=2781833,.;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13410;partial=true
+CP030777.1	Genbank	AMP	2776507	2776798	.	+	.	ID=AMP;Name=AMP;end_range=2781833,.;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13410;partial=true
+CP030777.1	Genbank	AMP	2776507	2776771	.	+	.	ID=AMP;Name=AMP;end_range=2781833,.;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_13410;partial=true
 ###
