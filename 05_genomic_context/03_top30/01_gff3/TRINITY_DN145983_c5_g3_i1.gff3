@@ -1,0 +1,8 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region AP028249.1 2203213 2213923
+AP028249.1	DDBJ	gene	2203213	2208045	.	+	.	ID=gene-Rumi2_20540;Name=Rumi2_20540;gbkey=Gene;gene_biotype=other;locus_tag=Rumi2_20540;partial=true;start_range=.,2203213
+AP028249.1	DDBJ	gene	2208998	2212777	.	+	.	ID=gene-Rumi2_20550;Name=Rumi2_20550;gbkey=Gene;gene_biotype=other;locus_tag=Rumi2_20550
+AP028249.1	DDBJ	gene	2212965	2213923	.	+	.	ID=gene-Rumi2_20560;Name=glgB;end_range=2213923,.;gbkey=Gene;gene=glgB;gene_biotype=other;locus_tag=Rumi2_20560;partial=true
+###

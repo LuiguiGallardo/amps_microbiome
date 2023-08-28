@@ -1,0 +1,54 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK027147.1 1 28562
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2832643
+BK027147.1	tpg	region	1	28562	.	+	.	ID=BK027147.1:1..28562;Dbxref=taxon:2832643;collection-date=2015-07-17;country=USA;environmental-sample=true;gbkey=Src;isolate=ctZjT1;isolation-source=Human metagenome;metagenome-source=Human Metagenome;metagenomic=true;mol_type=genomic DNA;note=genome binned from sequencing reads available in ERX547551%2CERX547551%2CERX547551;old-name=Siphoviridae sp.
+BK027147.1	tpg	CDS	178	276	.	-	0	ID=cds-DAZ53263.1;Dbxref=NCBI_GP:DAZ53263.1;Name=DAZ53263.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53263.1;transl_table=11
+BK027147.1	tpg	CDS	451	2034	.	-	0	ID=cds-DAZ53247.1;Dbxref=NCBI_GP:DAZ53247.1;Name=DAZ53247.1;Note=arginyl-tRNA synthetase;gbkey=CDS;inference=protein motif:CDD:234964;product=arginyl-tRNA synthetase;protein_id=DAZ53247.1;transl_table=11
+BK027147.1	tpg	CDS	2192	2284	.	-	0	ID=cds-DAZ53264.1;Dbxref=NCBI_GP:DAZ53264.1;Name=DAZ53264.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53264.1;transl_table=11
+BK027147.1	tpg	CDS	2382	2846	.	-	0	ID=cds-DAZ53265.1;Dbxref=NCBI_GP:DAZ53265.1;Name=DAZ53265.1;Note=protein ywiB genomics%2C ywiB protein%2C all.75A;gbkey=CDS;inference=protein motif:PDB:1R0U_A;product=protein ywiB;protein_id=DAZ53265.1;transl_table=11
+BK027147.1	tpg	CDS	2861	3673	.	-	0	ID=cds-DAZ53248.1;Dbxref=NCBI_GP:DAZ53248.1;Name=DAZ53248.1;Note=glutamate racemase;gbkey=CDS;inference=protein motif:CDD:234851;product=glutamate racemase;protein_id=DAZ53248.1;transl_table=11
+BK027147.1	tpg	CDS	3673	4857	.	-	0	ID=cds-DAZ53249.1;Dbxref=NCBI_GP:DAZ53249.1;Name=DAZ53249.1;Note=D-alanyl-alanine synthetase A;gbkey=CDS;inference=protein motif:CDD:234993;product=D-alanyl-alanine synthetase A;protein_id=DAZ53249.1;transl_table=11
+BK027147.1	tpg	CDS	4914	5018	.	-	0	ID=cds-DAZ53266.1;Dbxref=NCBI_GP:DAZ53266.1;Name=DAZ53266.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53266.1;transl_table=11
+BK027147.1	tpg	CDS	5063	6601	.	-	0	ID=cds-DAZ53250.1;Dbxref=NCBI_GP:DAZ53250.1;Name=DAZ53250.1;Note=Sulfite reductase%2C beta subunit (hemoprotein);gbkey=CDS;inference=protein motif:CDD:223233;product=Sulfite reductase%2C beta subunit (hemoprotein);protein_id=DAZ53250.1;transl_table=11
+BK027147.1	tpg	CDS	6859	6960	.	-	0	ID=cds-DAZ53267.1;Dbxref=NCBI_GP:DAZ53267.1;Name=DAZ53267.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53267.1;transl_table=11
+BK027147.1	tpg	CDS	6917	7576	.	-	0	ID=cds-DAZ53251.1;Dbxref=NCBI_GP:DAZ53251.1;Name=DAZ53251.1;Note=putative translaldolase;gbkey=CDS;inference=protein motif:CDD:234947;product=putative translaldolase;protein_id=DAZ53251.1;transl_table=11
+BK027147.1	tpg	CDS	7560	7814	.	-	0	ID=cds-DAZ53268.1;Dbxref=NCBI_GP:DAZ53268.1;Name=DAZ53268.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53268.1;transl_table=11
+BK027147.1	tpg	CDS	7871	9127	.	-	0	ID=cds-DAZ53252.1;Dbxref=NCBI_GP:DAZ53252.1;Name=DAZ53252.1;Note=serine hydroxymethyltransferase;gbkey=CDS;inference=protein motif:CDD:234571;product=serine hydroxymethyltransferase;protein_id=DAZ53252.1;transl_table=11
+BK027147.1	tpg	CDS	9210	9680	.	-	0	ID=cds-DAZ53253.1;Dbxref=NCBI_GP:DAZ53253.1;Name=DAZ53253.1;Note=imidazoleglycerol-phosphate dehydratase;gbkey=CDS;inference=protein motif:CDD:234873;product=imidazoleglycerol-phosphate dehydratase;protein_id=DAZ53253.1;transl_table=11
+BK027147.1	tpg	CDS	9685	9816	.	-	0	ID=cds-DAZ53269.1;Dbxref=NCBI_GP:DAZ53269.1;Name=DAZ53269.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53269.1;transl_table=11
+BK027147.1	tpg	CDS	9794	10501	.	-	0	ID=cds-DAZ53254.1;Dbxref=NCBI_GP:DAZ53254.1;Name=DAZ53254.1;Note=Transcriptional regulators;gbkey=CDS;inference=protein motif:CDD:224715;product=Transcriptional regulator;protein_id=DAZ53254.1;transl_table=11
+BK027147.1	tpg	CDS	10530	10661	.	-	0	ID=cds-DAZ53270.1;Dbxref=NCBI_GP:DAZ53270.1;Name=DAZ53270.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53270.1;transl_table=11
+BK027147.1	tpg	CDS	10731	10862	.	+	0	ID=cds-DAZ53271.1;Dbxref=NCBI_GP:DAZ53271.1;Name=DAZ53271.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53271.1;transl_table=11
+BK027147.1	tpg	CDS	10921	12702	.	+	0	ID=cds-DAZ53255.1;Dbxref=NCBI_GP:DAZ53255.1;Name=DAZ53255.1;Note=molecular chaperone DnaK;gbkey=CDS;inference=protein motif:CDD:234715;product=molecular chaperone DnaK;protein_id=DAZ53255.1;transl_table=11
+BK027147.1	tpg	CDS	12678	12860	.	+	0	ID=cds-DAZ53272.1;Dbxref=NCBI_GP:DAZ53272.1;Name=DAZ53272.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53272.1;transl_table=11
+BK027147.1	tpg	CDS	12851	13930	.	-	0	ID=cds-DAZ53256.1;Dbxref=NCBI_GP:DAZ53256.1;Name=DAZ53256.1;Note=rod shape-determining protein MreB;gbkey=CDS;inference=protein motif:CDD:237562;product=rod shape determining protein;protein_id=DAZ53256.1;transl_table=11
+BK027147.1	tpg	CDS	13946	14569	.	+	0	ID=cds-DAZ53273.1;Dbxref=NCBI_GP:DAZ53273.1;Name=DAZ53273.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53273.1;transl_table=11
+BK027147.1	tpg	CDS	14670	14780	.	-	0	ID=cds-DAZ53274.1;Dbxref=NCBI_GP:DAZ53274.1;Name=DAZ53274.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53274.1;transl_table=11
+BK027147.1	tpg	CDS	14906	15352	.	-	0	ID=cds-DAZ53262.1;Dbxref=NCBI_GP:DAZ53262.1;Name=DAZ53262.1;Note=dUTPase;gbkey=CDS;inference=protein motif:PDB:5Y5P_D;product=dUTPase;protein_id=DAZ53262.1;transl_table=11
+BK027147.1	tpg	CDS	15439	15603	.	+	0	ID=cds-DAZ53275.1;Dbxref=NCBI_GP:DAZ53275.1;Name=DAZ53275.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53275.1;transl_table=11
+BK027147.1	tpg	CDS	15724	15834	.	+	0	ID=cds-DAZ53276.1;Dbxref=NCBI_GP:DAZ53276.1;Name=DAZ53276.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53276.1;transl_table=11
+BK027147.1	tpg	CDS	15955	16863	.	+	0	ID=cds-DAZ53257.1;Dbxref=NCBI_GP:DAZ53257.1;Name=DAZ53257.1;Note=AraC-type DNA-binding domain-containing proteins;gbkey=CDS;inference=protein motif:CDD:225117;product=AraC-type DNA-binding domain-containing protein;protein_id=DAZ53257.1;transl_table=11
+BK027147.1	tpg	CDS	16981	17133	.	+	0	ID=cds-DAZ53277.1;Dbxref=NCBI_GP:DAZ53277.1;Name=DAZ53277.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53277.1;transl_table=11
+BK027147.1	tpg	CDS	17218	18228	.	-	0	ID=cds-DAZ53258.1;Dbxref=NCBI_GP:DAZ53258.1;Name=DAZ53258.1;Note=Uncharacterized Fe-S center protein;gbkey=CDS;inference=protein motif:CDD:225358;product=putative Fe-S protein;protein_id=DAZ53258.1;transl_table=11
+BK027147.1	tpg	CDS	18221	18334	.	-	0	ID=cds-DAZ53278.1;Dbxref=NCBI_GP:DAZ53278.1;Name=DAZ53278.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53278.1;transl_table=11
+BK027147.1	tpg	CDS	18359	18532	.	-	0	ID=cds-DAZ53259.1;Dbxref=NCBI_GP:DAZ53259.1;Name=DAZ53259.1;Note=Predicted oxidoreductases of the aldo/keto reductase family;gbkey=CDS;inference=protein motif:CDD:224370;product=putative oxidoreductase;protein_id=DAZ53259.1;transl_table=11
+BK027147.1	tpg	CDS	18665	18850	.	-	0	ID=cds-DAZ53279.1;Dbxref=NCBI_GP:DAZ53279.1;Name=DAZ53279.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53279.1;transl_table=11
+BK027147.1	tpg	tRNA	18908	18981	.	-	.	ID=rna-BK027147.1:18908..18981;Note=SAMEA2737697_1gb1_tRNA1;gbkey=tRNA;product=tRNA-Arg
+BK027147.1	tpg	exon	18908	18981	.	-	.	ID=exon-BK027147.1:18908..18981-1;Parent=rna-BK027147.1:18908..18981;Note=SAMEA2737697_1gb1_tRNA1;gbkey=tRNA;product=tRNA-Arg
+BK027147.1	tpg	CDS	19118	19849	.	-	0	ID=cds-DAZ53280.1;Dbxref=NCBI_GP:DAZ53280.1;Name=DAZ53280.1;Note=Serine/threonine-protein kinase pknB;gbkey=CDS;inference=protein motif:PDB:2KUI_A;product=Serine/threonine-protein kinase pknB;protein_id=DAZ53280.1;transl_table=11
+BK027147.1	tpg	CDS	19898	20254	.	+	0	ID=cds-DAZ53281.1;Dbxref=NCBI_GP:DAZ53281.1;Name=DAZ53281.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53281.1;transl_table=11
+BK027147.1	tpg	CDS	20381	20548	.	-	0	ID=cds-DAZ53282.1;Dbxref=NCBI_GP:DAZ53282.1;Name=DAZ53282.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53282.1;transl_table=11
+BK027147.1	tpg	CDS	20545	20709	.	-	0	ID=cds-DAZ53283.1;Dbxref=NCBI_GP:DAZ53283.1;Name=DAZ53283.1;Note=Cytochrome c family protein%2C Fe-S-cluster-containing transfer%2C quinol oxidation%2C respiratory;gbkey=CDS;inference=protein motif:PDB:6F0K_E;product=Cytochrome c family protein;protein_id=DAZ53283.1;transl_table=11
+BK027147.1	tpg	CDS	20709	23855	.	-	0	ID=cds-DAZ53284.1;Dbxref=NCBI_GP:DAZ53284.1;Name=DAZ53284.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53284.1;transl_table=11
+BK027147.1	tpg	CDS	24106	24477	.	-	0	ID=cds-DAZ53285.1;Dbxref=NCBI_GP:DAZ53285.1;Name=DAZ53285.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53285.1;transl_table=11
+BK027147.1	tpg	CDS	24479	25972	.	-	0	ID=cds-DAZ53261.1;Dbxref=NCBI_GP:DAZ53261.1;Name=DAZ53261.1;Note=minor tail protein;gbkey=CDS;inference=protein motif:UniProtKB:A0A0R1V141_9LACO;product=minor tail protein;protein_id=DAZ53261.1;transl_table=11
+BK027147.1	tpg	CDS	25991	26548	.	-	0	ID=cds-DAZ53260.1;Dbxref=NCBI_GP:DAZ53260.1;Name=DAZ53260.1;Note=Bacteriophage Gp15 protein;gbkey=CDS;inference=protein motif:CDD:311047;product=hypothetical protein;protein_id=DAZ53260.1;transl_table=11
+BK027147.1	tpg	CDS	26545	26994	.	-	0	ID=cds-DAZ53286.1;Dbxref=NCBI_GP:DAZ53286.1;Name=DAZ53286.1;Note=Phage tail assembly chaperone protein Gp14 ()A118;gbkey=CDS;inference=protein motif:PFAM:PF10666.9;product=tail assembly chaperone protein;protein_id=DAZ53286.1;transl_table=11
+BK027147.1	tpg	CDS	27182	27271	.	-	0	ID=cds-DAZ53287.1;Dbxref=NCBI_GP:DAZ53287.1;Name=DAZ53287.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53287.1;transl_table=11
+BK027147.1	tpg	CDS	27262	27666	.	-	0	ID=cds-DAZ53288.1;Dbxref=NCBI_GP:DAZ53288.1;Name=DAZ53288.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53288.1;transl_table=11
+BK027147.1	tpg	CDS	27820	28113	.	-	0	ID=cds-DAZ53289.1;Dbxref=NCBI_GP:DAZ53289.1;Name=DAZ53289.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53289.1;transl_table=11
+BK027147.1	tpg	CDS	28214	28303	.	-	0	ID=cds-DAZ53290.1;Dbxref=NCBI_GP:DAZ53290.1;Name=DAZ53290.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53290.1;transl_table=11
+BK027147.1	tpg	CDS	28337	28540	.	-	0	ID=cds-DAZ53291.1;Dbxref=NCBI_GP:DAZ53291.1;Name=DAZ53291.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ53291.1;transl_table=11
+

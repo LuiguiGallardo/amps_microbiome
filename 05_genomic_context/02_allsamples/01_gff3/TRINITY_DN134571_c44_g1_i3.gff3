@@ -1,0 +1,22 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP107213.1 32493 42767
+CP107213.1	Genbank	gene	32493	32683	.	-	.	ID=gene-OGM65_00215;Name=OGM65_00215;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00215;partial=true;start_range=.,32493
+CP107213.1	Genbank	gene	32680	32952	.	-	.	ID=gene-OGM65_00220;Name=OGM65_00220;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00220
+CP107213.1	Genbank	gene	33024	33314	.	+	.	ID=gene-OGM65_00225;Name=OGM65_00225;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00225
+CP107213.1	Genbank	gene	33477	33677	.	-	.	ID=gene-OGM65_00230;Name=OGM65_00230;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00230
+CP107213.1	Genbank	pseudogene	33841	34029	.	+	.	ID=gene-OGM65_00235;Name=OGM65_00235;gbkey=Gene;gene_biotype=pseudogene;locus_tag=OGM65_00235;pseudo=true
+CP107213.1	Genbank	gene	34060	34503	.	+	.	ID=gene-OGM65_00240;Name=OGM65_00240;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00240
+CP107213.1	Genbank	gene	34589	35884	.	+	.	ID=gene-OGM65_00245;Name=OGM65_00245;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00245
+CP107213.1	Genbank	gene	35904	36170	.	+	.	ID=gene-OGM65_00250;Name=OGM65_00250;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00250
+CP107213.1	Genbank	gene	36345	37418	.	+	.	ID=gene-OGM65_00255;Name=OGM65_00255;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00255
+CP107213.1	Genbank	gene	37508	37856	.	-	.	ID=gene-OGM65_00260;Name=ssrA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=OGM65_00260
+CP107213.1	Genbank	gene	37925	38407	.	-	.	ID=gene-OGM65_00265;Name=smpB;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=OGM65_00265
+CP107213.1	Genbank	gene	38607	39206	.	-	.	ID=gene-OGM65_00270;Name=recR;gbkey=Gene;gene=recR;gene_biotype=other;locus_tag=OGM65_00270
+CP107213.1	Genbank	gene	39222	39560	.	-	.	ID=gene-OGM65_00275;Name=OGM65_00275;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00275
+CP107213.1	Genbank	gene	39580	41448	.	-	.	ID=gene-OGM65_00280;Name=dnaX;gbkey=Gene;gene=dnaX;gene_biotype=other;locus_tag=OGM65_00280
+CP107213.1	Genbank	gene	41528	41627	.	-	.	ID=gene-OGM65_00285;Name=ffs;gbkey=Gene;gene=ffs;gene_biotype=other;locus_tag=OGM65_00285
+CP107213.1	Genbank	gene	41725	42408	.	-	.	ID=gene-OGM65_00290;Name=OGM65_00290;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_00290
+CP107213.1	Genbank	pseudogene	42582	42749	.	-	.	ID=gene-OGM65_00295;Name=OGM65_00295;gbkey=Gene;gene_biotype=pseudogene;locus_tag=OGM65_00295;pseudo=true
+###

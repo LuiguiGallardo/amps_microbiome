@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP102267.1 360777 371051
+CP102267.1	Genbank	gene	360777	361486	.	+	.	ID=gene-NQ550_01600;Name=NQ550_01600;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01600;partial=true;start_range=.,360777
+CP102267.1	Genbank	gene	361658	362353	.	+	.	ID=gene-NQ550_01605;Name=NQ550_01605;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01605
+CP102267.1	Genbank	gene	362324	363367	.	-	.	ID=gene-NQ550_01610;Name=NQ550_01610;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01610
+CP102267.1	Genbank	gene	363500	363573	.	+	.	ID=gene-NQ550_01615;Name=NQ550_01615;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01615
+CP102267.1	Genbank	gene	363663	364178	.	+	.	ID=gene-NQ550_01620;Name=tadA;gbkey=Gene;gene=tadA;gene_biotype=other;locus_tag=NQ550_01620
+CP102267.1	Genbank	gene	364287	365654	.	+	.	ID=gene-NQ550_01625;Name=NQ550_01625;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01625
+CP102267.1	Genbank	gene	365789	366050	.	-	.	ID=gene-NQ550_01630;Name=ffs;gbkey=Gene;gene=ffs;gene_biotype=other;locus_tag=NQ550_01630
+CP102267.1	Genbank	gene	366337	367419	.	+	.	ID=gene-NQ550_01635;Name=NQ550_01635;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01635
+CP102267.1	Genbank	gene	367589	369208	.	+	.	ID=gene-NQ550_01640;Name=dnaX;gbkey=Gene;gene=dnaX;gene_biotype=other;locus_tag=NQ550_01640
+CP102267.1	Genbank	gene	369423	369779	.	+	.	ID=gene-NQ550_01645;Name=NQ550_01645;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01645
+CP102267.1	Genbank	gene	369779	370378	.	+	.	ID=gene-NQ550_01650;Name=recR;gbkey=Gene;gene=recR;gene_biotype=other;locus_tag=NQ550_01650
+CP102267.1	Genbank	gene	370406	371051	.	+	.	ID=gene-NQ550_01655;Name=NQ550_01655;end_range=371051,.;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_01655;partial=true
+###

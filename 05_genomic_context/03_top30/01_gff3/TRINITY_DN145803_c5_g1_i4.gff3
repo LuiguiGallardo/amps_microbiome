@@ -1,0 +1,16 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP107213.1 2490957 2501312
+CP107213.1	Genbank	gene	2490957	2491685	.	+	.	ID=gene-OGM65_12075;Name=OGM65_12075;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12075;partial=true;start_range=.,2490957
+CP107213.1	Genbank	gene	2491739	2493490	.	-	.	ID=gene-OGM65_12080;Name=OGM65_12080;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12080
+CP107213.1	Genbank	gene	2493521	2493877	.	-	.	ID=gene-OGM65_12085;Name=OGM65_12085;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12085
+CP107213.1	Genbank	gene	2493884	2495809	.	-	.	ID=gene-OGM65_12090;Name=OGM65_12090;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12090
+CP107213.1	Genbank	gene	2495977	2496314	.	-	.	ID=gene-OGM65_12095;Name=rnpB;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=OGM65_12095
+CP107213.1	Genbank	gene	2496414	2497325	.	+	.	ID=gene-OGM65_12100;Name=OGM65_12100;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12100
+CP107213.1	Genbank	gene	2497518	2499410	.	+	.	ID=gene-OGM65_12105;Name=OGM65_12105;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12105
+CP107213.1	Genbank	gene	2499435	2500154	.	+	.	ID=gene-OGM65_12110;Name=deoD;gbkey=Gene;gene=deoD;gene_biotype=other;locus_tag=OGM65_12110
+CP107213.1	Genbank	gene	2500208	2500471	.	-	.	ID=gene-OGM65_12115;Name=OGM65_12115;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12115
+CP107213.1	Genbank	gene	2500471	2500737	.	-	.	ID=gene-OGM65_12120;Name=OGM65_12120;gbkey=Gene;gene_biotype=other;locus_tag=OGM65_12120
+CP107213.1	Genbank	pseudogene	2500910	2501312	.	+	.	ID=gene-OGM65_12125;Name=OGM65_12125;end_range=2501312,.;gbkey=Gene;gene_biotype=pseudogene;locus_tag=OGM65_12125;partial=true;pseudo=true
+###

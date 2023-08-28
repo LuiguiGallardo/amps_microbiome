@@ -1,0 +1,82 @@
+Query: TRINITY_DN145272_c4_g1_i1 len=423 path=[919:0-40 798:41-42 800:43-54 423:55-151 520:152-422] [-1, 919, 798, 800, 423, 520, -2] Query ID: lcl|Query_103796 Length: 423
+
+
+>Bacteroides xylanisolvens strain CL11T00C03 chromosome, complete genome
+Sequence ID: CP072216.1 Length: 6425332
+Range 1: 2905415 to 2905801
+
+Score:604 bits(327), Expect:4e-168, 
+Identities:367/387(95%),  Gaps:0/387(0%), Strand: Plus/Plus
+
+Query  18       aaaaaaaCGGCACCTCGATTCACATCGCAGCACCGTCACAACACAAACACAAAATAAAAC  77
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2905415  AAAAAAACGGCACCTCGATTCACATCGCAGCACCGTCACAACACAAACACAAAATAAAAC  2905474
+
+Query  78       ACGACAAAACTACTATGCAATCTTCCTGTCATGCCGGGGAGGCATACCTTGCTTGACTTA  137
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2905475  ACGACAAAACTACTATGCAATCTTCCTGTCATGCCGGGGAGGCATACCTTGCTTGACTTA  2905534
+
+Query  138      TCTATATTCGCATACACACAAGAAGCTTTATCAGGCGATTTGCACAATAAATAACATACA  197
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2905535  TCTATATTCGCATACACACAAGAAGCTTTATCAGGCGATTTGCACAATAAATAACATACA  2905594
+
+Query  198      CTTCCGGATTTTGTTCACAGGATTGATAAGATTTTATTCAATAATATGATAAGAAAATGA  257
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2905595  CTTCCGGATTTTGTTCACAGGATTGATAAGATTTTATTCAATAATATGATAAGAAAATGA  2905654
+
+Query  258      AATAATGTGCTCTTTAACGAATTCAAGAGAAACGaaaaaaaaacgaaacaccgattcaca  317
+                |||||||||||||||||||||||||||||||||||||||||||||  || ||||||||||
+Sbjct  2905655  AATAATGTGCTCTTTAACGAATTCAAGAGAAACGAAAAAAAAACGGCACCCCGATTCACA  2905714
+
+Query  318      tatcagcacagacacaaaacaaaccaaaaataaaccaacacaaaacaacaaaGCAATCAG  377
+                |  |||||| | ||||| ||||||  |||||||| ||  ||||||| || | ||||||  
+Sbjct  2905715  TCGCAGCACCGTCACAACACAAACACAAAATAAAACACGACAAAACTACTATGCAATCTT  2905774
+
+Query  378      CCTCTTATTCCGGGGAGGCATATTCAC  404
+                ||| |||| ||||||||||||||||||
+Sbjct  2905775  CCTGTTATGCCGGGGAGGCATATTCAC  2905801
+
+
+
+
+Range 2: 2905691 to 2905858
+
+Score:213 bits(115), Expect:3e-50, 
+Identities:154/172(90%),  Gaps:5/172(2%), Strand: Plus/Plus
+
+Query  18       aaaaaaaCGGCACCTCGATTCACATCGCAGCACCGTCACAACACAAACACAAAATAAAAC  77
+                |||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  2905691  AAAAAAACGGCACCCCGATTCACATCGCAGCACCGTCACAACACAAACACAAAATAAAAC  2905750
+
+Query  78       ACGACAAAACTACTATGCAATCTTCCTGTCATGCCGGGGAGGCATACCTTGCTTGACTTA  137
+                ||||||||||||||||||||||||||||| ||||||||||||||||  |  || | | ||
+Sbjct  2905751  ACGACAAAACTACTATGCAATCTTCCTGTTATGCCGGGGAGGCATA-TTCACTAGCC-TA  2905808
+
+Query  138      TCTATATTCGCATACACACAAGAAGCTTTATCAGGCGATTTGCACA-ATAAA  188
+                | |||||||||||||  ||||| |||   ||||||||||||||| | |||||
+Sbjct  2905809  TATATATTCGCATACCTACAAGTAGCC--ATCAGGCGATTTGCATATATAAA  2905858
+
+
+
+
+Range 3: 1956132 to 1956300
+
+Score:158 bits(85), Expect:1e-33, 
+Identities:147/175(84%),  Gaps:11/175(6%), Strand: Plus/Plus
+
+Query  19       aaaaaaCGGCACCTCGATTCACATCGCAGCACCGTCACAACACAAACACAAAATAAAACA  78
+                ||||||||| ||| ||| |||| ||| || ||||||||||||||||||||||||||||||
+Sbjct  1956132  AAAAAACGGTACCACGACTCACGTCGTAGTACCGTCACAACACAAACACAAAATAAAACA  1956191
+
+Query  79       CGACAAAACTACTATGCAATCTT-CCTGTC-ATGCCGGGGAGGCATACCTTGCTTGACTT  136
+                ||||||||||||||||||||||| |||||| ||||||||||||||||  |  ||  | ||
+Sbjct  1956192  CGACAAAACTACTATGCAATCTTTCCTGTCTATGCCGGGGAGGCATAAGTA-CT--ATTT  1956248
+
+Query  137      ATCTATATTCGCATACACACAAGAAGCTTTATCAGG-CGATTTGCA-CA-ATAAA  188
+                |  ||||||||||||| || ||  |||||   |||| ||||| ||| || |||||
+Sbjct  1956249  ACGTATATTCGCATACTCATAAACAGCTT---CAGGTCGATTAGCATCAGATAAA  1956300
+
+
+
+
+

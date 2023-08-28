@@ -1,0 +1,19 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP085976.1 487696 498039
+CP085976.1	Genbank	gene	487696	488592	.	+	.	ID=gene-LK422_02485;Name=LK422_02485;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02485;partial=true;start_range=.,487696
+CP085976.1	Genbank	gene	488802	488875	.	+	.	ID=gene-LK422_02490;Name=LK422_02490;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02490
+CP085976.1	Genbank	gene	489011	490090	.	+	.	ID=gene-LK422_02495;Name=LK422_02495;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02495
+CP085976.1	Genbank	gene	490146	490841	.	-	.	ID=gene-LK422_02500;Name=LK422_02500;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02500
+CP085976.1	Genbank	pseudogene	491005	491192	.	+	.	ID=gene-LK422_02505;Name=LK422_02505;gbkey=Gene;gene_biotype=pseudogene;locus_tag=LK422_02505;pseudo=true
+CP085976.1	Genbank	gene	491495	492055	.	+	.	ID=gene-LK422_02510;Name=tadA;gbkey=Gene;gene=tadA;gene_biotype=other;locus_tag=LK422_02510
+CP085976.1	Genbank	gene	492178	492615	.	+	.	ID=gene-LK422_02515;Name=LK422_02515;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02515
+CP085976.1	Genbank	gene	492710	492971	.	-	.	ID=gene-LK422_02520;Name=ffs;gbkey=Gene;gene=ffs;gene_biotype=other;locus_tag=LK422_02520
+CP085976.1	Genbank	gene	493025	493786	.	-	.	ID=gene-LK422_02525;Name=LK422_02525;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02525
+CP085976.1	Genbank	gene	494077	495159	.	+	.	ID=gene-LK422_02530;Name=LK422_02530;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02530
+CP085976.1	Genbank	gene	495230	496852	.	+	.	ID=gene-LK422_02535;Name=dnaX;gbkey=Gene;gene=dnaX;gene_biotype=other;locus_tag=LK422_02535
+CP085976.1	Genbank	gene	496884	497240	.	+	.	ID=gene-LK422_02540;Name=LK422_02540;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02540
+CP085976.1	Genbank	gene	497240	497836	.	+	.	ID=gene-LK422_02545;Name=recR;gbkey=Gene;gene=recR;gene_biotype=other;locus_tag=LK422_02545
+CP085976.1	Genbank	gene	497924	498039	.	+	.	ID=gene-LK422_02550;Name=LK422_02550;end_range=498039,.;gbkey=Gene;gene_biotype=other;locus_tag=LK422_02550;partial=true
+###

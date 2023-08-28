@@ -1,0 +1,13 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP085975.1 978238 988549
+CP085975.1	Genbank	gene	978238	979753	.	+	.	ID=gene-LK449_04240;Name=LK449_04240;gbkey=Gene;gene_biotype=other;locus_tag=LK449_04240;partial=true;start_range=.,978238
+CP085975.1	Genbank	gene	979894	981849	.	+	.	ID=gene-LK449_04245;Name=thrS;gbkey=Gene;gene=thrS;gene_biotype=other;locus_tag=LK449_04245
+CP085975.1	Genbank	gene	981883	982497	.	+	.	ID=gene-LK449_04250;Name=infC;gbkey=Gene;gene=infC;gene_biotype=other;locus_tag=LK449_04250
+CP085975.1	Genbank	gene	982557	982754	.	+	.	ID=gene-LK449_04255;Name=rpmI;gbkey=Gene;gene=rpmI;gene_biotype=other;locus_tag=LK449_04255
+CP085975.1	Genbank	gene	982862	983206	.	+	.	ID=gene-LK449_04260;Name=rplT;gbkey=Gene;gene=rplT;gene_biotype=other;locus_tag=LK449_04260
+CP085975.1	Genbank	gene	983636	985810	.	+	.	ID=gene-LK449_04265;Name=LK449_04265;gbkey=Gene;gene_biotype=other;locus_tag=LK449_04265
+CP085975.1	Genbank	gene	985835	988078	.	+	.	ID=gene-LK449_04270;Name=LK449_04270;gbkey=Gene;gene_biotype=other;locus_tag=LK449_04270
+CP085975.1	Genbank	gene	988305	988549	.	+	.	ID=gene-LK449_04275;Name=aspS;end_range=988549,.;gbkey=Gene;gene=aspS;gene_biotype=other;locus_tag=LK449_04275;partial=true
+###

@@ -1,0 +1,15 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP046397.1 408666 418811
+CP046397.1	Genbank	gene	408666	410032	.	+	.	ID=gene-FOC41_01545;Name=FOC41_01545;gbkey=Gene;gene_biotype=other;locus_tag=FOC41_01545;partial=true;start_range=.,408666
+CP046397.1	Genbank	gene	410115	412055	.	+	.	ID=gene-FOC41_01550;Name=thrS;gbkey=Gene;gene=thrS;gene_biotype=other;locus_tag=FOC41_01550
+CP046397.1	Genbank	gene	412128	412739	.	+	.	ID=gene-FOC41_01555;Name=FOC41_01555;gbkey=Gene;gene_biotype=other;locus_tag=FOC41_01555
+CP046397.1	Genbank	gene	412809	413006	.	+	.	ID=gene-FOC41_01560;Name=rpmI;gbkey=Gene;gene=rpmI;gene_biotype=other;locus_tag=FOC41_01560
+CP046397.1	Genbank	gene	413105	413455	.	+	.	ID=gene-FOC41_01565;Name=rplT;gbkey=Gene;gene=rplT;gene_biotype=other;locus_tag=FOC41_01565
+CP046397.1	Genbank	gene	413815	414591	.	+	.	ID=gene-FOC41_01570;Name=FOC41_01570;gbkey=Gene;gene_biotype=other;locus_tag=FOC41_01570
+CP046397.1	Genbank	gene	414578	415150	.	-	.	ID=gene-FOC41_01575;Name=xpt;gbkey=Gene;gene=xpt;gene_biotype=other;locus_tag=FOC41_01575
+CP046397.1	Genbank	gene	415240	416547	.	-	.	ID=gene-FOC41_01580;Name=FOC41_01580;gbkey=Gene;gene_biotype=other;locus_tag=FOC41_01580
+CP046397.1	Genbank	gene	416562	417143	.	-	.	ID=gene-FOC41_01585;Name=FOC41_01585;gbkey=Gene;gene_biotype=other;locus_tag=FOC41_01585
+CP046397.1	Genbank	gene	417147	418739	.	-	.	ID=gene-FOC41_01590;Name=FOC41_01590;gbkey=Gene;gene_biotype=other;locus_tag=FOC41_01590
+###

@@ -1,0 +1,15 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP072227.1 245631 255905
+CP072227.1	Genbank	gene	245631	245666	.	+	.	ID=gene-INE88_00237;Name=INE88_00237;gbkey=Gene;gene_biotype=other;locus_tag=INE88_00237;partial=true;start_range=.,245631
+CP072227.1	Genbank	gene	246005	247042	.	+	.	ID=gene-INE88_00238;Name=mltG;gbkey=Gene;gene=mltG;gene_biotype=other;locus_tag=INE88_00238
+CP072227.1	Genbank	gene	247120	248712	.	+	.	ID=gene-INE88_00239;Name=INE88_00239;gbkey=Gene;gene_biotype=other;locus_tag=INE88_00239
+CP072227.1	Genbank	gene	248717	249298	.	+	.	ID=gene-INE88_00240;Name=INE88_00240;gbkey=Gene;gene_biotype=other;locus_tag=INE88_00240
+CP072227.1	Genbank	gene	249317	250624	.	+	.	ID=gene-INE88_00241;Name=INE88_00241;gbkey=Gene;gene_biotype=other;locus_tag=INE88_00241
+CP072227.1	Genbank	gene	251029	251379	.	-	.	ID=gene-INE88_00242;Name=rplT;gbkey=Gene;gene=rplT;gene_biotype=other;locus_tag=INE88_00242
+CP072227.1	Genbank	gene	251481	251678	.	-	.	ID=gene-INE88_00243;Name=rpmI;gbkey=Gene;gene=rpmI;gene_biotype=other;locus_tag=INE88_00243
+CP072227.1	Genbank	gene	251744	252391	.	-	.	ID=gene-INE88_00244;Name=INE88_00244;gbkey=Gene;gene_biotype=other;locus_tag=INE88_00244
+CP072227.1	Genbank	gene	252467	254407	.	-	.	ID=gene-INE88_00245;Name=thrS;gbkey=Gene;gene=thrS;gene_biotype=other;locus_tag=INE88_00245
+CP072227.1	Genbank	gene	254487	255905	.	-	.	ID=gene-INE88_00246;Name=INE88_00246;end_range=255905,.;gbkey=Gene;gene_biotype=other;locus_tag=INE88_00246;partial=true
+###

@@ -1,0 +1,16 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP041230.1 5334161 5344389
+CP041230.1	Genbank	gene	5334161	5334722	.	-	.	ID=gene-FKZ68_21330;Name=FKZ68_21330;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21330;partial=true;start_range=.,5334161
+CP041230.1	Genbank	gene	5334906	5336441	.	-	.	ID=gene-FKZ68_21335;Name=FKZ68_21335;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21335
+CP041230.1	Genbank	gene	5336661	5337812	.	-	.	ID=gene-FKZ68_21340;Name=FKZ68_21340;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21340
+CP041230.1	Genbank	gene	5337926	5338906	.	-	.	ID=gene-FKZ68_21345;Name=FKZ68_21345;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21345
+CP041230.1	Genbank	gene	5339005	5339368	.	+	.	ID=gene-FKZ68_21350;Name=rnpB;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=FKZ68_21350
+CP041230.1	Genbank	gene	5339391	5340710	.	+	.	ID=gene-FKZ68_21355;Name=FKZ68_21355;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21355
+CP041230.1	Genbank	gene	5341079	5341615	.	-	.	ID=gene-FKZ68_21360;Name=FKZ68_21360;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21360
+CP041230.1	Genbank	gene	5341674	5342276	.	-	.	ID=gene-FKZ68_21365;Name=FKZ68_21365;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21365
+CP041230.1	Genbank	gene	5342667	5343356	.	-	.	ID=gene-FKZ68_21370;Name=phoU;gbkey=Gene;gene=phoU;gene_biotype=other;locus_tag=FKZ68_21370
+CP041230.1	Genbank	gene	5343432	5344190	.	-	.	ID=gene-FKZ68_21375;Name=FKZ68_21375;gbkey=Gene;gene_biotype=other;locus_tag=FKZ68_21375
+CP041230.1	Genbank	gene	5344199	5344389	.	-	.	ID=gene-FKZ68_21380;Name=pstA;end_range=5344389,.;gbkey=Gene;gene=pstA;gene_biotype=other;locus_tag=FKZ68_21380;partial=true
+###

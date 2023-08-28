@@ -1,0 +1,18 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP092643.1 2215107 2225494
+CP092643.1	Genbank	gene	2215107	2215562	.	-	.	ID=gene-MIO91_10755;Name=priA;gbkey=Gene;gene=priA;gene_biotype=other;locus_tag=MIO91_10755;partial=true;start_range=.,2215107
+CP092643.1	Genbank	gene	2215571	2216002	.	-	.	ID=gene-MIO91_10760;Name=MIO91_10760;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10760
+CP092643.1	Genbank	gene	2216014	2216934	.	-	.	ID=gene-MIO91_10765;Name=pyrB;gbkey=Gene;gene=pyrB;gene_biotype=other;locus_tag=MIO91_10765
+CP092643.1	Genbank	gene	2217135	2217596	.	+	.	ID=gene-MIO91_10770;Name=MIO91_10770;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10770
+CP092643.1	Genbank	gene	2217893	2218615	.	-	.	ID=gene-MIO91_10775;Name=MIO91_10775;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10775
+CP092643.1	Genbank	gene	2218612	2219463	.	-	.	ID=gene-MIO91_10780;Name=MIO91_10780;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10780
+CP092643.1	Genbank	gene	2219508	2219903	.	-	.	ID=gene-MIO91_10785;Name=MIO91_10785;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10785
+CP092643.1	Genbank	gene	2220128	2220473	.	+	.	ID=gene-MIO91_10790;Name=rnpB;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=MIO91_10790
+CP092643.1	Genbank	gene	2220633	2221445	.	-	.	ID=gene-MIO91_10795;Name=MIO91_10795;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10795
+CP092643.1	Genbank	gene	2221438	2223177	.	-	.	ID=gene-MIO91_10800;Name=MIO91_10800;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10800
+CP092643.1	Genbank	gene	2223164	2223907	.	-	.	ID=gene-MIO91_10805;Name=MIO91_10805;gbkey=Gene;gene_biotype=other;locus_tag=MIO91_10805
+CP092643.1	Genbank	gene	2223909	2225165	.	-	.	ID=gene-MIO91_10810;Name=rpoD;gbkey=Gene;gene=rpoD;gene_biotype=other;locus_tag=MIO91_10810
+CP092643.1	Genbank	gene	2225179	2225494	.	-	.	ID=gene-MIO91_10815;Name=dnaG;end_range=2225494,.;gbkey=Gene;gene=dnaG;gene_biotype=other;locus_tag=MIO91_10815;partial=true
+###
