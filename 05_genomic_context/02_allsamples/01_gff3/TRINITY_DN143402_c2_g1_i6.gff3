@@ -2,15 +2,9 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region CP098409.1 2119236 2129579
-CP098409.1	Genbank	pseudogene	2119267	2120396	.	+	.	ID=gene-M5E86_12245;Name=rpoD;gbkey=Gene;gene=rpoD;gene_biotype=pseudogene;locus_tag=M5E86_12245;pseudo=true
-CP098409.1	Genbank	gene	2120407	2121105	.	+	.	ID=gene-M5E86_12250;Name=M5E86_12250;gbkey=Gene;gene_biotype=other;locus_tag=M5E86_12250
-CP098409.1	Genbank	pseudogene	2121102	2121885	.	+	.	ID=gene-M5E86_12255;Name=M5E86_12255;gbkey=Gene;gene_biotype=pseudogene;locus_tag=M5E86_12255;pseudo=true
-CP098409.1	Genbank	pseudogene	2122004	2123675	.	+	.	ID=gene-M5E86_12260;Name=M5E86_12260;gbkey=Gene;gene_biotype=pseudogene;locus_tag=M5E86_12260;pseudo=true
-CP098409.1	Genbank	gene	2124205	2124555	.	+	.	ID=gene-M5E86_12265;Name=rnpB;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=M5E86_12265
-CP098409.1	Genbank	pseudogene	2124607	2125045	.	-	.	ID=gene-M5E86_12270;Name=M5E86_12270;gbkey=Gene;gene_biotype=pseudogene;locus_tag=M5E86_12270;pseudo=true
-CP098409.1	Genbank	pseudogene	2125039	2125963	.	-	.	ID=gene-M5E86_12275;Name=pyrB;gbkey=Gene;gene=pyrB;gene_biotype=pseudogene;locus_tag=M5E86_12275;pseudo=true
-CP098409.1	Genbank	pseudogene	2126042	2126429	.	-	.	ID=gene-M5E86_12280;Name=M5E86_12280;gbkey=Gene;gene_biotype=pseudogene;locus_tag=M5E86_12280;pseudo=true
-CP098409.1	Genbank	pseudogene	2126595	2127883	.	+	.	ID=gene-M5E86_12285;Name=M5E86_12285;gbkey=Gene;gene_biotype=pseudogene;locus_tag=M5E86_12285;pseudo=true
-CP098409.1	Genbank	gene	2127905	2129035	.	+	.	ID=gene-M5E86_12290;Name=pheA;gbkey=Gene;gene=pheA;gene_biotype=other;locus_tag=M5E86_12290
-CP098409.1	Genbank	pseudogene	2129222	2129579	.	+	.	ID=gene-M5E86_12295;Name=M5E86_12295;end_range=2129579,.;gbkey=Gene;gene_biotype=pseudogene;locus_tag=M5E86_12295;partial=true;pseudo=true
+CP098409.1	Genbank	gene	2120407	2121105	.	+	.	ID=gene-M5E86_12250;Name=class I SAM-dependent methyltransferase;gbkey=Gene;gene_biotype=other;locus_tag=M5E86_12250
+CP098409.1	Genbank	gene	2124205	2124555	.	+	.	ID=gene-M5E86_12265;Name=rnpB ncRNA;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=M5E86_12265
+CP098409.1	Genbank	gene	2127905	2129035	.	+	.	ID=gene-M5E86_12290;Name=pheA fused chorismate mutase/prephenate dehydratase;gbkey=Gene;gene=pheA;gene_biotype=other;locus_tag=M5E86_12290
+CP098409.1	Genbank	AMP	2124251	2124557	.	+	.	ID=AMP;Name=AMP
+CP098409.1	Genbank	AMP	2124251	2124290	.	+	.	ID=AMP;Name=AMP
 ###

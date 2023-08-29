@@ -2,18 +2,20 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region CP016786.1 1653199 1663587
-CP016786.1	Genbank	gene	1653199	1653856	.	-	.	ID=gene-BEN51_07730;Name=BEN51_07730;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07730;partial=true;start_range=.,1653199
-CP016786.1	Genbank	gene	1653871	1654302	.	-	.	ID=gene-BEN51_07735;Name=BEN51_07735;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07735
-CP016786.1	Genbank	gene	1654694	1655320	.	+	.	ID=gene-BEN51_07740;Name=BEN51_07740;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07740
-CP016786.1	Genbank	gene	1655564	1657117	.	-	.	ID=gene-BEN51_07745;Name=BEN51_07745;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07745
-CP016786.1	Genbank	gene	1657269	1657619	.	-	.	ID=gene-BEN51_07750;Name=BEN51_07750;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07750
-CP016786.1	Genbank	gene	1657613	1657948	.	-	.	ID=gene-BEN51_07755;Name=BEN51_07755;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07755
-CP016786.1	Genbank	gene	1658216	1658570	.	-	.	ID=gene-BEN51_07760;Name=ssrA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=BEN51_07760
-CP016786.1	Genbank	gene	1658829	1659020	.	+	.	ID=gene-BEN51_07765;Name=BEN51_07765;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07765
-CP016786.1	Genbank	gene	1659282	1660070	.	-	.	ID=gene-BEN51_07770;Name=BEN51_07770;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07770
-CP016786.1	Genbank	gene	1660105	1660749	.	-	.	ID=gene-BEN51_07775;Name=BEN51_07775;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07775
-CP016786.1	Genbank	gene	1660736	1661560	.	-	.	ID=gene-BEN51_07780;Name=BEN51_07780;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07780
-CP016786.1	Genbank	gene	1661909	1662583	.	+	.	ID=gene-BEN51_07785;Name=BEN51_07785;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07785
-CP016786.1	Genbank	gene	1662795	1663190	.	-	.	ID=gene-BEN51_07790;Name=BEN51_07790;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07790
-CP016786.1	Genbank	gene	1663287	1663587	.	-	.	ID=gene-BEN51_07795;Name=BEN51_07795;end_range=1663587,.;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07795;partial=true
+CP016786.1	Genbank	gene	1653199	1653856	.	-	.	ID=gene-BEN51_07730;Name=ATPase;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07730;partial=true;start_range=.,1653199
+CP016786.1	Genbank	gene	1653871	1654302	.	-	.	ID=gene-BEN51_07735;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07735
+CP016786.1	Genbank	gene	1654694	1655320	.	+	.	ID=gene-BEN51_07740;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07740
+CP016786.1	Genbank	gene	1655564	1657117	.	-	.	ID=gene-BEN51_07745;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07745
+CP016786.1	Genbank	gene	1657269	1657619	.	-	.	ID=gene-BEN51_07750;Name=transposase;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07750
+CP016786.1	Genbank	gene	1657613	1657948	.	-	.	ID=gene-BEN51_07755;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07755
+CP016786.1	Genbank	gene	1658216	1658570	.	-	.	ID=gene-BEN51_07760;Name=ssrA ncRNA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=BEN51_07760
+CP016786.1	Genbank	gene	1658829	1659020	.	+	.	ID=gene-BEN51_07765;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07765
+CP016786.1	Genbank	gene	1659282	1660070	.	-	.	ID=gene-BEN51_07770;Name=bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07770
+CP016786.1	Genbank	gene	1660105	1660749	.	-	.	ID=gene-BEN51_07775;Name=thiamine-phosphate diphosphorylase;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07775
+CP016786.1	Genbank	gene	1660736	1661560	.	-	.	ID=gene-BEN51_07780;Name=hydroxyethylthiazole kinase;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07780
+CP016786.1	Genbank	gene	1661909	1662583	.	+	.	ID=gene-BEN51_07785;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07785
+CP016786.1	Genbank	gene	1662795	1663190	.	-	.	ID=gene-BEN51_07790;Name=Rrf2 family transcriptional regulator;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07790
+CP016786.1	Genbank	gene	1663287	1663587	.	-	.	ID=gene-BEN51_07795;Name=glutamate synthase (NADPH), homotetrameric;end_range=1663587,.;gbkey=Gene;gene_biotype=other;locus_tag=BEN51_07795;partial=true
+CP016786.1	Genbank	AMP	1658216	1658570	.	-	.	ID=AMP;Name=AMP
+CP016786.1	Genbank	AMP	1658382	1658429	.	-	.	ID=AMP;Name=AMP
 ###

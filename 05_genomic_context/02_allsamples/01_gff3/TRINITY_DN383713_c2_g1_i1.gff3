@@ -2,15 +2,17 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region CP100125.1 1008130 1018473
-CP100125.1	Genbank	gene	1008130	1010528	.	+	.	ID=gene-NKF69_04910;Name=pheT;gbkey=Gene;gene=pheT;gene_biotype=other;locus_tag=NKF69_04910;partial=true;start_range=.,1008130
-CP100125.1	Genbank	gene	1010532	1011032	.	+	.	ID=gene-NKF69_04915;Name=NKF69_04915;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04915
-CP100125.1	Genbank	gene	1011200	1011487	.	-	.	ID=gene-NKF69_04920;Name=NKF69_04920;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04920
-CP100125.1	Genbank	gene	1011484	1011843	.	-	.	ID=gene-NKF69_04925;Name=NKF69_04925;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04925
-CP100125.1	Genbank	gene	1011981	1013087	.	+	.	ID=gene-NKF69_04930;Name=NKF69_04930;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04930
-CP100125.1	Genbank	gene	1013148	1013496	.	-	.	ID=gene-NKF69_04935;Name=ssrA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=NKF69_04935
-CP100125.1	Genbank	gene	1013559	1014041	.	-	.	ID=gene-NKF69_04940;Name=smpB;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=NKF69_04940
-CP100125.1	Genbank	gene	1014155	1014673	.	-	.	ID=gene-NKF69_04945;Name=NKF69_04945;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04945
-CP100125.1	Genbank	gene	1015001	1016074	.	+	.	ID=gene-NKF69_04950;Name=NKF69_04950;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04950
-CP100125.1	Genbank	gene	1016093	1017574	.	+	.	ID=gene-NKF69_04955;Name=NKF69_04955;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04955
-CP100125.1	Genbank	gene	1017578	1018473	.	+	.	ID=gene-NKF69_04960;Name=rmuC;end_range=1018473,.;gbkey=Gene;gene=rmuC;gene_biotype=other;locus_tag=NKF69_04960;partial=true
+CP100125.1	Genbank	gene	1008130	1010528	.	+	.	ID=gene-NKF69_04910;Name=pheT phenylalanine--tRNA ligase subunit beta;gbkey=Gene;gene=pheT;gene_biotype=other;locus_tag=NKF69_04910;partial=true;start_range=.,1008130
+CP100125.1	Genbank	gene	1010532	1011032	.	+	.	ID=gene-NKF69_04915;Name=methylated-DNA--[protein]-cysteine S-methyltransferase;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04915
+CP100125.1	Genbank	gene	1011200	1011487	.	-	.	ID=gene-NKF69_04920;Name=helix-turn-helix transcriptional regulator;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04920
+CP100125.1	Genbank	gene	1011484	1011843	.	-	.	ID=gene-NKF69_04925;Name=type II toxin-antitoxin system RelE/ParE family toxin;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04925
+CP100125.1	Genbank	gene	1011981	1013087	.	+	.	ID=gene-NKF69_04930;Name=IS3 family transposase;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04930
+CP100125.1	Genbank	gene	1013148	1013496	.	-	.	ID=gene-NKF69_04935;Name=ssrA ncRNA;gbkey=Gene;gene=ssrA;gene_biotype=other;locus_tag=NKF69_04935
+CP100125.1	Genbank	gene	1013559	1014041	.	-	.	ID=gene-NKF69_04940;Name=smpB SsrA-binding protein;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=NKF69_04940
+CP100125.1	Genbank	gene	1014155	1014673	.	-	.	ID=gene-NKF69_04945;Name=GNAT family N-acetyltransferase;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04945
+CP100125.1	Genbank	gene	1015001	1016074	.	+	.	ID=gene-NKF69_04950;Name=alpha/beta hydrolase;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04950
+CP100125.1	Genbank	gene	1016093	1017574	.	+	.	ID=gene-NKF69_04955;Name=transglutaminase-like domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=NKF69_04955
+CP100125.1	Genbank	gene	1017578	1018473	.	+	.	ID=gene-NKF69_04960;Name=rmuC putative recombination limiting protein RmuC;end_range=1018473,.;gbkey=Gene;gene=rmuC;gene_biotype=other;locus_tag=NKF69_04960;partial=true
+CP100125.1	Genbank	AMP	1013143	1013405	.	+	.	ID=AMP;Name=AMP
+CP100125.1	Genbank	AMP	1013147	1013182	.	+	.	ID=AMP;Name=AMP
 ###

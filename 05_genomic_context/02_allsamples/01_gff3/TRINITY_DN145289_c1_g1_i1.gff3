@@ -2,14 +2,16 @@
 #!gff-spec-version 1.21
 #!processor NCBI annotwriter
 ##sequence-region CP030777.1 1797065 1807431
-CP030777.1	Genbank	gene	1797065	1797441	.	-	.	ID=gene-C4Q21_08580;Name=C4Q21_08580;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08580;partial=true;start_range=.,1797065
-CP030777.1	Genbank	gene	1797652	1798104	.	-	.	ID=gene-C4Q21_08585;Name=cdd;gbkey=Gene;gene=cdd;gene_biotype=other;locus_tag=C4Q21_08585
-CP030777.1	Genbank	gene	1798180	1798899	.	-	.	ID=gene-C4Q21_08590;Name=deoD;gbkey=Gene;gene=deoD;gene_biotype=other;locus_tag=C4Q21_08590
-CP030777.1	Genbank	gene	1798971	1800902	.	-	.	ID=gene-C4Q21_08595;Name=C4Q21_08595;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08595
-CP030777.1	Genbank	gene	1801057	1801968	.	-	.	ID=gene-C4Q21_08600;Name=C4Q21_08600;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08600
-CP030777.1	Genbank	gene	1802076	1802413	.	+	.	ID=gene-C4Q21_08605;Name=rnpB;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=C4Q21_08605
-CP030777.1	Genbank	gene	1802643	1804322	.	-	.	ID=gene-C4Q21_08610;Name=C4Q21_08610;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08610
-CP030777.1	Genbank	gene	1804339	1804692	.	-	.	ID=gene-C4Q21_08615;Name=C4Q21_08615;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08615
-CP030777.1	Genbank	gene	1804696	1806624	.	-	.	ID=gene-C4Q21_08620;Name=C4Q21_08620;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08620
-CP030777.1	Genbank	gene	1807090	1807431	.	-	.	ID=gene-C4Q21_08625;Name=C4Q21_08625;end_range=1807431,.;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08625;partial=true
+CP030777.1	Genbank	gene	1797065	1797441	.	-	.	ID=gene-C4Q21_08580;Name=BMP family ABC transporter substrate-binding protein;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08580;partial=true;start_range=.,1797065
+CP030777.1	Genbank	gene	1797652	1798104	.	-	.	ID=gene-C4Q21_08585;Name=cytidine/deoxycytidine deaminase;gbkey=Gene;gene=cdd;gene_biotype=other;locus_tag=C4Q21_08585
+CP030777.1	Genbank	gene	1798180	1798899	.	-	.	ID=gene-C4Q21_08590;Name=purine nucleoside phosphorylase;gbkey=Gene;gene=deoD;gene_biotype=other;locus_tag=C4Q21_08590
+CP030777.1	Genbank	gene	1798971	1800902	.	-	.	ID=gene-C4Q21_08595;Name=peptidoglycan DD-metalloendopeptidase family protein;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08595
+CP030777.1	Genbank	gene	1801057	1801968	.	-	.	ID=gene-C4Q21_08600;Name=RluA family pseudouridine synthase;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08600
+CP030777.1	Genbank	gene	1802076	1802413	.	+	.	ID=gene-C4Q21_08605;Name=rnpB ncRNA;gbkey=Gene;gene=rnpB;gene_biotype=other;locus_tag=C4Q21_08605
+CP030777.1	Genbank	gene	1802643	1804322	.	-	.	ID=gene-C4Q21_08610;Name=LCP family protein;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08610
+CP030777.1	Genbank	gene	1804339	1804692	.	-	.	ID=gene-C4Q21_08615;Name=NusG domain II-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08615
+CP030777.1	Genbank	gene	1804696	1806624	.	-	.	ID=gene-C4Q21_08620;Name=NAD(+) synthase;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08620
+CP030777.1	Genbank	gene	1807090	1807431	.	-	.	ID=gene-C4Q21_08625;Name=hypothetical protein;end_range=1807431,.;gbkey=Gene;gene_biotype=other;locus_tag=C4Q21_08625;partial=true
+CP030777.1	Genbank	AMP	1802081	1802415	.	+	.	ID=AMP;Name=AMP
+CP030777.1	Genbank	AMP	1802253	1802276	.	+	.	ID=AMP;Name=AMP
 ###
