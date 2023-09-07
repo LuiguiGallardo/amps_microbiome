@@ -94,7 +94,7 @@
 | --------------------------- | ---------------------------------- | ------------------------ | ------------------------------------------------------------ |
 | TRINITY_DN144119_c3_g1_i2   | Blautia obeum                      | AMP_144119_c3_g1_i2.p6   | ALTHQESGVDYVRNLAG                                            |
 
-<img src="../07_heatmaps_boxplots/01_overexpressed/abundance/AMP_144119_c3_g1_i2.svg" alt="AMP_144119_c3_g1_i2" style="zoom:33%;"/><img src="../07_heatmaps_boxplots/01_overexpressed/log10/AMP_144119_c3_g1_i2_log10.svg" alt="AMP_144119_c3_g1_i2" style="zoom:33%;"/><img src="../05_genomic_context/01_overexpressed/02_graphs/AMP_144119_c3_g1_i2.png" alt="AMP_144119_c3_g1_i2.genomic_context" style="zoom:33%;"/>
+<img src="../07_heatmaps_boxplots/01_overexpressed/abundance/AMP_144119_c3_g1_i2.svg" alt="AMP_144119_c3_g1_i2" style="zoom:33%;"/><img src="../07_heatmaps_boxplots/01_overexpressed/log10/AMP_144119_c3_g1_i2_log10.svg" alt="AMP_144119_c3_g1_i2" style="zoom:33%;"/><img src="../05_genomic_context/01_overexpressed/02_graphs/AMP_144119_c3_g1_i2.png" alt="AMP_144119_c3_g1_i2.genomic_context" style="zoom:100%;"/>
 
 #### AMP_142823_c1_g1_i2.p2
 | Transcript                  | Best-hit                           | AMP                      | Secuence                                                     |
