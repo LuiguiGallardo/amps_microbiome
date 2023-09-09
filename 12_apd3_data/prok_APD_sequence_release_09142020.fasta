@@ -1,0 +1,622 @@
+>00028|Tricyclic peptide RP 71955 (a class 1 lasso peptide, 2S=S; lactam; XXJ; UCSB1a; bacteriocins; Gram-positive bacteria, prokaryotes, ZZHb)
+CLGIGSCNDFAGCGYAVVCFW
+>00035|Plantaricin A (PlnA, bacteriocin/pheromone, Gram-positive bacteria, prokaryotes; Other truncated forms: PlnA 23-mer;  PlnA 22-mer)
+KSSAYSLQMGATAIKQVKKLFKKWGW
+>00145|Carnobacteriocin B2 (Cbn B2, class 2a bacteriocin, Gram-positive bacteria, prokaryotes; 1S=S, UCSS1a, JJsn)
+VNYGNGVSCSKTKCSVNWGQAFQERYTAGINSFVSGVASGAGSIGRRP
+>00199|Leucocin A (LeuA, leucocin A-UAL187, leucocin A-QU15, leucocin BTa11a, and leucocin B-KM432Bz, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+KYYGNGVHCTKSGCSVNWGEAFSAGVHRLANGGNGFW
+>00204|Nisin Z  (lantibiotic,  type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT5; XXW3; UCSS1b; Variants: Nisin ZP)
+ITSISLCTPGCKTGALMGCNMKTATCNCSIHVSK
+>00205|Nisin A  (NisaplinTM, ChrisinTM, food additive E234; lantibiotic,  type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT5; XXW3; UCSS1b; ZZS; BBW; BBMm; JJsn; Variants: nisin AP)
+ITSISLCTPGCKTGALMGCNMKTATCHCSIHVSK
+>00206|Subtilin (lantibiotic, class 1 bacteriocin,Gram-positive bacteria, prokaryotes; XXT5; XXW3;  UCSS1b; BBW)
+WKSESLCTPGCVTGALQTCFLQTLTCNCKISK
+>00207|Pep5  (Lantibiotic,  type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT3;  UCSS1b; XXW3)
+TAGPAIRASVKQCQKTLKATRLFTVSCKGKNGCK
+>00480|Microcin J25 (MccJ25, formerly microcin 25, Mcc25; Gly-rich;  lactam; a class 2 lasso peptide; class 1 microcins, bacteriocins, Gram-negative bacteria, prokaryotes; XXJ; UCSB1a; BBpol; revisited)
+GGAGHVPEYFVGIGTPISFYG
+>00499|Gramicidin A (gA, Trp-rich; Val-rich; Leu-rich; Gram-positive bacteria, prokaryotes; nonribosomally synthesized peptide antibiotic; UCLL2; ZZHb; ZZS; XXD5; BBMm)
+VGALAVVVWLWLWLW
+>00529|Ericin S (lantibiotic,  type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT5;  UCSS1b; XXW2)
+WKSESVCTPGCVTGVLQTCFLQTITCNCHISK
+>00530|Ericin A  (Lantibiotic,  type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT5;  UCSS1b; XXW1)
+VLSKSLCTPGCITGPLQTCYLCFPTFAKC
+>00590|Siamycin II (BMY-29303,  lactam;  a class 1 lasso peptide, 2S=S; XXJ; UCSB1a; bacteriocins, Gram-positive bacteria, prokaryotes; ZZHb)
+CLGIGSCNDFAGCGYAIVCFW
+>00594|Lactococcin 972 (Lcn972, homodimer; bacteriocin, Gram-positive bacteria, prokaryotes; BBW)
+EGTWQHGYGVSSAYSNYHHGSKTHSATVVNNNTGRQGKDTQRAGVWAKATVGRNLTEKASFYYNFW
+>00631|Mundticin ATO6 (class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWSK
+>00632|Piscicolin 126 / Piscicocin Via (PiscV1a, Pisc126, PisA, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+KYYGNGVSCNKNGCTVDWSKAIGIIGNNAAANLTTGGAAGWNKG
+>00633|Sakacin P/ Sakacin 674 (SakP, pediocin-like class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+KYYGNGVHCGKHSCTVDWGTAIGNIGNNAAANWATGGNAGWNK
+>00634|Pediocin PA-1/ AcH (PedPA1, Pediocin CP2; class 2a bacteriocin, Gram-positive bacteria, prokaryotes; 2S=S, UCSS1a; Products: fermented ALTA 2341®; freeze-dried culture CHOOZIT™ FLAV 43) 				
+KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGNHKC
+>00635|Mesentericin Y105 (MesY105, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+KYYGNGVHCTKSGCSVNWGEAASAGIHRLANGGNGFW
+>00636|Carnobacteriocin BM1 (Cbn BM1, PiscV1b, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAGMGH
+>00637|Curvacin A / sakacin A (CurA, SakA, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+ARSYGNGVYCNNKKCWVNRGEATQSIIGGMISGWASGLAGM
+>00673|Streptin 1 (lantibiotic,  type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT;  UCSS1b; streptin 2)
+VGSRYLCTPGSCWKLVCFTTTVK
+>00674|Planosporicin (Lantibiotic 97518; type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT5; XXW2;  UCSS1b; revisited)
+ITSVSWCTPGCTSEGGGSGCSHCC
+>00726|Acidocin LCHV (bacteriocin, bacteria, prokaryotes; UCLL1a)
+NVGVLNPPPLV
+>00766|Gassericin A (GaaA; XXC, UCBB1a; reutericin 6, class 2c circular bacteriocin, Gram-positive bacteria, prokaryotes; revisited)
+IYWIADQFGIHLATGTARKLLDAMASGASLGTAFAAILGVTLPAWALAAAGALGATAA
+>00767|Circularin A (CirA; XXC, UCBB1a; class 2c circular bacteriocin, Gram-positive bacteria, prokaryotes)
+VAGALGVQTAAATTIVNVILNAGTLVTVLGIIASIASGGAGTLMTIGWATFKATVQKLAKQSMARAIAY
+>00768|Closticin 574 (class 2c circular bacteriocin, Gram-positive bacteria, prokaryotes; XXC; UCBB1b; ?1S=S)
+PNWTKIGKCAGSIAWAIGSGLFGGAKLIKIKKYIAELGGLQKAAKLLVGATTWEEKLHAGGYALINLAAELTGVAGIQANCF
+>00807|Enterocin E-760 (bacteriocin, Gram-positive bacteria, prokaryotes)
+NRWYCNSAAGGVGGAAGCVLAGYVGEAKENIAGEVRKGWGMAGGFTHNKACKSFPGSGWASG
+>00841|Enterocin A (EntA, bacteriocin N15; class 2a bacteriocin, i.e. pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+TTHSGKYYGNGVYCTKNKCTVDWAKATTCIAGMSIGGFLGGAIPGKC
+>00842|Divercin V41 (DvnV41, class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes. DvnRV41 is the recombinant form)
+TKYYGNGVYCNSKKCWVDWGQASGCIGQTVVGGWLGGAIPGKC
+>00843|Divergicin M35 (class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+TKYYGNGVYCNSKKCWVDWGTAQGCIDVVIGQLGGGIPGKGKC
+>00844|Coagulin (class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KYYGNGVTCGKHSCSVDWGKATTCIINNGAMAWATGGHQGTHKC
+>00845|Listeriocin 743A (class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KSYGNGVHCNKKKCWVDWGSAISTIGNNSAANWATGGAAGWKS
+>00846|Mundticin KS (enterocin CRL35, mundticin QU2, class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KYYGNGVSCNKKGCSVDWGKAIGIIGNNSAANLATGGAAGWKS
+>00847|Sakacin 5X (Sak5X, class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KYYGNGLSCNKSGCSVDWSKAISIIGNNAVANLTTGGAAGWKS
+>00848|Leucocin C (class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KNYGNGVHCTKKGCSVDWGYAWANIANNSVMNGLTGGNAGWHN
+>00849|Lactococcin MMFII (class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+TSYGNGVHCNKSKCWIDVSELETYKAGTVSNPKDILW
+>00850|Sakacin G (SakG, class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KYYGNGVSCNSHGCSVNWGQAWTCGVNHLANGGHGVC
+>00851|Plantaricin 423 (class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KYYGNGVTCGKHSCSVNWGQAFSCSVSHLANFGHGKC
+>00852|Plantaricin C19 (class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+KYYGNGLSCSKKGCTVNWGQAFSCGVNRVATAGHHKC
+>00853|Enterocin P (EntP, class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+ATRSYGNGVYCNNSKCWVNWGEAKENIAGIVISGWASGLAGMGH
+>00854|Bacteriocin 31 (Bac 31, Bac31, class 2a bacteriocin, pediocin-like peptide, Gram-positive bacteria, prokaryotes)
+ATYYGNGLYCNKQKCWVDWNKASREIGKIIVNGWVQHGPWAPR
+>00865|lactococcin B (LcnB, bacteriocin, Gram-positive bacteria, prokaryotes)
+SLQYVMSAGPYTWYKDTRTGKTLCKQTIDTASYTFGVMAEGWGKTFH
+>00923|Carnobacteriocin B1 (Cbn B1, XXO, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+AISYGNGVYCNKEKCWVNKAENKQAITGIVIGGWASSLAGMGH
+>00927|Butyrivibriocin AR10 (BviA; XXC; UCBB1a; class 2c bacteriocin, Gram-positive bacteria, prokaryotes)
+IYFIADKMGIQLAPAWYQDIVNWVSAGGTLTTGFAIIVGVTVPAWIAEAAAAFGIASA
+>00928|Subtilosin A (SboA; XXC; sactipeptide; class 2c bacteriocin, 3S=CA; UCBB1c; Gram-positive bacteria, prokaryotes; ZZS)
+NKGCATCSIGAACLVDGPIPDFEIAGATGLFGLWG
+>00929|Enterocin AS-48 (AS48, class 2c bacteriocin, Gram-positive bacteria, prokaryotes; XXC; UCBB1a; BBBh2o; Natural variants: enterocin 4, bacteriocin 21, bacteriocin-21, Bac-21; enterococcin EFS2)
+MAKEFGIPAAVAGTVINVVEAGGWVTTIVSILTAVGSGGLSLLAAAGRESIKAYLKKEIKKKGKRAVIAW
+>00930|Plantaricin ASM1 (PASM1, Plantaricin A1; Plantaricin A-1; bacteriocin; Gram-positive bacteria, prokaryotes)
+KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGVKHSSGGGGSYHC
+>00931|Uberolysin (UblA; XXC, class 2c circular bacteriocin; UCBB1a; Gram-positive bacteria, prokaryotes)
+LAGYTGIASGTAKKVVDAIDKGAAAFVIISIISTVISAGALGAVSASADFIILTVKNYISRNLKAQAVIW
+>00932|Acidocin B (XXC, class 2c circular bacteriocin; UCBB1a; Gram-positive bacteria, prokaryotes)
+IYWIADQFGIHLATGTARKLLDAVASGASLGTAFAAILGVTLPAWALAAAGALGATAA
+>00995|Carnocin UI49 (lantibiotic, class 1 bacteriocins; Gram-positive bacteria, prokaryotes;  UCSS1b; BWQ)
+GSEIQPR
+>00996|Lichenin (bacteriocin; Gram-positive bacteria, prokaryotes)
+ISLEICAIFHDN
+>00997|Nisin Q (lantibiotic,  type 1, class 1 bacteriocins; Gram-positive bacteria, prokaryotes; XXT;  UCSS1b; XXW3)
+ITSISLCTPGCKTGVLMGCNLKTATCNCSVHVSK
+>00998|Lactococcin Z (LcnZ, class 2d bacteriocins, Gram-positive bacteria, prokaryotes)
+ALQFIQNTASGALYYNTKTHKYQYQQTSGAMGAAINVFNQQGINW
+>01000|Variacin (lantibiotic, type 2, class 1 bacteriocins; Gram-positive bacteria, prokaryotes;  UCSS1b; XXT)
+GSGVIPTISHECHMNSFQFVFTCCS
+>01001|Mutacin II (lantibiotic, mutacin H-29B, J-T8, type 2, class 1 bacteriocins; Gram-positive bacteria, prokaryotes;  UCSS1b; XXT3)
+NRWWQGVVPTVSYECRMNSWQHVFTCC
+>01002| Mutacin 1140 (Mutacin III; MU1140-S; lantibiotic, class 1 bacteriocins; Gram-positive bacteria, prokaryotes; XXT; UCSS1b; BBW)
+KSWSLCTPGCARTGSFNSYCC
+>01003|Mutacin, or Mutacin B-Ny266 (lantibiotic, class 1 bacteriocins; Gram-positive bacteria, prokaryotes; UCSS1b; XXT)
+FKSWSFCTPGCAKTGSFNSYCC
+>01004|Thuricin S (Thuricin-S, class 2d bacteriocins; Gram-positive bacteria, prokaryotes, BWQ)
+DWTAWSALVAAACSVELL
+>01131|Aureocin A53 (AucA, class 2 bacteriocin; Gram-positive bacteria, prokaryotes; XXI; BBMm)
+MSWLNFLKYIAKYGKKAVSAAWKYKGKVLEWLNVGPTLEWVWQKLKKIAGL
+>01137|Siamycin I (MS-271; BMY 29304;  lactam; a class 1 lasso peptide, 2S=S; XXJ; UCSB1a; bacteriocins, Gram-positive bacteria, prokaryotes, ZZHb)
+CLGVGSCNDFAGCGYAVVCFW
+>01138|NP-06 (FR901724, siamycin, XXJ; 2S=S,  lactam; UCSB1a; bacteriocin; Gram-positive bacteria, prokaryotes, ZZHb)
+CLGVGSCNDFAGCGYAIVCFW
+>01151|Lactococcin G-a (LcnG; chain a, two-chain class 2b bacteriocin, UCLL2; Gram-positive bacteria, prokaryotes. For chain b, see info; BBrcp)
+GTWDDIGQGIGRVAYWVGKALGNLSDVNQASRINRKKKH
+>01152|Lactococcin Q (two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes, chain a. For chain b, see Info; UCLL2)
+SIWGDIGQGVGKAAYWVGKAMGNMSDVNQASRINRKKKH
+>01154|LCI (bacteriocin; Gram-positive bacteria, prokaryotes; LCI22-47)
+AIKLVQSPNGNFAASFVLDGTKWIFKSKYYDSSKGYWVGIYEVWDRK
+>01155|Enterocin 1071 (Ent1071A, two-chain class 2b bacteriocin, UCLL2; Gram-positive bacteria, prokaryotes; chain B is Enterocin 1071B or Ent1071B, see info; BBrcp))
+ESVFSKIGNAVGPAAYWILKGLGNMSDVNQADRINRKKH
+>01156|Plantaricin S (PlnS; chain a, two-chain class 2b bacteriocins; UCLL2; Gram-positive bacteria, prokaryotes)
+NKLAYNMGHYAGKATIFGLAAWALLA
+>01165|AFP1 (BBS, UCSS1a; 1S=S, bacteriocin; Gram-positive bacteria, prokaryotes; JJsn)
+MINRTDCNENSYLEIHNNEGRDTLCFANAGTMPVAIYGVNWVESGNNVVTLQFQRNLSDPRLETITLQKWGSWNPGHIHEILSIRIY
+>01167|Plantaricin NC8 (PLNC8, two-chain class 2b bacteriocin, UCLL2, Gram-positive bacteria, prokaryotes; More AMPs? Plantaricin J51)
+LTTKLWSSWGYYLGKKARWNLKHPYVQF
+>01168|Carnocyclin A (CclA; a class 2c circular bacteriocins;  Lactic acid bacteria; Gram-positive bacteria, prokaryotes; UCBB1a; XXC)
+LVAYGIAQGTAEKVVSLINAGLTVGSIISILGGVTVGLSGVFTAVKAAIAKQGIKKAIQL
+>01169|Lactacin F (LafX, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For LafA, see Info; UCLL2)
+NRWGDTVLSAASGAGTGIKACKSFGPWGMAICGVGGAAIGGYFGYTHN
+>01170|Brochocin C (BrcC, chain BrcA = NKR-5-3A, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For BrcB, see Info; UCLL2)
+YSSKDCLKDIGKGIGAGTVAGAAGGGLAAGLGAIPGAFVGAHFGVIGGSAACIGGLLGN
+>01171|Thermophilin 13 (chain a ThmA, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain B ThmB, see Info; UCLL2)
+YSGKDCLKDMGGYALAGAGSGALWGAPAGGVGALPGAFVGAHVGAIAGGFACMGGMIGNKFN
+>01172|ABP-118 (chain a: Abp118alpha, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b: Abp118beta, see Info; UCLL2)
+KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL
+>01173|Salivaricin P (chain a: Sln1; two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b: Sln2, see Info; UCLL2)
+KRGPNCVGNFLGGLFAGAAAGVPLGPAGIVGGANLGMVGGALTCL
+>01174|Mutacin IV (chain a: NlmA, two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b:NLmB, see Info; UCLL2)
+KVSGGEAVAAIGICATASAAIGGLAGATLVTPYCVGTWGLIRSH
+>01175|Lactocin 705 (chain a: Lac705alpha; two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. For chain b: Lac705beta, see Info; UCLL2)
+GMSGYIQGIPDFLKGYLHGISAANKHKKGRLGY
+>01176|Cytolysin (CylLS, a two-chain lantibiotic, type 2, class 1 bacteriocins; Gram-positive bacteria, prokaryotes; XXW5; XXT5;  Chain B: CylLL; UCSS2b; JJsn)
+TTPACFTIGLGVGALFSAKFC
+>01177|Plantaricin EF (PlnEF; chain a: PlnE,  two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. Chain b: PlnF; UCLL2)
+FNRGGYNFGKSVRHVVDAIGSVAGILKSIR
+>01178|Plantaricin JK (PlnJK; chain a: PlnJ; VIHNN; two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes. Chain b: PlnK; UCLL2)
+GAWKNFWSSLRKGFYDGEAGRAIRR
+>01179|Enterocin SE-K4 (class 2a bacteriocins; Gram-positive bacteria, prokaryotes)
+NGVYCNKQKCWVDWSRARSEIIDRGVKAYVNGFTKVLGGIGGR
+>01180|Acidocin J1132 (two-chain class 2b bacteriocins; Gram-positive bacteria, prokaryotes; UCLL2)
+NPKVAHCASQIGRSTAWGAVSGA
+>01181|Curvaticin L442 (class 2a bacteriocins; Gram-positive bacteria, prokaryotes)
+AYPGNGVHCGKYSCTVDKQTAIGNIGNNAA
+>01182|Bacteriocin 32 (Bac 32, class 2a bacteriocins; Gram-positive bacteria, prokaryotes)
+FTPSVSFSQNGGVVEAAAQRGYIYKKYPKGAKVPNKVKMLVNIRGKQTMRTCYLMSWTASSRTAKYYYYI
+>01183|Bacteriocin 43 (Bac 43,  bacteriocins; Gram-positive bacteria, prokaryotes)
+ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR
+>01184|Bacteriocin T8 (Bac T8, class 2a bacteriocins; Gram-positive bacteria, prokaryotes)
+ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR
+>01185|Enterocin B (EntB, bacteriocins;  Gram-positive bacteria, prokaryotes)
+ENDHRMPNNLNRPNNLSKGGAKCGAAIAGGLFGIPKGPLAWAAGLANVYSKCN
+>01186|Acidocin A (class 2 bacteriocins;  Gram-positive bacteria, prokaryotes)
+KTYYGTNGVHCTKKSLWGKVRLKNVIPGTLCRKQSLPIKQDLKILLGWATGAFGKTFH
+>01187|Enterocin Q (EntQ, XXF; class 2d bacteriocins; Gram-positive bacteria, prokaryotes)
+MNFLKNGIAKWMTGAELQAYKKKYGCLPWEKISC
+>01188|Enterocin EJ97 (EntEJ97, class 2d bacteriocins; leaderless, i.e. no signal peptide, Gram-positive bacteria, prokaryotes; BBrcp)
+MLAKIKAMIKKFPNPYTLAAKLTTYEINWYKQQYGRYPWERPVA
+>01189|Enterocin RJ-11 (EntRJ-11, class 2d bacteriocins; leaderless, i.e. no signal sequence, Gram-positive bacteria, prokaryotes)
+APAGLVAKFGRPIVKKYYKQIMQFIGEGSAINKIIPWIARMWRT
+>01190|Enterocin L50 (old name: pediocin L50, EntL50A, Ent62-6A; a two-chain class 2b bacteriocin, UCLL2; Gram-positive bacteria, prokaryotes. The sequence of EntL50B/Ent62-6B is provided in Info; XXI)
+MGAIAKLVAKFGWPIVKKYYKQIMQFIGEGWAINKIIEWIKKHI
+>01191|MR10A (Enterocin 7A; Ent7A; XXI; class 2d bacteriocin, Gram-positive bacteria, prokaryotes)
+MGAIAKLVAKFGWPIVKKYYKQIMQFIGEGWAINKIIDWIKKHI
+>01192|Halocin S8 (HalS8, microhalocin, archaeocins, archaea, prokaryotes; 2S=S; UCSS1a)
+SDCNINSNTAADVILCFNQVGSCALCSPTLVGGPVP
+>01193|Halocin C8 (HalC8, microhalocins, archaeocins, archaea, prokaryotes;  5S=S; UCSS1)
+DIDITGCSACKYAAGQVCTIGCSAAGGFICGLLGITIPVAGLSCLGFVEIVCTVADEYSGCGDAVAKEACNRAGLC
+>01194|Lacticin 3147 (LtnA1= chain A1, a two-chain lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes. XXD3; XXT;  UCSS2b; ZZS; BBW; JJsn)
+CSTNTFSLSDYWGNNGAWCTLTHECMAWCK
+>01195|Salivaricin A (SalA, lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes;  UCSS1b; XXT)
+KRGSGWIATITDDCPNSVFVCC
+>01196|Microcin E492 (MccE492, class 2b microcins, the siderophore-mocrocin family; bacteriocin, Gram-negative bacteria, prokaryotes;  BBPP; BBII, XXB; XXG, BBBh2o; Variants: u-Mcc492)
+GETDPNTQLLNDLGNNMAWGAALGAPGGLGSAALGAAGGALQTVGQGLIDHGPVNVFIPVLIGPSWNGSGSGYNSATSSSGSGS
+>01197|Hiracin JM79 (HirJM79, a Sec-dependent class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPRR
+>01198|Thermophilin 9 (BlpDst, four-chain class 2b bacteriocin, Gram-positive bacteria, prokaryotes. beta-chains: BlpUst, BlpEst, BapFst)
+LSCDEGMLAVGGLGAVGGPWGAAVGVLVGAALYCF
+>01199|Penocin A (PenA, class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+KYYGNGVHCGKKTCYVDWGQATASIGKIIVNGWTQHGPWAHR
+>01200|Salivaricin B (SalB, lantibotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT3)
+GGGVIQTISHECRMNSWQFLFTCCS
+>01201|Lacticin 481 (lantibiotic, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT3;  UCSS1b; BBMm)
+KGGSGVIHTISHECNMNSWQFVFTCCS
+>01202|Bacteriocin J46 (BacJ46, lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes,  UCSS1b; XXT)
+KGGSGVIHTISHEVIYNSWNFVFTCCS
+>01203|Nukacin ISK-1 (NukISK-1, Nukacin A, Nukacin 3299, OLD simulancin 3299, lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes, XXT;  UCSS1b; BBW; Warnericin RB4?)
+KKKSGVIPTVSHDCHMNSFQFVFTCCS
+>01204|Streptococcin A-FF22 (SA-FF22; LANTIBIOTIC, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes;  UCSS1b; XXT)
+GKNGVFKTISHECHLNTWAFLATCCS
+>01205|Lactocin S (XXD3, lantibiotic, type 2,  UCSS1b; class 1 bacteriocin, Gram-positive bacteria, prokaryotes; BBW)
+STPVLASVAVSMELLPTASVLYSDVAGCFKYSAKHHC
+>01206|Mersacidin (type-B lantibiotics, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes;  UCSS1b; XXT; BBW)
+CTFTLPGGGGVCTLTSECIC
+>01224|Gramicidin B (Trp-rich; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes; UCLL2)
+VGALAVVVWLFLWLW
+>01225|Gramicidin C (Trp-rich; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes; UCLL2)
+VGALAVVVWLYLWLW
+>01226|Microcin C7 (MccC7, Microcin C/MccC, microcin C51/MccC51, MccC7/C51; class 1 microcins, bacteriocins, Gram-negative bacteria, prokaryotes. Others: MccA; XXamp; BBPe, WXS)
+MRTGNAD
+>01227|Microcin B17 (MccB17, Gly-rich, class 1 microcins, bacteriocins, Gram-negative bacteria, prokaryotes; BBren)
+VGIGGGGGGGGGGSCGGQGGGCGGCSNGCSGGNGGSGGSGSHI
+>01228|Microcin V (MccV, (old name)  Colicin V, ColV; class 2a microcins, bacteriocins, Gram-negative bacteria, prokaryotes, BBMm)
+ASGRDIAMAIGTLSGQFVAGGIGAAAGGVAGGAIYDYASTHKPNPAMSPSGLGGTIKQKPEGIPSEAWNYAAGRLCNWSPNNLSDVCL
+>01229|Microcin L (MccL, class 2a microcins, bacteriocins, Gram-negative bacteria, prokaryotes, BBMm)
+GDVNWVDVGKTVATNGAGVIGGAFGAGLCGPVCAGAFAVGSSAAVAALYDAAGNSNSAKQKPEGLPPEAWNYAEGRMCNWSPNNLSDVCL
+>01230|Microcin M (MccM, class 2b microcins,the siderophore-microcin family, bacteriocins, Gram-negative bacteria, prokaryotes; BBPP, BBII, XXB)
+DGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS
+>01231|Microcin H47 (MccH47, class 2b microcins, bacteriocins, the siderophore-microcin family, Gram-negative bacteria, prokaryotes, BBPP; BBII; XXB)
+GGAPATSANAAGAAAIVGALAGIPGGPLGVVVGAVSAGLTTGIGSTVGSGSASSSAGGGS
+>01232|Microcin I47 (MccI47, class 2b microcins, bacteriocins, Gram-negative bacteria, prokaryotes; XXB)
+MNLNGLPASTNVIDLRGKDMGTYIDANGACWAPDTPSIIMYPGGSGPSYSMSSSTSSANSGS
+>01283|Pep27 (bacteriocin; Gram-positive bacteria, prokaryotes; Derivatives)
+MRKEFHNVLSSGQLLADKRPARDYNRK
+>01285|Microcin 24 (Mcc24, microcin N; OLD name: colicin 24, class 2a microcins, bacteriocin; Revisited; Gram-negative bacteria, prokaryotes, BBMm)
+GDPLADPNSQIVRQIMSNAAWGAAFGARGGLGGMAVGAAGGVTQTVLQGAAAHMPVNVPIPKVPMGPSWNGSKG
+>01329|BTL (bacteriocin; Gram-positive bacteria, prokaryotes, BWQ)
+KQQLATEAESAGPIL
+>01464|AdDLP (A. dehalogenans defensin-like peptide, bacteriocin; Gram-negative bacteria, prokaryotes, ZZP)
+VNPSYRLDPESRPQCEAHCGQLGMRLGAIVIMGTATGCVCEPKEAATPESR
+>01493|Paenibacillin (lantibiotic, class 1 bacteriocin, M152-P4; XXE; XXT;  UCSS1b; Gram-positive bacteria, prokaryotes)
+ASIIKTTIKVSKAVCKTLTCICTGSCSNCK
+>01495|Epidermin (staphylococcin 1580; lantibiotic,  type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT4; XXW1;  UCSS1b; BBW)
+IASKFICTPGCAKTGSFNSYCC
+>01511|Lichenicidin (type B lantibiotic, BliA1, class 1 bacteriocin, CHAIN A1; Gram-positive bacteria, prokaryotes;  UCSS1b; XXT; JJsn)
+TITLSTCAILSKPLGNNGYLCTVTKECMPSSCN
+>01569|Enterocin X (two-chain class 2b bacteriocin, Gram-positive bacteria, prokaryotes; UCLL2)
+SNDSLWYGVGQEMGKQANCITNHPVKHMIIPGYCSKILG
+>01570|Thuricin CD (sactipeptide; lantibiotic, Trn-alpha and Trn-beta, two-chain class 2b bacteriocin, 3S=CA; UCSB1c; XXJ; Gram-positive bacteria, prokaryotes)
+GNAACVIGCIGSCVISEGIGSLVGTAFTLG
+>01593|Duramycin (PA48009; Leucopeptin; Lantibiotic, type B, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT;  UCSS1b; XXK; revisited)
+CKQSCSFGPFTFVCDGNTK
+>01594|Duramycin B (Lantibiotic, type B, class 1 bacteriocin, Gram-positive bacteria, prokaryotes: XXT;  UCSS1b; XXK)
+CRQSCSFGPLTFVCDGNTK
+>01595|Duramycin C (Lantibiotic,  type B, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT;  UCSS1b; XXK)
+CANSCSYGPLTWSCDGNTK
+>01596|Cinnamycin (Ro 09-0198; class 1 Lantibiotic, type 2, type B, bacteriocin; Gram-positive bacteria, prokaryotes;  UCSS1b; XXT)
+CRQSCSFGPFTFVCDGNTK
+>01600|PAMP (the protease-activated antimicrobial peptide, bacteriocin; Gram-positive bacteria, prokaryotes)
+RARAPHKAWYNCMTDAGISGAIAGAVAGCAATIEIGCVEGAIAGIGPSGIASMIAALWTCRSKY
+>01603|Michiganin A (lantibiotic, type 2, type B, class 1 bacteriocin, Gram-positive bacteria, prokaryotes;  UCSS1b; XXT)
+SSSGWLCTLTIECGTIICACR
+>01604|Ipomicin (bacteriocin, Gram-positive bacteria, prokaryotes)
+DAPGHPGKHYLQVNVPSDVRTIGVAGGGVQQCFRVTPGAWNDTRALVSNGAQVEVWGYTVADCANRTTANQKYYDKAAAPSDSSTYFWFTLKNLRV
+>01605|Actagardine (old names: gardimycin, metabolite B; lantibiotic, type 2, type B, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT;  UCSS1b; XXO; BBW; revisited)
+SSGWVCTLTIECGTVICAC
+>01606|Sublancin 168 (S-linked glycopeptide, glycocins;  class 4 bacteriocin, Gram-positive bacteria, prokaryotes; XXT; XXGs; 2S=S; revisited)
+GLGKAQCAALWLQCASGGTIGCGGGAVACQNYRQFCR
+>01607|Bovicin HJ50  (lantibiotic, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT2;  UCSS1b; 1S=S; BBW)
+ADRGWIKTLTKDCPNVISSICAGTIITACKNCA
+>01608|Thermophilin 1277 (lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes;  UCSS1b; XXT)
+ADRGWIKTLTKDCPNVISSICAGTIITACKNCA
+>01609|Plantaricin W (plw, a two-chain lantibiotic, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes, XXT;  UCSS2b; 1S=S; JJsn)
+KCKWWNISCDLGNNGHVCTLSHECQVSCN
+>01610|Staphylococcin C55 (a two-chain lantibiotic, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT;  UCSS2b; JJsn)
+CSTNTFSLSDYWGNKGNWCTATHECMSWCK
+>01611|Gallidermin (staphylococcin T, StT, lantibiotic, type A, type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT4; XXW1;  UCSS1b; BBW)
+IASKFLCTPGCAKTGSFNSYCC
+>01612|Epilancin 15X (lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT3; XXW4;  UCSS1b; XXE1)
+SASIVKTTIKASKKLCRGFTLTCGCHFTGKK
+>01615|Epilancin K7 (lantibiotic, class 1 bacteriocin; Gram-positive bacteria, prokaryotes; XXT3,  UCSS1b; XXW4)
+SASVLKTSIKVSKKYCKGVTLTCGCNITGGK
+>01616|Epicidin 280 (lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT3,  UCSS1b; XXW)
+SLGPAIKATRQVCPKATRFVTVSCKKSDCQ
+>01617|Microbisporicin A1 (type AI lantibiotic 107891, NAI-107, class 1 bacteriocin; Gram-positive bacteria, prokaryotes; XXT5, XXW2,  UCSS1b; XXH, XXK; BBW; Variants: microbisporicin A2; NAI-108)
+VTSWSLCTPGCTSPGGGSNCSFCC
+>01618|SmbB (lantibiotic, a two-chain class b bacteriocin, UCSS2b, Gram-positive bacteria, prokaryotes; Another sequence: SmbA)
+GTTVVNSTFSIVLGNKGYICTVTVECMRNCSK
+>01621|Haloduracin (a two-chain lantibiotic, HalA1 and HalA2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT7 (both chains);  XXW3; UCSS2b; 1S=S; JJsn: BBW)
+CAWYNISCRLGNKGAYCTLTVECMPSCN
+>01632|Cypemycin (linaridins, bacteriocin; Gram-positive bacteria, prokaryotes; XXM; XXW4; UCSS1b; Variants: Grisemycin)
+ATPATPTVAQFVIQGSTICLVC
+>01647|Plantazolicin A (pzn; PZN; microcin, bacteriocin B17-like; Gram-positive bacteria, prokaryotes; XXM; BBMm)
+RCTCTTIISSSSTF
+>01651|Garvicin ML (GarML; class 2c circular bacteriocin, lactic acid; Gram-positive bacteria, prokaryotes; XXC, UCBB1a; BBrcp)
+LVATGMAAGVAKTIVNAVSAGMDIATALSLFSGAFTAAGGIMALIKKYAQKKLWKQLIAA
+>01652|Lactocyclicin Q (class 2c circular bacteriocin, Gram-positive bacteria, prokaryotes; UCBB1a; XXC)
+LIDHLGAPRWAVDTILGAIAVGNLASWVLALVPGPGWAVKAGLATAAAIVKHQGKAAAAAW
+>01712|Entianin (named based on the author name; subtilin-like  lantibiotic, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT5; XXW3;  UCSS1b; Derivative: N-terminal succinylated-antianin; XXE-4
+WKSESVCTPGCVTGLLQTCFLQTITCNCKISK
+>01724|Capistruin ( lactam;  a class 2 lasso peptide; class 1 microcin, bacteriocins; Gram-negative bacteria, prokaryotes; XXJ; UCSB1a; BBpol)
+GTPGFQTPDARVISRFGFN
+>01728|Lariatin A ( lactam;  a class 2 lasso peptide; bacteriocins, acid-fast Gram-positive bacteria, prokaryotes; XXJ; UCSB1a)
+GSQLVYREWVGHSNVIKP
+>01729|Lariatin B ( lactam;  a class 2 lasso peptide; bacteriocins, acid-fast Gram-positive bacteria, prokaryotes; XXJ; UCSB1a;)
+GSQLVYREWVGHSNVIKGPP
+>01761|Glycocin F (GccF, OLD name: plantaricin KW30; a S-linked glycopeptide; class 4 bacteriocin, Gram-positive bacteria, prokaryotes; XXGs)
+KPAWCWYTLAMCGAGYDSGTCDYMYSHCFGIKHHSSGSSSYHC
+>01767|Leucocyclicin Q (class 2c circular bacteriocin, Gram-positive bacteria, prokaryotes; UCBB1a; XXC)
+LVNQLGISKSLANTILGAIAVGNLASWVLALVPGPGWATKAALATAETIVKHEGKAAAIAW
+>01955|Garvieacin Q (Garvicin Q; GarQ, class 2d bacteriocin, Gram-positive bacteria, lactic acid bacteria, prokaryotes; BBrcp)
+EYHLMNGANGYLTRVNGKTVYRVTKDPVSAVFGVISNCWGSAGAGFGPQH
+>01963|Laterosporulin (LS, class 2 bacteriocin; Gram-positive bacteria, prokaryotes; 3S=S; UCSS1a)
+ACQCPDAISGWTHTDYQCHGLENKMYRHVYAICMNGTQVYCRTEWGSSC
+>01969|GP-19 (bacteriocin; Gram-negative bacteria, prokaryotes)
+GPVGLLSSPGSLPPVGGAP
+>01970|EP-20 (bacteriocin; Gram-negative bacteria, prokaryotes)
+EGPVGLADPDGPASAPLGAP
+>01971|Geobacillin I (lantibiotics, class 1 bacteriocin; Gram-positive bacteria, prokaryotes; XXT7;  UCSS1b; XXW2)
+VTSKSLCTPGCITGVLMCLTQNSCVSCNSCIRC
+>01972|Geobacillin II (lantibiotics, bacteriocin;  UCSS1b; Gram-positive bacteria, prokaryotes)
+STIVCVSLRICNWSLRFCPSFKVRCPM
+>01993|Bacteriocin LS2 (class 2d bacteriocins; Gram-positive bacteria, prokaryotes)
+TNWKKIGKCYAGTLGSAVLGFGAMGPVGYWAGAGVGYASFC
+>01994|Patellamide (Patellamide D; cyanobactins;  bacteriocin, cyanobacteria; prokaryotes; thiazole,  UCBB1a; XXC)
+ISVCITVC
+>01995|Blp1 (class 2b two-chain bacteriocins; UCLL2, Gram-positive bacteria, prokaryotes)
+ECELAKVDGGYTPKNCAMAVGGGMLSGAIRGGMSGTVFGVGTGNLAGAFAGAHIGLVAGGLACIGGYLGSH
+>01996|Trichamide (cyanobactins;  bacteriocin, cyanobacteria, prokaryotes; XXC, UCBB1a)
+EDGLHPRLCSC
+>01997|Enterocin NKR-5-3D (bacteriocin, Gram-positive bacteria, prokaryotes. Other not sequenced:  NKR-5-3C )
+TPGGIDFISGGPHVAQDVLNAIKNFFK
+>02014|Microcin S (MccS, class 2a microcin, bacteriocin, Gram-negative bacteria, prokaryotes)
+GNANSNYEGGGSRSRNTGARNSLGRNAPTHIYSDPSTVKCANAVFSGMVGGAIKGGPVGMTRGTIGGAVIGQCLSGGGNGNGGGNRAGSSNCSGSNVGGTCSR
+>02015|Microcin PDI (MccPDI, class 2a microcin, bacteriocin, Gram-negative bacteria, prokaryotes)
+NANSNFEGGPRNDRSSGARNSLGRNAPTHIYSDPSTVKCANAVFSGMIGGAIKGGPIGMARGTIGGAVVGQCLSDHGSGNGSGNRGSSSSCSGNNVGGTCNR
+>02028|m2163 (LSEI_2163, class 2d bacteriocin, Gram-positive bacteria, prokaryotes)
+KRKCPKTPFDNTPGAWFAHLILGC
+>02029|m2386 (LSEI_2386, class 2d bacteriocins, Gram-positive bacteria, prokaryotes)
+DSIRDVSPTFNKIRRWFDGLFK
+>02052|Sclerosin (lipopeptide; bacteriocin, Gram-negative bacteria, prokaryotes; XXL; XXW5)
+TPALAVVTTVLPAAAVTTAKSV
+>02053|Astexin-1 (class 2 lasso, bacteriocin, Gram-negative bacteria, prokaryotes)
+GLSQGVEPDIGQTYFEESRINQD
+>02074|Enterocin AS-48RJ (class 2c circular bacteriocin, Gram-positive bacteria, prokaryotes; XXC, UCBB1a)
+MAKEFGIPAAVAGTVINVVVAGGWVTTIVSILTAVGSGGLSLLAAAGRESIKAYLKKEIKKKGKRAVIAW
+>02104|Warnericin RK (bacteriocin; hemolysins; Gram-positive bacteria, prokaryotes; BBMm)
+MQFITDLIKKAVDFFKGLFGNK
+>02105|delta-lysin I (bacteriocins; hemolysins; Gram-positive bacteria, prokaryotes)
+MAADIISTIGDLVKLIINTVKKFQK
+>02117|Paenicidin A (Lantibiotic; class 1 bacteriocins; Gram-positive bacteria, prokaryotes;  UCSS1b; XXT6)
+VLSIVACSSGCGSGKTAASCVETCGNRCFTNVGSLC
+>02130|Antiviral lectin scytovirin (SVN; UCSS1a; 5S=S, bacteria, prokaryotes; revisited; BBS)
+GSGPTYCWNEANNPGGPNRCSNNKQCDGARTCSSSGFCQGTSRKPDPGPKGPTYCWDEAKNPGGPNRCSNSKQCDGARTCSSSGFCQGTAGHAAA
+>02131|Cyanovirin-N (CVN,CV-N; lectin: UCSS1a;2S=S,  bacteria, prokaryotes; BBS)
+LGKFSQTCYNSAIQGSVLTSTCERTNGGYNTSSIDLNSVIENVDGSLKWQPSNFIETCRNTQLAGSSELAAECKTRAQQFVSTKINLDDHIANIDGTLKYE
+>02132|Microcystis viridis lectin (MVL; bacteria, prokaryotes; BBS)
+MASYKVNIPAGPLWSNAEAQQVGPKIAAAHQGNFTGQWTTVVESAMSVVEVELQVENTGIHEFKTDVLAGPLWSNDEAQKLGPQIAASYGAEFTGQWRTIVEGVMSVIQIKYTF
+>02143|Pln149 (Plantaricin149, Plantaricin-149; bacteriocin; Gram-positive bacteria, prokaryotes. BBMm; Derivatives: Pln149a)
+YSLQMGATAIKQVKKLFKKKGG
+>02164|NAI-802 (lantibiotic, bacteriocin,  UCSS1b; Gram-positive bacteria, prokaryotes)
+ASSGWVCTLTIECGTVICACR
+>02165|BacCH91 (lantibiotic, bacteriocin,  UCSS1b; Gram-positive bacteria, prokaryotes)
+ITSFIGCTPGCGKTGSFNSFCC
+>02189|Fusaricidin A (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes)
+TVVTNA
+>02190|Fusaricidin B (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes)
+TVVTQA
+>02191|Fusaricidin C (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides;nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes)
+TVYTNA
+>02192|Fusaricidin D (lactone; XXD; XXL; XXJ; UCSB1b; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria, prokaryotes)
+TVYTQA
+>02193|Peptide AN5-1 (bacteriocin, Gram-positive bacteria, prokaryotes; BBMm; BBN)
+YSKSLPLSVLNP
+>02194|NRWC (name not yet found; bacteriocin, Gram-positive bacteria, prokaryotes)
+NRWCFAGDD
+>02201|PE1 (lactone; lipopeptides; nonribosomally synthesized peptide antibiotic; Gram-positive bacteria; prokaryotes; XXD; XXJ; XXL; UCSB1b; also PE2)
+KIKFLKVLT
+>02203|Natural form A21978C1 (XXL; XXD3; XXM; lactone, XXJ; UCSB1b; Gram-positive bacteria, prokaryotes; BBII, BBW; derivatives: Daptomycin, cubicin, LY146032; LY 146032; lipopeptides)
+WNDTGKDADGSEY
+>02204|Colistin (Polymyxin E1 and  E2; lactam, XXD; XXL; XXJ; UCSB1a;  lipopeptides; nonribosomally synthesized peptide antibiotic; bacteria; BBL; BBMm, prokaryotes)
+KTKKKLLKKT
+>02220|Subtilosin A1 (SboA1; XXC; 3S=CA, UCSB1c, sactipeptide; lantibiotic, class 2c bacteriocin, Gram-positive bacteria, prokaryotes)
+NKGCAICSIGAACLVDGPIPDFEIAGATGLFGLWG
+>02221|Macedovicin (lantibiotic; bacteriocin,  UCSS1b; Gram-positive bacteria, prokaryotes)
+ASSGWVCTLTIECGTVICACR
+>02242|Subtilomycin (lantibiotic, bacteriocin, Gram-positive bacteria; prokaryotes; XXT5; XXW3;  UCSS1b; XXO)
+TWATIGKTIVQSVKKCRTFTCGCSLGSCSNCN
+>02243|Gramicidin S (Gramicidin Soviet, GS; nonribosomally synthesized peptide antibiotic; bacteria; prokaryotes; XXC; XXD2; UCBB1a; BBMm; JJsn)
+VKLFPVKLFP
+>02246|Enterocin RM6 (a variant of AS-48, class 2c circular bacteriocin, Gram-positive bacteria; prokaryotes; XXC, UCBB1a)
+MAKEFGIPAAVAGTVLNVVEAGGWVTTIVSILTAVGSGGLSLLAAAGRESIKAYLKKEIKKKGKRAVIAW
+>02247|Lacticin Q (LnqQ, class 2d bacteriocin, Gram-positive bacteria; prokaryotes; XXI)
+MAGFLKVVQLLAKYGSKAVQWAWANKGKILDWLNAGQAIDWVVSKIKQILGIK
+>02248|LsbA (class 2 bacteriocin, Gram-positive bacteria, prokaryotes)
+FKKKKRNIGTFVFFAIALFCTVMFAYLLLTNQYVPIDYNVPRYA
+>02249|Teixobactin (nonribosomally synthesized peptide antibiotic, Gram-negative bacteria, prokaryotes, lactone, XXJ, XXD4; XXM; UCSB1b; BBW) 
+FISQIISTARI
+>02250|LsbB (class 2d bacteriocin, Gram-positive bacteria; prokaryotes; XXF; BBrcp)
+MKTILRFVAGYDIASHKKKTGGYPWERGKA
+>02251|Mutacin BHT-B (class 2d bacteriocin, Gram-positive bacteria; prokaryotes; XXI. More AMPs? Mutacin BHA-A, seq?)
+MWGRILAFVAKYGTKAVQWAWKNKWFLLSLGEAVFDYIRSIWGG
+>02252|BHT-A1 (class 2 two-component bacteriocin, Gram-positive bacteria;  prokaryotes; another chain: BHT-A2)
+IGTTVVNSTFSIVLGNKGYICTVTVECMRNCQ
+>02253|Enterocin 7B (MR10B, Ent7B; class 2d bacteriocin, Gram-positive bacteria, prokaryotes; XXI)
+MGAIAKLVAKFGWPFIKKFYKQIMQFIGQGWTIDQIEKWLKRH
+>02254|CmmAMP-I (C. michiganensis subsp. michiganensis AMP-I, bacteriocin, Gram-positive bacteria, prokaryotes)
+ATISSPDAVAAAAYTPYFEIYYGPNCASASRVYTGVNRGEAWINDTFNNTETGTAGYGQKIRNNAASIRTWNVQSVNIKGNDGTYIAFSSQGACVPLDSRFGNRRNNNIGWQTVPLGGFSN
+>02308|Salivaricin 9 (lantibiotic; bacteriocin,  UCSS1b; Gram-positive bacteria, prokaryotes; BBMm)
+GNGVVLTLTHECNLATWTKKLKCC
+>02320|Bacteriocin OR-7 (class 2a bacteriocins, Gram-positive bacteria; prokaryotes)
+KTYYGTNGVHCTKNSLWGKVRLKNMKYDQNTTYMGRLQDILLGWATGAFGKTFH
+>02321|Bacteriocin L-1077 (class 2a bacteriocins, Gram-positive bacteria; prokaryotes)
+TNYGNGVGVPDAIMAGIIKLIFIFNIRQGYNFGKKAT
+>02323|Bactofencin A (bacteriocins, Gram-positive bacteria; prokaryotes)
+KRKKHRCRVYNNGMPTGMYRWC
+>02324|Plantaricin 163 (bacteriocins, Gram-positive bacteria; prokaryotes)
+VFHAYSARGNYYGNCPANWPSCRNNYKSAGGK
+>02333|Champacyclin (bacteria; prokaryotes. XXC; XXD; UCBB1a)
+KIIFLIAI
+>02336|Fengycin B2 (lipopeptides; lactone; bacteriocins; bacteria; prokaryotes; XXJ; XXL; UCSB1b)
+EKYTEVPEYV
+>02346|BacFL31 (Pro-rich; bacteriocin, Gram-positive bacteria, prokaryotes; XXK; BWQ)
+GLEESPGHPGQPGPPGPPGAPGP
+>02347|Paenibacterin (lipopeptides; bacteriocin, Gram-positive bacteria, prokaryotes; XXL; lactone, XXJ; UCSB1b; BBL; BBMm)
+KVTKSVKSIPVKI
+>02348|Cerecidin A1 (lantibiotic; bacteriocin, UCSS1b; Gram-positive bacteria, prokaryotes; XXT2; XXW)
+TTPLCVGVIIGLTTSIKICK
+>02349|Cerecidin A7 (lantibiotic, bacteriocin,  UCSS1b; Gram-positive bacteria, prokaryotes; XXT2; XXW2)
+TTPLCVGVIIGITASIKICK
+>02359|BsaA2 (Bacteriocin of S. aureus A2; staphylococcin Au-26;  lantibiotics, Gram-positive bacteria, prokaryotes;  UCSS1b; XXT4; XXW3)
+ITSHSLCTPGCAKTGSFNSFCC
+>02360|PepG1 long (Gram-positive bacteria, prokaryotes)
+MVALLKSLERRRLMITISTMLQFGLFLIALIGLVIKLIELSNKK
+>02361|PepG1 short  (Gram-positive bacteria, prokaryotes)
+MITISTMLQFGLFLIALIGLVIKLIELSNKK
+>02370|AN5-2 (bacteriocins, Gram-positive bacteria, prokaryotes)
+FCKSLPLPLSVK
+>02372|Baceridin (bacteriocins, Gram-positive bacteria, prokaryotes; XXC; XXD3, UCBB1a)
+WAIVLL
+>02376|Lassomycin (Gram-positive bacteria, prokaryotes; XXJ;  lactam;  UCSB1a)
+GLRRLFADQLVGRRNI
+>02378|Gageostatin A (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryotes; XXD; XXL)
+ELLVDLL
+>02379|Gageostatin B (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryotes; XXD; XXL)
+ELLVDLL
+>02380|Gageostatin C (nonribosomally synthesized peptide antibiotic; lipopeptides; marine bacteria, prokaryotes; XXD; XXL)
+ELLVDLL
+>02394|Thurincin H  (sactipeptide; bacteriocins, Gram-positive bacteria, prokaryotes; 4S=CA; UCSB1c) 
+DWTCWSCLVCAACSVELLNLVTAATGASTAS
+>02395|Bac-GM100  (bacteriocins, Gram-positive bacteria, prokaryotes) 
+DWTFANWSCLVCDDCSVNLTV
+>02396|Amylocyclicin  (bacteriocins, Gram-positive bacteria, prokaryotes; XXC; UCBB1a) 
+LASTLGISTAAAKKAIDIIDAASTIASIISLIGIVTGAGAISYAIVATAKTMIKKYGKKYAAAW
+>02397|Sonorensin  (bacteriocins, Gram-positive bacteria, prokaryotes)
+CWSCMGHSCWSCMGHSCWSCAGHSCWSCMGHSCWSCMGHSCWSCAGHCCGSCWHGGM
+>02398|Perfrin (bacteriocins, Gram-positive bacteria, prokaryotes)
+YPYNSTSNVKRIPVSVHFTASQCREIASRGASISEWTTWTSLIAGFGKGTAFLGALTALYGYGVSKNLSVFLTAANRGTGLTISYTYVIPPYTNIGSFENTRISYY
+>02399|Sil (bacteriocins, Gram-positive bacteria, prokaryotes)
+ESISVAGGTWNYGYGVGQAYSHYKHDYNNHGAKVVNSNNGVKDYKNAGPGVWAKASIGTVWDPATFYYNPTGFYSN
+>02402|Garvicin A (GarA; class 2d bacteriocin, lactic acid; Gram-positive bacteria, prokaryotes; BBrcp)
+IGGALGNALNGLGTWANMMNGGGFVNQWQVYANKGKINQYRPY
+>02408|Microbisporicin A2 (type AI lantibiotic 107891, NAI-107, class 1 bacteriocin;  UCSS1b; Gram-positive bacteria, prokaryotes; XXT5, XXW2, XXH, XXK; BBW)
+VTSWSLCTPGCTSPGGGSNCSFCC
+>02410|Tolworthcin 524 (bacteriocins, Gram-positive bacteria, prokaryotes; BWQ)
+DWTCWSCLVCAACS
+>02418|Plantaricin ZJ008 (bacteriocins, Gram-positive bacteria, prokaryotes; BWQ)
+QWGGG
+>02429|Plantaricin ZJ5 (PZJ5, bacteriocin; Gram-positive bacteria, prokaryotes)
+KTKQQFLIKAQTQLFKVFGYTL
+>02431|RLID 12.1 (Gram-positive bacteria, prokaryotes; BWQ)
+TPPQS
+>02432| LMW peptide ( low molecular weight peptide; bacteriocin, Gram-positive bacteria, prokaryotes; 1S=S)
+APVPFSCTRGCLTHLV
+>02433|Carnolysin (two-component lantibiotic, bacteriocin,  UCSS2b; Lactic acid; Gram-positive bacteria, prokaryotes; XTT6; XXW5; XXD6)
+GDINGEFTTSPACVYSVMVVSKASSAKCAAGASAVSGAILSAIRC
+>02441|S. amritsarensis lipopeptide (nonribosomally synthesized peptide antibiotic, bacteria, prokaryotes; XXL)
+ATQSHQ
+>02450|Ala-6-fenycin (BLIS P34, lactone, lipopeptide, XXL; XXJ; UCSB1b; nonribosomally synthesized peptide antibiotic, bacteria, prokaryotes; Various lipidated forms)
+EKYTEAPEYI
+>02520|Enterocin O16 (EntV; bacteriocins; Gram-positive bacteria, prokaryotes)
+LGSCVANKIKDEFFAMISISAIVKAAQKKAWKELAVTVLRFAKANGLKTNAIIVAGQLALWAVQCGLS
+>02524|PseA (Pseudomycoicidin; bacteriocins; lantibiotics; Gram-positive bacteria, prokaryotes; UCSS1b;  XXT4; 1S=S)
+GDCGGTCTWTKDCSICPSWSCWSWSC
+>02525|Labyrinthopeptin A2 (LabyA2; bacteriocins; lantibiotics; Gram-positive bacteria, prokaryotes; UCSS1b; XXT2; XXV2;  1S=S)
+SDWSLWECCSTGSLFACC
+>02526|Labyrinthopeptin A1 (LabyA1; bacteriocins; lantibiotics; Gram-positive bacteria, prokaryotes; UCSS1b; XXT2; XXV2;  1S=S)
+SNASVWECCSTGSWVPFTCC
+>02543|Plantaricin KL-1Y (bacteriocins; Gram-positive bacteria, prokaryotes; More AMPs)
+GRADYNFGYGLGRGTRKFFNGIGRWVRKTF
+>02572|Dosotamide A (bacteria, prokaryotes, XXC; UCBB1b; XXD1)
+WLLING
+>02573|Dosotamide B (bacteria, prokaryotes, XXC; UCBB1b; XXD1)
+WLLVNG
+>02574|Dosotamide E (bacteria, prokaryotes, XXC; UCBB1b; XXD1)
+WLVING
+>02575|Dosotamide F (bacteria, prokaryotes, XXC; UCBB1b; XXD1)
+WLIING
+>02576|Wollamide A (bacteria, prokaryotes, XXC; UCBB1b; XXD2)
+WLLINK
+>02577|Wollamide B (bacteria, prokaryotes, XXC; UCBB1b; XXD2)
+WLLVNK
+>02578|Desotamide B (bacteria, prokaryotes, XXC; UCBB1b; XXD1)
+WGNVLL
+>02581|Halocin R1 (HalR1, microhalocin, archaeocins, archaea, prokaryotes)
+LQSNININTAAAVILIFNQVQVGALCAPTPVSGGGPVP
+>02582|Halocin A4 (HalA4, halocin U1; microhalocin, archaeocins, archaea, prokaryotes)
+DIDITGCSACKYAAGQVCTIGCSAAGGFICGLLGITIPVAGLSSLGFFVITCTTSADYYSIPDSNAAK
+>02584|Enterocin NKR-5-3B (bacteriocin; lactic acid bacteria, Gram-positive; prokaryotes; XXC)
+LTANLGISSYAAKKVIDIINTGSAVATIIALVTAVVGGGLITAGIVATAKSLIKKYGAKYAAAW
+>02586|Ticin A1 (lantibiotic; UCSS1b; bacteriocin;  bacteria, Gram-positive; prokaryotes)
+SLGVTLGAAGLYTATQTIATQIWKCGAVLTTSAECSRTGNSC
+>02587|Ticin A3 (lantibiotic; UCSS1b; bacteriocin;  bacteria, Gram-positive; prokaryotes)
+SLGVTLGAAGVYTATQTIATQIWKCGAVLTTSAECSRTGNSC
+>02588|Ticin A4 (lantibiotic;  UCSS1b; bacteriocin;  bacteria, Gram-positive; prokaryotes)
+SLGVTLGAAGVYTATQTIATQIWKCGAVLTTSAECSRTGKSC
+>02646|Suicin 65 (LANTIBIOTIC, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; UCSS1b; 3XXT)
+GKNGVFKTISHECHMNSWQFLFTCCS
+>02649|cOB1 (pheromone, Gram-positive commensal bacteria, prokaryotes; UCLL1a)
+VAVLVLGA
+>02677|Plantaricin JLA-9 (bacteriocins; Gram-positive bacteria, prokaryotes)
+FWQKMSFA
+>02678|Plantaricin Y (bacteriocins; Gram-positive bacteria, prokaryotes; BWQ)
+SSSLLNTAWRKFG
+>02688|Griselimycin (GM, cyclic bacteriocin; lactone; Gram-positive bacteria, prokaryotes; XXM; UCSB1b; Derivatives: MGM, CGM)
+VPSLPLVPLG
+>02693|lacticin LMG (LANTIBIOTIC, type 2, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; UCSS1b; 3XXT, XXW)
+GNGVIKTVSHECKMNTWQFLFTCCS
+>02696|Enterocin LD3 (bacteriocin, Gram-positive bacteria, prokaryotes; BWQ, unclassified)
+QGGQANQ
+>02719|Chaxapeptin ( lactam;  a class 2 lasso peptide; class 1 microcin, bacteriocins; Gram-positive bacteria, prokaryotes; XXJ; UCSB1a)
+GFGSKPLDSFGLNFF
+>02720|Sungsanpin ( lactam;  a class 2 lasso peptide; class 1 microcin, bacteriocins; Gram-positive bacteria, prokaryotes; XXJ; UCSB1a)
+GFGSKPIDSFGLSWL
+>02725|Thusin (ThsA1, ThsA2; a two-chain lantibiotic, type 2, class 1 bacteriocins; UCSS2b; Gram-positive bacteria, prokaryotes)
+INTWNTTATSTSIIISETFGNKGKVCTYTVECVNNCRG
+>02726|Thuricin 4A-4 ( lantibiotic, bacteriocins; Gram-positive bacteria, prokaryotes; UCSS1b; Derivative: Thuricin 4A-4D)
+WTTIVKVSKAVCKTGTCICTTSCSNCK
+>02728|Sviceucin ( lactam;  type 1 lasso peptides; XXJ; 2S=S, UCSB1a; bacteriocin; Gram-positive bacteria, prokaryotes)
+CVWGGDCTDFLGCGTAWICV
+>02741|Formicin (lantibiotic; two-chain bacteriocins; Gram-positive bacteria, prokaryotes; 4XXW, 7XXT, 1S=S; UCSS2b)
+CEWYNISCQLGNKGQWCTLTKECQRSCK
+>02768|Bacteriocin TSU4 (bacteria, prokaryotes; BWQ)
+SMSGFSKPHD
+>02777|Tridecaptin A1 (TriA1; lipopeptides; nonribosomally synthesized peptide antibiotic, Gram-positive bacteria, prokaryotes; 6XXD; UCLL1; BBW; Derivatives: Oct-TriA1; H-TriA1)
+VKGSWSKKFEVIA
+>02778|Paenicidin B (lantibiotic, Gram-positive bacteria, prokaryotes; UCSS1b)
+VLSIVACSSGCGSGKTAASCVATCGNKCFTNVGSLC
+>02779|Tridecaptin B1 (TriB1; lipopeptides; nonribosomally synthesized peptide antibiotic, Gram-positive bacteria, prokaryotes, UCLL1)
+GKGSWSKKIEVIA
+>02799|Sh-lantibiotic-alpha (lantibiotic;  bacteriocin; Gram-positive bacteria, commensal bacteria, prokaryotes; UCSS1b)
+KCSWWNASCHLGNNGKICTVSHECAAGCNL
+>02800|Sh-lantibiotic-beta (lantibiotic;  bacteriocin; Gram-positive bacteria, commensal bacteria, prokaryotes; XXW5; UCSS1b)
+ATPTITTSSATCGGIIVAASAAQCPTLACSSRCGKRKK
+>02801|Warnerin (SWLP1; Staphylococcus warneri lantibiotic peptide 1; lantibiotic; bacteriocin; Gram-positive bacteria,  prokaryotes; XXW4; UCSS1b)
+ASVVKTTIKASKKLCKGATLTCGCNITGKK
+>02829|Bacteriocin RC714 (class 2a bacteriocin, Gram-positive bacteria, prokaryotes)
+ATYYGNGLYCNKEKCWVDWNQAKGEIGKIIVNGWVNHGPWAPR
+>02831|CbnXY (carnobacteriocin XY; two-chain class 2b bacteriocin, Gram-positive bacteria, prokaryotes; JJsn; UCLL2)
+WGWKEVVQNGQTIFSAGQKLGNMVGKIVPLPFG
+>02877|Hominicin (bacteriocins; Gram-positive bacteria, prokaryotes. XXM, XXW)
+ITPATPFTPAIITEITAAVIA
+>02887|p138c (bacteriocins; Gram-positive bacteria, prokaryotes)
+GLEETVYIYGANMAS
+>02895|Natto peptide (bacteria, prokaryotes; BBMm; UCLL1a)
+SMATPHVAGAAALILSKHPTWTNAQVRDRLESTATYLGNSFYYGK
+>02902|Lactolisterin BU (bacteriocins; Gram-positive bacteria, prokaryotes)
+MWGRILGTVAKYGPKAVSWAWQHKWELINMGDLAFRYIQRIWG
+>02905|ASP-1 (anti-staphylococcal peptide; lactone; bacteriocins; Gram-positive bacteria, prokaryotes;  XXJ, UCSB1b)
+FTVATFI
+>02914|Enterocin K1 (EntK1, class 2d bacteriocin, leaderless, Gram-positive bacteria, prokaryotes; BBrcp)
+MKFKFNPTGTIVKKLTQYEIAWFKNKHGYYPWEIPRC
+>02925|Hyicin 4244 (XXC; sactipeptide; 3S=CA; UCSB1c; lantibiotic, class 2c bacteriocin, Gram-positive bacteria, prokaryotes)
+NKGCSACAIGAACLADGPIPDFEVAGITGTFGIAS
+>02926|TP (bacteriocin, bacteria, prokaryotes; BBMm; BBN; UCLL1)
+ASVVNKLTGGVAGLLK
+>02928|Polymyxin B (aerosporin; lactam, XXD; XXL; XXJ; UCSB1a; lipopeptides; nonribosomally synthesized peptide antibiotic; bacteria; BBL; BBMm, prokaryotes; Variants: Polymyxin B, a mixture)
+KTKKKFLKKT
+>02954|Plantaricyclin A (XXC, class 2c circular bacteriocin; UCBB1a; Gram-positive bacteria, prokaryotes)
+IVWIAKQFGVHLTTSLTQKALDLLSAGSSLGTVAAAVLGVTLPAWAVAAAGALGGTAA
+>02955|Ruminococcin A (RumA, lantibiotic, class 2a bacteriocin; Gram-positive bacteria, prokaryotes, UCSS1b)
+GNGVLKTISHECNMNTWQFLFTCC
+>02956|Ruminococcin C5 (RumCsp, RumC5, lantibiotic, class 2a bacteriocin; Gram-positive bacteria, prokaryotes, UCSS1b)
+AGCICSGSVAVANSHNAGPAYCVGYCGNNGAVTRNANANLARTA
+>02957|Ruminococcin C4 (RumCdp, RumC4, lantibiotic, class 2a bacteriocin; Gram-positive bacteria, prokaryotes, UCSS1b)
+AGCVCSGTVAVANSHNAGPAYCVGYCGNNGEVTRNANYNIARRS
+>02978|Plantaricin GZ1-27 (bacteriocins; Gram-positive bacteria, lactic acid; prokaryotes)
+VSGPAGPPGTH
+>02979|Plantaricin DL3 (bacteriocins; Gram-positive bacteria, lactic acid; prokaryotes)
+VGPGAINAGTYLVSRELFER
+>03013|LGH2 (bacteriocins; Gram-positive bacteria, prokaryotes; UCLL1a; BBMm)
+GNPLKLFLPSTWVHFFKFLR
+>03060|Citrocin (Gly-rich; lactam; a class 2 lasso peptide; class 1 microcins, bacteriocins, Gram-negative bacteria, prokaryotes; XXJ; UCSB1a; BBpol)
+GGVGKIIEYFIGGGVGRYG
+>03074|Garvicin B (GarB;  class 2d bacteriocin, lactic acid; Gram-positive bacteria, prokaryotes; BBrcp)
+IGGALGNALAGLGNGLKQWNTTGFSEYNIGGGKVNNGKAPTSIPAYNPYGH
+>03075|Garvicin C (GarC;  class 2d bacteriocin, lactic acid; Gram-positive bacteria, prokaryotes; BBrcp)
+HWIGDVLGAIGGAAHPVNPQKVVDQLNGKPAIKPHSCSPYGTGGTPNSCNW
+>03076|Lactococcin A (LcnA, bacteriocin, Gram-positive bacteria, prokaryotes, UCLL1a)
+KLTFIQSTAAGDLYYNTNTHKYVYQQTQNAFGAAANTIVNGWMGGAAGGFGLHH
+>03088|Subtilin L-Q11 (Class 1 Bacteriocin, Gram-positive bacteria, prokaryotes)
+WKSESVCTPGCVTGILQTCFLQSITCNCRLSK
+>03103|Ruminococcin C1 (RumC1, sactipeptide; lantibiotic, bacteriocins; Gram-positive bacteria, prokaryotes; 4S=CA; UCSB1c)
+WGCVCSGSTAVANSHNAGPAYCVGYCGNNGVVTRNANANVAKTA
+>03132|Capidermicin (class 2d leaderless bacteriocins; Gram-positive bacteria, prokaryotes; XXI; UCLL1a)
+MSKVISALSKYGPKAVNWAKNHKGQIANWLLHGLSIPDIVQNVKNAVGIK
+>03138|Roseocin (a two-chain lantibiotic, type 2, class 1 bacteriocins; Gram-positive bacteria, prokaryotes; UCSS2b)
+TTWACATVTLTVTVCSPTGTLCGSCSMGTRGCC
+>03141|Nisin J (lantibiotic, type 1, class 1 bacteriocin, Gram-positive bacteria, prokaryotes; XXT4; XXW4; UCSS1b)
+ITSKSLCTPGCKTGALQTCFAKTATCHCSGHVHTK
+>03142|Delftibactin-A (Gram-positive bacteria, prokaryotes; nonribosomally synthesized peptide antibiotic; UCLL1, XXK, XXW; BBII)
+SDTGTKSRK
+>03153|Buwchitin (bacteriocins; gut bacteria, prokaryotes)
+MRLSHVCSQSSSKYPAGSCNLMTHDRATSSEHRSASRCDRVIRRFCRSDPASRYWRYPVRGMRHGRCHTDW
+>03162|Pantocin wh-1 (bacteriocins; Gram-negative bacteria, prokaryotes; UCBB)
+VMWCYVFGYGFNCAVW
+>03163|Peptide 5 (a fragment of an  Uncharacterized protein APU46894.1, bacteria, prokaryotes, UCLL1)
+VGAVAFGPVGAVVGGLASGFTGKQT
+>03167|Ubonodin (lasso peptidel; lactam; XXJ; UCSB1a; bacteriocins; Gram-negative bacteria, prokaryotes,)
+GGDGSIAEYFNRPMHIHDWQIMDSGYYG
