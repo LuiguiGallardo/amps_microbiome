@@ -1,0 +1,16 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP022479.1 888003 898454
+CP022479.1	Genbank	gene	888003	888384	.	+	.	ID=gene-CG447_04595;Name=trigger factor;gbkey=Gene;gene=tig;gene_biotype=other;locus_tag=CG447_04595;partial=true;start_range=.,888003
+CP022479.1	Genbank	gene	888389	889639	.	+	.	ID=gene-CG447_04600;Name=(4Fe-4S)-binding protein;gbkey=Gene;gene_biotype=other;locus_tag=CG447_04600
+CP022479.1	Genbank	gene	892048	892350	.	-	.	ID=gene-CG447_04610;Name=stress responsive protein;gbkey=Gene;gene_biotype=other;locus_tag=CG447_04610
+CP022479.1	Genbank	gene	892436	892750	.	-	.	ID=gene-CG447_04615;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=CG447_04615
+CP022479.1	Genbank	gene	894003	894686	.	+	.	ID=gene-CG447_04620;Name=ATP synthase subunit A;gbkey=Gene;gene_biotype=other;locus_tag=CG447_04620
+CP022479.1	Genbank	gene	894724	894948	.	+	.	ID=gene-CG447_04625;Name=atpE ATP synthase CF1 epsilon subunit;gbkey=Gene;gene=atpE;gene_biotype=other;locus_tag=CG447_04625
+CP022479.1	Genbank	gene	894966	895457	.	+	.	ID=gene-CG447_04630;Name=atpF ATP synthase CF0 B subunit;gbkey=Gene;gene=atpF;gene_biotype=other;locus_tag=CG447_04630
+CP022479.1	Genbank	gene	895447	897201	.	+	.	ID=gene-CG447_04635;Name=ATP synthase subunit alpha;gbkey=Gene;gene_biotype=other;locus_tag=CG447_04635
+CP022479.1	Genbank	gene	897188	898066	.	+	.	ID=gene-CG447_04640;Name=atpG ATP synthase F1 complex subunit gamma;gbkey=Gene;gene=atpG;gene_biotype=other;locus_tag=CG447_04640
+CP022479.1	Genbank	gene	898136	898454	.	+	.	ID=gene-CG447_04645;Name=ATPD F-type H+-transporting ATPase subunit delta;end_range=898454,.;gbkey=Gene;gene=atpD;gene_biotype=other;locus_tag=CG447_04645;partial=true
+CP022479.1	Genbank	AMP	893023	893434	.	+	.	ID=AMP;Name=AMP
+###

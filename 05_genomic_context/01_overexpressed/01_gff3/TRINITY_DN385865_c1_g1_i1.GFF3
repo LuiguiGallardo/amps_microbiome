@@ -1,0 +1,18 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP094466.1 808810 819032
+CP094466.1	Genbank	gene	808810	809239	.	-	.	ID=gene-MTP41_03985;Name=atpG ATP synthase F1 complex subunit gamma;gbkey=Gene;gene=atpG;gene_biotype=other;locus_tag=MTP41_03985;partial=true;start_range=.,808810
+CP094466.1	Genbank	gene	809226	810953	.	-	.	ID=gene-MTP41_03990;Name=atpA ATP synthase CF1 alpha subunit;gbkey=Gene;gene=atpA;gene_biotype=other;locus_tag=MTP41_03990
+CP094466.1	Genbank	gene	810937	811434	.	-	.	ID=gene-MTP41_03995;Name=ATP synthase F0 subunit B;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_03995
+CP094466.1	Genbank	gene	811450	811677	.	-	.	ID=gene-MTP41_04000;Name=atpE ATP synthase CF1 epsilon subunit;gbkey=Gene;gene=atpE;gene_biotype=other;locus_tag=MTP41_04000
+CP094466.1	Genbank	gene	811721	812407	.	-	.	ID=gene-MTP41_04005;Name=ATP synthase subunit A ;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_04005
+CP094466.1	Genbank	gene	812910	813374	.	-	.	ID=gene-MTP41_04010;Name=DUF2798 domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_04010
+CP094466.1	Genbank	gene	814538	814855	.	+	.	ID=gene-MTP41_04015;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_04015
+CP094466.1	Genbank	gene	814875	815186	.	+	.	ID=gene-MTP41_04020;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_04020
+CP094466.1	Genbank	gene	815196	815417	.	+	.	ID=gene-MTP41_04025;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_04025
+CP094466.1	Genbank	gene	815491	815793	.	+	.	ID=gene-MTP41_04030;Name=Dabb family protein;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_04030
+CP094466.1	Genbank	gene	816150	818147	.	+	.	ID=gene-MTP41_04035;Name=metG methionine--tRNA ligase;gbkey=Gene;gene=metG;gene_biotype=other;locus_tag=MTP41_04035
+CP094466.1	Genbank	gene	818151	819032	.	+	.	ID=gene-MTP41_04040;Name=DMT family transporter;end_range=819032,.;gbkey=Gene;gene_biotype=other;locus_tag=MTP41_04040;partial=true
+CP094466.1	Genbank	AMP	813820	814022	.	-	.	ID=AMP;Name=AMP
+###

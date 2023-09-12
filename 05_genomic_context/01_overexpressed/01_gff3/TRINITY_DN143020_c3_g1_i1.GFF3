@@ -1,0 +1,23 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK026787.1 14526 24915
+BK026787.1	tpg	gene	14526	15013	.	+	2	ID=cds-DAZ40995.1;Dbxref=NCBI_GP:DAZ40995.1;Note=DAZ40995.1;Name=tail protein;gbkey=gene;inference=protein motif:PF10076.8;partial=true;product=tail protein;protein_id=DAZ40995.1;start_range=.,14526;transl_table=11
+BK026787.1	tpg	gene	14992	15105	.	+	0	ID=cds-DAZ41013.1;Dbxref=NCBI_GP:DAZ41013.1;Note=DAZ41013.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41013.1;transl_table=11
+BK026787.1	tpg	gene	15081	15320	.	+	0	ID=cds-DAZ41014.1;Dbxref=NCBI_GP:DAZ41014.1;Note=DAZ41014.1;Name=Protein translocase subunit SecY;gbkey=gene;inference=protein motif:PDB:5AWW_G;product=Protein translocase subunit SecY%2C Protein%2C membrane protein%2C PROTEIN TRANSPORT-IMMUNE;protein_id=DAZ41014.1;transl_table=11
+BK026787.1	tpg	gene	15434	17593	.	+	0	ID=cds-DAZ40983.1;Dbxref=NCBI_GP:DAZ40983.1;Note=DAZ40983.1;Name=ribonuclease R;gbkey=gene;inference=protein motif:CDD:273947;product=ribonuclease R;protein_id=DAZ40983.1;transl_table=11
+BK026787.1	tpg	gene	17649	18770	.	-	0	ID=cds-DAZ41015.1;Dbxref=NCBI_GP:DAZ41015.1;Note=DAZ41015.1;Name=RDD family;gbkey=gene;inference=protein motif:PFAM:PF06271.12;product=RDD family;protein_id=DAZ41015.1;transl_table=11
+BK026787.1	tpg	gene	18811	18948	.	-	0	ID=cds-DAZ41016.1;Dbxref=NCBI_GP:DAZ41016.1;Note=DAZ41016.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41016.1;transl_table=11
+BK026787.1	tpg	gene	19017	19490	.	+	0	ID=cds-DAZ40984.1;Dbxref=NCBI_GP:DAZ40984.1;Note=DAZ40984.1;Name=SmpB protein;gbkey=gene;inference=protein motif:CDD:334633;product=SmpB protein;protein_id=DAZ40984.1;transl_table=11
+BK026787.1	tpg	gene	19552	19671	.	+	0	ID=cds-DAZ41017.1;Dbxref=NCBI_GP:DAZ41017.1;Note=DAZ41017.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41017.1;transl_table=11
+BK026787.1	tpg	gene	19672	19773	.	-	0	ID=cds-DAZ41018.1;Dbxref=NCBI_GP:DAZ41018.1;Note=DAZ41018.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41018.1;transl_table=11
+BK026787.1	tpg	gene	19798	19938	.	-	0	ID=cds-DAZ41019.1;Dbxref=NCBI_GP:DAZ41019.1;Note=DAZ41019.1;Name=Sulfotransferase 4A1;gbkey=gene;inference=protein motif:PDB:1ZD1_B;product=Sulfotransferase 4A1;protein_id=DAZ41019.1;transl_table=11
+BK026787.1	tpg	gene	19974	21188	.	-	0	ID=cds-DAZ41004.1;Dbxref=NCBI_GP:DAZ41004.1;Note=DAZ41004.1;Name=Integrase;gbkey=gene;inference=protein motif:PDB:1Z19_B;product=Integrase;protein_id=DAZ41004.1;transl_table=11
+BK026787.1	tpg	gene	21226	21438	.	+	0	ID=cds-DAZ41020.1;Dbxref=NCBI_GP:DAZ41020.1;Note=DAZ41020.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41020.1;transl_table=11
+BK026787.1	tpg	gene	21455	21568	.	-	0	ID=cds-DAZ41021.1;Dbxref=NCBI_GP:DAZ41021.1;Note=DAZ41021.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41021.1;transl_table=11
+BK026787.1	tpg	gene	21561	21650	.	-	0	ID=cds-DAZ41022.1;Dbxref=NCBI_GP:DAZ41022.1;Note=DAZ41022.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41022.1;transl_table=11
+BK026787.1	tpg	gene	21691	22920	.	-	0	ID=cds-DAZ41005.1;Dbxref=NCBI_GP:DAZ41005.1;Note=DAZ41005.1;Name=Integrase;gbkey=gene;inference=protein motif:PDB:1Z19_B;product=Integrase;protein_id=DAZ41005.1;transl_table=11
+BK026787.1	tpg	gene	22977	23075	.	-	0	ID=cds-DAZ41023.1;Dbxref=NCBI_GP:DAZ41023.1;Note=DAZ41023.1;Name=No HHsearch hits;gbkey=gene;product=hypothetical protein;protein_id=DAZ41023.1;transl_table=11
+BK026787.1	tpg	gene	23090	24901	.	-	0	ID=cds-DAZ40997.1;Dbxref=NCBI_GP:DAZ40997.1;Note=DAZ40997.1;Name=dsDNA helicase;gbkey=gene;inference=protein motif:PFAM:PF04735.11;product=dsDNA helicase;protein_id=DAZ40997.1;transl_table=11
+BK026787.1	tmp	AMP	19543	19898	.	+	0	ID=AMP;Name=AMP
+###

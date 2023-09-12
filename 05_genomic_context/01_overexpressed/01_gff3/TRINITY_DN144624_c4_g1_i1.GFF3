@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP046176.1 3408231 3418505
+CP046176.1	Genbank	gene	3408231	3408564	.	-	.	ID=gene-GKD17_14630;Name=aspartate ammonia-lyase;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14630;partial=true;start_range=.,3408231
+CP046176.1	Genbank	gene	3408828	3409718	.	-	.	ID=gene-GKD17_14635;Name=DUF2179 domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14635
+CP046176.1	Genbank	gene	3409859	3411736	.	-	.	ID=gene-GKD17_14640;Name=LruC domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14640
+CP046176.1	Genbank	gene	3411855	3412196	.	+	.	ID=gene-GKD17_14645;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14645
+CP046176.1	Genbank	gene	3412240	3413175	.	+	.	ID=gene-GKD17_14650;Name=DDE transposase;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14650
+CP046176.1	Genbank	gene	3413465	3414499	.	-	.	ID=gene-GKD17_14655;Name=GALE UDP-galactose-4-epimerase;gbkey=Gene;gene=galE;gene_biotype=other;locus_tag=GKD17_14655
+CP046176.1	Genbank	gene	3414532	3415428	.	-	.	ID=gene-GKD17_14660;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14660
+CP046176.1	Genbank	gene	3415569	3416171	.	-	.	ID=gene-GKD17_14665;Name=rsxA SoxR [2Fe-2S] reducing system protein RsxA;gbkey=Gene;gene=rsxA;gene_biotype=other;locus_tag=GKD17_14665
+CP046176.1	Genbank	gene	3416190	3416774	.	-	.	ID=gene-GKD17_14670;Name=RnfABCDGE type electron transport complex subunit E;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14670
+CP046176.1	Genbank	gene	3416789	3417580	.	-	.	ID=gene-GKD17_14675;Name=RnfABCDGE type electron transport complex subunit G;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14675
+CP046176.1	Genbank	gene	3417577	3418505	.	-	.	ID=gene-GKD17_14680;Name=RnfABCDGE type electron transport complex subunit D;end_range=3418505,.;gbkey=Gene;gene_biotype=other;locus_tag=GKD17_14680;partial=true
+CP046176.1	Genbank	AMP	3413241	3413453	.	-	.	ID=AMP;Name=AMP
+###

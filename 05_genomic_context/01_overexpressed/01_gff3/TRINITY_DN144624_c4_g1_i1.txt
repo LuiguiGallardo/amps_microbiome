@@ -1,0 +1,30 @@
+Query: TRINITY_DN144624_c4_g1_i1 len=236 path=[214:0-164 356:165-193 385:194-235] [-1, 214, 356, 385, -2] Query ID: lcl|Query_31494 Length: 236
+
+
+>Phocaeicola dorei strain DSM 17855 chromosome, complete genome
+Sequence ID: CP046176.1 Length: 5625488
+Range 1: 3413241 to 3413453
+
+Score:355 bits(192), Expect:2e-93, 
+Identities:208/215(97%),  Gaps:3/215(1%), Strand: Plus/Minus
+
+Query  1        TTTTTAGAAAGACCGATGAACAAAGGACGCTAGTGTGGCGTTTTTATAG-TGCAAATAAC  59
+                |||||||||||||||||||||||||||||||||||||||||||| |||| ||||||||||
+Sbjct  3413453  TTTTTAGAAAGACCGATGAACAAAGGACGCTAGTGTGGCGTTTT-ATAGATGCAAATAAC  3413395
+
+Query  60       CTGAAACCCCTCTTGGATATGTGAATACCTGACCGGTGGTAAGTTATGTTACTCAAAACA  119
+                ||||||||||||||||||||||||||||||||  || |||| ||||||||||||||||||
+Sbjct  3413394  CTGAAACCCCTCTTGGATATGTGAATACCTGATTGGCGGTA-GTTATGTTACTCAAAACA  3413336
+
+Query  120      TAGAGCAGGCTAAAAAATTGCATAGTAGTTTTGTCGTGTTTTATTTTGTGTTTGTGTTGT  179
+                ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  3413335  TAGAGCAGGCTAAAAAATTGCATAGTAGTTTTGTCGTGTTTTATTTTGTGTTTGTGTTGT  3413276
+
+Query  180      GGCTGTTCTCCGACGTGTGTCGGGGGACAGTTTTT  214
+                ||||||||||||||||| |||||||||||||||||
+Sbjct  3413275  GGCTGTTCTCCGACGTGAGTCGGGGGACAGTTTTT  3413241
+
+
+
+
+

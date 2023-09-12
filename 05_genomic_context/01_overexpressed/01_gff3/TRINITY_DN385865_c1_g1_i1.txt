@@ -1,0 +1,30 @@
+Query: TRINITY_DN385865_c1_g1_i1 len=206 path=[1:0-205] [-1, 1, -2] Query ID: lcl|Query_31490 Length: 206
+
+
+>Faecalibacterium sp. I4-3-84 chromosome, complete genome
+Sequence ID: CP094466.1 Length: 3119411
+Range 1: 813820 to 814022
+
+Score:342 bits(185), Expect:1e-89, 
+Identities:197/203(97%),  Gaps:0/203(0%), Strand: Plus/Minus
+
+Query  4       GGGGGTTAAGTTTTTCGACTGGTTGTCGTGTAATCGCATTTTTGATGCTCAAGACTGGCT  63
+               ||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||||||
+Sbjct  814022  GGGGGTTAAGTTTATCGACAGGTTGTCGTGTAATCGCATTTTTGATGCTCAAGACTGGCT  813963
+
+Query  64      CATTTTTGTTGTGTTTTTATACGGGGGAAACATCCCGTCTGTGGTGAGCCTCTATTTTGC  123
+               ||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  813962  CATTTTTGTTGTGTTTTTATACGGGGGAAACATCCCGTCTGTGGTGAGCCTCTGTTTTGC  813903
+
+Query  124     TTCTCAGCGAATCCCGACAGCCTGTCCCTGCTGTGCGGGTTCCATATCGACCATCGGTCT  183
+               |||||||||||||||||||||||||||   ||||||||||||||||||||||||||||||
+Sbjct  813902  TTCTCAGCGAATCCCGACAGCCTGTCCAAACTGTGCGGGTTCCATATCGACCATCGGTCT  813843
+
+Query  184     CGCTCCTTTCTGCTTCAAGTCAG  206
+               |||||||||||||||||||||||
+Sbjct  813842  CGCTCCTTTCTGCTTCAAGTCAG  813820
+
+
+
+
+

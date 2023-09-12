@@ -1,0 +1,15 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP102267.1 1341178 1351348
+CP102267.1	Genbank	gene	1341178	1341737	.	+	.	ID=gene-NQ550_06200;Name=amino acid ABC transporter permease;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06200;partial=true;start_range=.,1341178
+CP102267.1	Genbank	gene	1341718	1342395	.	+	.	ID=gene-NQ550_06205;Name=amino acid ABC transporter permease;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06205
+CP102267.1	Genbank	gene	1342429	1343172	.	+	.	ID=gene-NQ550_06210;Name=amino acid ABC transporter ATP-binding protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06210
+CP102267.1	Genbank	gene	1343465	1344457	.	+	.	ID=gene-NQ550_06215;Name=cysteine ABC transporter substrate-binding protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06215
+CP102267.1	Genbank	gene	1344819	1345646	.	-	.	ID=gene-NQ550_06220;Name=polysaccharide deacetylase family protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_06220
+CP102267.1	Genbank	gene	1346807	1348144	.	+	.	ID=gene-NQ550_06225;Name=Eno Enolase;gbkey=Gene;gene=eno;gene_biotype=other;locus_tag=NQ550_06225
+CP102267.1	Genbank	gene	1348232	1348468	.	+	.	ID=gene-NQ550_06230;Name=Sec translocon subunit SecG;gbkey=Gene;gene=secG;gene_biotype=other;locus_tag=NQ550_06230
+CP102267.1	Genbank	gene	1348588	1350840	.	+	.	ID=gene-NQ550_06235;Name=rnr RNase R;gbkey=Gene;gene=rnr;gene_biotype=other;locus_tag=NQ550_06235
+CP102267.1	Genbank	gene	1350916	1351348	.	+	.	ID=gene-NQ550_06240;Name=smpB SsrA-binding protein;end_range=1351348,.;gbkey=Gene;gene=smpB;gene_biotype=other;locus_tag=NQ550_06240;partial=true
+CP102267.1	Genbank	AMP	1346185	1346335	.	+	.	ID=AMP;Name=AMP
+###

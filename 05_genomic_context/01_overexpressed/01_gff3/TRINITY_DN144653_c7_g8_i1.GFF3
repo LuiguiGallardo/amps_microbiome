@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP102267.1 3958665 3969802
+CP102267.1	Genbank	gene	3958665	3959000	.	-	.	ID=gene-NQ550_18320;Name=atpF ATP synthase CF0 B subunit;gbkey=Gene;gene=atpF;gene_biotype=other;locus_tag=NQ550_18320;partial=true;start_range=.,3958665
+CP102267.1	Genbank	gene	3959119	3959397	.	-	.	ID=gene-NQ550_18325;Name=atpE ATP synthase CF1 epsilon subunit;gbkey=Gene;gene=atpE;gene_biotype=other;locus_tag=NQ550_18325
+CP102267.1	Genbank	gene	3959528	3960286	.	-	.	ID=gene-NQ550_18330;Name=ATP synthase subunit A;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18330
+CP102267.1	Genbank	gene	3960343	3960759	.	-	.	ID=gene-NQ550_18335;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18335
+CP102267.1	Genbank	gene	3960787	3961056	.	-	.	ID=gene-NQ550_18340;Name=AtpZ/AtpI family protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18340
+CP102267.1	Genbank	gene	3961543	3962652	.	-	.	ID=gene-NQ550_18345;Name=substrate-binding domain-containing protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18345
+CP102267.1	Genbank	gene	3962942	3963643	.	-	.	ID=gene-NQ550_18350;Name=RluA family pseudouridine synthase;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18350
+CP102267.1	Genbank	gene	3965041	3967299	.	-	.	ID=gene-NQ550_18355;Name=hydratase;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18355
+CP102267.1	Genbank	gene	3967776	3968048	.	+	.	ID=gene-NQ550_18360;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18360
+CP102267.1	Genbank	gene	3968148	3968744	.	-	.	ID=gene-NQ550_18365;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18365
+CP102267.1	Genbank	gene	3968866	3969802	.	-	.	ID=gene-NQ550_18370;Name=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase;end_range=3969802,.;gbkey=Gene;gene_biotype=other;locus_tag=NQ550_18370;partial=true
+CP102267.1	Genbank	AMP	3963716	3964751	.	+	.	ID=AMP;Name=AMP
+###

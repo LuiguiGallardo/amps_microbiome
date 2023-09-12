@@ -1,0 +1,18 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK038133.1 99 6000
+BK038133.1	tpg	gene	99	310	.	-	0	ID=cds-DAO79110.1;Dbxref=NCBI_GP:DAO79110.1;Note=DAO79110.1;Name=No HHsearch hits;gbkey=CDS;partial=true;product=hypothetical protein;protein_id=DAO79110.1;start_range=.,99;transl_table=11
+BK038133.1	tpg	gene	543	854	.	-	0	ID=cds-DAO79102.1;Dbxref=NCBI_GP:DAO79102.1;Note=DAO79102.1;Name=Phage_holin_6_1;gbkey=CDS;inference=protein motif:PFAM:PF09682.9;product=holin;protein_id=DAO79102.1;transl_table=11
+BK038133.1	tpg	gene	847	1143	.	-	0	ID=cds-DAO79111.1;Dbxref=NCBI_GP:DAO79111.1;Note=DAO79111.1;Name=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAO79111.1;transl_table=11
+BK038133.1	tpg	gene	1147	2655	.	-	0	ID=cds-DAO79086.1;Dbxref=NCBI_GP:DAO79086.1;Note=DAO79086.1;Name=N-acetylmuramoyl-L-alanine amidase;gbkey=CDS;inference=protein motif:CDD:334572;product=N-acetylmuramoyl-L-alanine amidase;protein_id=DAO79086.1;transl_table=11
+BK038133.1	tpg	gene	2671	3201	.	-	0	ID=cds-DAO79112.1;Dbxref=NCBI_GP:DAO79112.1;Note=DAO79112.1;Name=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAO79112.1;transl_table=11
+BK038133.1	tpg	gene	3282	3470	.	-	0	ID=cds-DAO79113.1;Dbxref=NCBI_GP:DAO79113.1;Note=DAO79113.1;Name=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAO79113.1;transl_table=11
+BK038133.1	tpg	gene	3472	3576	.	-	0	ID=cds-DAO79114.1;Dbxref=NCBI_GP:DAO79114.1;Note=DAO79114.1;Name=Histone chaperone Rtt106 N-terminal domain;gbkey=CDS;inference=protein motif:PFAM:PF18215.1;product=Histone chaperone;protein_id=DAO79114.1;transl_table=11
+BK038133.1	tpg	gene	3578	3910	.	-	0	ID=cds-DAO79115.1;Dbxref=NCBI_GP:DAO79115.1;Note=DAO79115.1;Name=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAO79115.1;transl_table=11
+BK038133.1	tpg	gene	3871	5085	.	-	0	ID=cds-DAO79116.1;Dbxref=NCBI_GP:DAO79116.1;Note=DAO79116.1;Name=GROUP II INTRON-ENCODED PROTEIN LTRA/RNA%2C GROUP II INTRONS%2C RIBONUCLEOPROTEIN.8A;gbkey=CDS;inference=protein motif:PDB:5G2X_C;product=GROUP II INTRON-ENCODED PROTEIN LTRA/RNA%2C GROUP II INTRONS%2C RIBONUCLEOPROTEIN.8A;protein_id=DAO79116.1;transl_table=11
+BK038133.1	tpg	gene	5134	5769	.	-	0	ID=cds-DAO79117.1;Dbxref=NCBI_GP:DAO79117.1;Note=DAO79117.1;Name=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAO79117.1;transl_table=11
+BK038133.1	tpg	gene	5778	5894	.	-	0	ID=cds-DAO79118.1;Dbxref=NCBI_GP:DAO79118.1;Note=DAO79118.1;Name=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAO79118.1;transl_table=11
+BK038133.1	tpg	gene	5965	6000	.	+	0	ID=cds-DAO79119.1;Dbxref=NCBI_GP:DAO79119.1;Note=DAO79119.1;Name=No HHsearch hits;end_range=6000,.;gbkey=CDS;partial=true;product=hypothetical protein;protein_id=DAO79119.1;transl_table=11
+BK038133.1	tpg	AMP	116	463	.	+	0	ID=AMP;Name=AMP
+###

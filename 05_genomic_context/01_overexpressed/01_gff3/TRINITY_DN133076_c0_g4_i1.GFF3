@@ -1,0 +1,11 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP121673.1 1132591 1142991
+CP121673.1	Genbank	gene	1136853	1137398	.	+	.	ID=gene-PCS93_05665;Name=SYD P-loop containing nucleoside triphosphate hydrolases superfamily protein;gbkey=Gene;gene=syd;gene_biotype=other;locus_tag=PCS93_05665
+CP121673.1	Genbank	gene	1138019	1138348	.	+	.	ID=gene-PCS93_05670;Name=DUF446 domain-containing protein YqcC ;gbkey=Gene;gene=yqcC;gene_biotype=other;locus_tag=PCS93_05670
+CP121673.1	Genbank	gene	1138348	1139130	.	+	.	ID=gene-PCS93_05675;Name=truC tRNA pseudouridine(65) synthase;gbkey=Gene;gene=truC;gene_biotype=other;locus_tag=PCS93_05675
+CP121673.1	Genbank	gene	1139149	1139598	.	+	.	ID=gene-PCS93_05680;Name=putative flavodoxin YqcA;gbkey=Gene;gene=yqcA;gene_biotype=other;locus_tag=PCS93_05680
+CP121673.1	Genbank	gene	1139690	1139818	.	-	.	ID=gene-PCS93_05685;Name=hypothetical protein;gbkey=Gene;gene_biotype=other;locus_tag=PCS93_05685
+CP121673.1	Genbank	AMP	1137609	1137973	.	+	.	ID=AMP;Name=AMP
+###

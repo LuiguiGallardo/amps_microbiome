@@ -1,0 +1,26 @@
+Query: TRINITY_DN145575_c0_g1_i3 len=144 path=[1:0-64 43:65-65 44:66-113 92:114-114 93:115-143] [-1, 1, 43, 44, 92, 93, -2] Query ID: lcl|Query_31492 Length: 144
+
+
+>MAG: Faecalibacterium prausnitzii isolate KR001_HIC_0004 chromosome, complete genome
+Sequence ID: CP107213.1 Length: 2858485
+Range 1: 2638650 to 2638792
+
+Score:243 bits(131), Expect:1e-59, 
+Identities:139/143(97%),  Gaps:0/143(0%), Strand: Plus/Plus
+
+Query  2        AAACCTGCCGACACGAGGCGGTTGCAAGCCCTCTGTCGGCAGGATGCTTACTTCTTCGGA  61
+                |||||||||||| |||||||||||||||||||| ||||||||||||||||||||||||||
+Sbjct  2638650  AAACCTGCCGACTCGAGGCGGTTGCAAGCCCTCAGTCGGCAGGATGCTTACTTCTTCGGA  2638709
+
+Query  62       GTCATAGCCTCTTGACCTCGATTTCTTCAATTTTCGGTCTGTACCGGACGTTTCATAGAA  121
+                ||||||||||||||||||||||||||||| ||||||||||||||||||||||||||||||
+Sbjct  2638710  GTCATAGCCTCTTGACCTCGATTTCTTCATTTTTCGGTCTGTACCGGACGTTTCATAGAA  2638769
+
+Query  122      GATTCTCCTTTGAAACGTTGAAG  144
+                ||||||||||||||||| |||||
+Sbjct  2638770  GATTCTCCTTTGAAACGGTGAAG  2638792
+
+
+
+
+
