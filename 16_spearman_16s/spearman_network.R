@@ -42,8 +42,9 @@ plot(net.grph,
 #    layout = layoutform,
     edge.width = ifelse(edgew < 0, (edgew*-5),(edgew*5)),
     edge.color=ifelse(edgew < 0,"tomato","cornflowerblue"),
-#    vertex.size = 6,
-#    vertex.label.cex=0.5
+   vertex.size = 50,
+   vertex.shape="crectangle",
+   vertex.label.cex=0.7
 )
 dev.off()
 # Creation of png
@@ -52,7 +53,8 @@ plot(net.grph,
 #    layout = layoutform,
     edge.width = ifelse(edgew < 0, (edgew*-5),(edgew*5)),
     edge.color=ifelse(edgew < 0,"tomato","cornflowerblue"),
-#    vertex.size = 6,
-#    vertex.label.cex=0.5
+   vertex.size = 50,
+   vertex.shape="crectangle",
+   vertex.label.cex=0.7
 )
 dev.off()

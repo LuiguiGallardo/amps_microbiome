@@ -1,10 +1,10 @@
 "Var1"	"Var2"	"value"	"pvalue"
-"k__Bacteria.p__Actinobacteria.c__Coriobacteriia"	"TRINITY_DN144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
-"k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales"	"TRINITY_DN144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
-"k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae"	"TRINITY_DN144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
-"k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Collinsella"	"TRINITY_DN144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
-"k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Collinsella.s__aerofaciens"	"TRINITY_DN144653_c7_g8_i1"	0.828571428571429	0.0415626822157433
-"k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium"	"TRINITY_DN145245_c6_g1_i2"	-0.821428571428571	0.0234488083456914
-"k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii"	"TRINITY_DN145245_c6_g1_i2"	-0.821428571428571	0.0234488083456914
-"k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Phascolarctobacterium"	"TRINITY_DN7230_c1_g2_i2"	0.885714285714286	0.0188454810495626
-"k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Phascolarctobacterium.s__"	"TRINITY_DN7230_c1_g2_i2"	0.885714285714286	0.0188454810495626
+"c_Coriobacteriia"	"AMP_144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
+"o_Coriobacteriales"	"AMP_144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
+"f_Coriobacteriaceae"	"AMP_144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
+"g_Collinsella"	"AMP_144653_c7_g8_i1"	0.892857142857143	0.00680718740893527
+"s_Collinsella aerofaciens"	"AMP_144653_c7_g8_i1"	0.828571428571429	0.0415626822157433
+"g_Faecalibacterium"	"AMP_145245_c6_g1_i2"	-0.821428571428571	0.0234488083456914
+"s_Faecalibacterium prausnitzii"	"AMP_145245_c6_g1_i2"	-0.821428571428571	0.0234488083456914
+"g_Phascolarctobacterium"	"AMP_7230_c1_g2_i2"	0.885714285714286	0.0188454810495626
+"s_Phascolarctobacterium sp."	"AMP_7230_c1_g2_i2"	0.885714285714286	0.0188454810495626
