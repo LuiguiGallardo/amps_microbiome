@@ -1,0 +1,25 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP046424.1 1740957 1761774
+CP046424.1	Protein Homology	gene	1740957	1741731	.	+	2	ID=fimbrillin family protein 1
+CP046424.1	Protein Homology	gene	1741787	1743538	.	+	0	ID=fimbrillin family protein 2
+CP046424.1	Protein Homology	gene	1743671	1744021	.	+	0	ID=hypothetical protein 1
+CP046424.1	Protein Homology	gene	1744028	1745308	.	+	0	ID=DUF1566 domain-containing protein
+CP046424.1	Protein Homology	gene	1745390	1745842	.	+	0	ID=hypothetical protein 2
+CP046424.1	Protein Homology	gene	1745845	1746336	.	+	0	ID=hypothetical protein 3
+CP046424.1	Protein Homology	gene	1746422	1746808	.	+	0	ID=hypothetical protein 4
+CP046424.1	Protein Homology	gene	1746906	1750871	.	-	0	ID=response regulator
+CP046424.1	Protein Homology	gene	1751802	1752515	.	-	0	ID=hypothetical protein
+CP046424.1	Protein Homology	gene	1752632	1753759	.	+	0	ID=helix-turn-helix domain-containing protein
+CP046424.1	Protein Homology	gene	1753960	1755054	.	+	0	ID=DUF3575 domain-containing protein
+CP046424.1	Protein Homology	gene	1755071	1755958	.	+	0	ID=hypothetical protein 5
+CP046424.1	Protein Homology	gene	1756057	1756944	.	+	0	ID=fimbrillin family protein 3
+CP046424.1	Protein Homology	gene	1756979	1758550	.	+	0	ID=fimbrillin family protein 4
+CP046424.1	Protein Homology	gene	1758563	1760269	.	+	0	ID=fimbrillin family protein 5
+CP046424.1	Protein Homology	gene	1760497	1760991	.	+	0	ID=DUF2589 domain-containing protein
+CP046424.1	Protein Homology	gene	1760948	1761259	.	+	0	ID=sigma-54-dependent Fis family transcriptional regulator
+CP046424.1	Protein Homology	gene	1761456	1761774	.	-	1	ID=tyrosine-type recombinase/integrase
+CP046424.1	Protein Homology	AMP	1750994	1751737	.	-	1	ID=AMP_138200_c2_g1_i1
+CP046424.1	Protein Homology	AMP	1751065	1751283	.	-	1	ID=AMP_138200_c2_g1_i1
+###

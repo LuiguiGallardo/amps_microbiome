@@ -1,0 +1,24 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK038133.1 1 10562
+BK038133.1	tpg	gene	1	92	.	-	0	ID=hypothetical protein 1
+BK038133.1	tpg	gene	92	310	.	-	0	ID=hypothetical protein 2
+BK038133.1	tpg	gene	543	854	.	-	0	ID=holin
+BK038133.1	tpg	gene	847	1143	.	-	0	ID=hypothetical protein 3 
+BK038133.1	tpg	gene	1147	2655	.	-	0	ID=N-acetylmuramoyl-L-alanine amidase
+BK038133.1	tpg	gene	2671	3201	.	-	0	ID=hypothetical protein 4
+BK038133.1	tpg	gene	3282	3470	.	-	0	ID=hypothetical protein 5
+BK038133.1	tpg	gene	3472	3576	.	-	0	ID=Histone chaperone
+BK038133.1	tpg	gene	3578	3910	.	-	0	ID=hypothetical protein 6
+BK038133.1	tpg	gene	3871	5085	.	-	0	ID=GROUP II INTRON-ENCODED PROTEIN LTRA/RNA
+BK038133.1	tpg	gene	5134	5769	.	-	0	ID=hypothetical protein 7
+BK038133.1	tpg	gene	5778	5894	.	-	0	ID=hypothetical protein 8
+BK038133.1	tpg	gene	5965	7269	.	+	0	ID=hypothetical protein 9
+BK038133.1	tpg	gene	7348	7773	.	-	0	ID=hypothetical protein 10
+BK038133.1	tpg	gene	7776	9998	.	-	0	ID=hypothetical protein 11
+BK038133.1	tpg	gene	10014	10385	.	-	0	ID=hypothetical protein 12
+BK038133.1	tpg	gene	10398	10562	.	-	0	ID=minor tail protein
+BK038133.1	tpg	AMP	116	463	.	+	0	ID=AMP_138681_c7_g1_i1
+BK038133.1	tpg	AMP	119	220	.	+	0	ID=AMP_138681_c7_g1_i1
+###

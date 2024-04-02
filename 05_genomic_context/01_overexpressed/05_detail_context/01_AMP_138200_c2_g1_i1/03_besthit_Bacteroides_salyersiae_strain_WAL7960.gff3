@@ -1,0 +1,24 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP083675.1 207629 228446
+CP083675.1	Protein Homology	gene	207629	207633	.	+	2	ID=SufE family protein
+CP083675.1	Protein Homology	gene	208047	210209	.	+	0	ID=alpha-galactosidase
+CP083675.1	Protein Homology	gene	211944	212150	.	+	0	ID=hypothetical protein 1
+CP083675.1	Protein Homology	gene	212388	213362	.	+	0	ID=ssDNA-binding domain-containing protein
+CP083675.1	Protein Homology	gene	213578	217543	.	-	0	ID=response regulator
+CP083675.1	Protein Homology	gene	218474	218635	.	-	0	ID=hypothetical protein 2
+CP083675.1	Protein Homology	gene	218646	219095	.	+	0	ID=DNA methylase
+CP083675.1	Protein Homology	gene	219304	220431	.	+	0	ID=AraC family transcriptional regulator
+CP083675.1	Protein Homology	gene	220632	221726	.	+	0	ID=DUF3575 domain-containing protein
+CP083675.1	Protein Homology	gene	221743	222630	.	+	0	ID=hypothetical protein 3
+CP083675.1	Protein Homology	gene	222729	223616	.	+	0	ID=fimbrillin family protein 1
+CP083675.1	Protein Homology	gene	223651	225213	.	+	0	ID=fimbrillin family protein 2
+CP083675.1	Protein Homology	gene	225236	226942	.	+	0	ID=fimbrillin family protein 3
+CP083675.1	Protein Homology	gene	227305	227721	.	+	0	ID=IS66 family insertion sequence element accessory protein TnpB 1
+CP083675.1	Protein Homology	gene	227709	228092	.	+	0	ID=IS66 family insertion sequence element accessory protein TnpB 2
+CP083675.1	Protein Homology	gene	228172	228446	.	+	0	ID=IS66 family transposase
+CP083675.1	Protein Homology	AMP	217666	218409	.	-	0	ID=AMP_138200_c2_g1_i1
+CP083675.1	Protein Homology	AMP	217737	217955	.	-	0	ID=AMP_138200_c2_g1_i1
+###
+454-672(+)

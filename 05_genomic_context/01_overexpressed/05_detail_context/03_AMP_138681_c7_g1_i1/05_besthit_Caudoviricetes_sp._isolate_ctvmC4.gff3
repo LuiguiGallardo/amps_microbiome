@@ -1,0 +1,18 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK025808.1 1 10563
+BK025808.1	tpg	gene	1	311	.	-	0	ID=hypothetical protein 1
+BK025808.1	tpg	gene	463	561	.	+	0	ID=hypothetical protein 2
+BK025808.1	tpg	gene	731	1051	.	-	0	ID=holin
+BK025808.1	tpg	gene	1008	1256	.	-	0	ID=hypothetical protein 3
+BK025808.1	tpg	gene	1319	2254	.	-	0	ID=PGRP protein
+BK025808.1	tpg	gene	2267	2923	.	-	0	ID=hypothetical protein 4
+BK025808.1	tpg	gene	2939	5506	.	-	0	ID=hypothetical protein 5
+BK025808.1	tpg	gene	5520	7073	.	-	0	ID=protein of unknown function DUF859
+BK025808.1	tpg	gene	7073	8659	.	-	0	ID=Minor structural protein
+BK025808.1	tpg	gene	8666	9037	.	-	0	ID=hypothetical protein 6
+BK025808.1	tpg	gene	9047	10563	.	-	2	ID=minor tail protein
+BK025808.1	tpg	AMP	117	462	.	+	2	ID=AMP_138681_c7_g1_i1
+BK025808.1	tpg	AMP	120	221	.	+	2	ID=AMP_138681_c7_g1_i1
+###

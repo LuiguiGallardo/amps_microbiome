@@ -1,0 +1,45 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP097810.1 1378441 1398904
+CP097810.1	Genbank	gene	1378441	1380428	.	+	.	ID=gene-C820_001351;Name=C820_001351;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001351;partial=true;start_range=.,1378441
+CP097810.1	Genbank	CDS	1378441	1380428	.	+	2	ID=cds-USF29931.1;Parent=gene-C820_001351;Dbxref=NCBI_GP:USF29931.1;Name=USF29931.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001351;partial=true;product=hypothetical protein;protein_id=USF29931.1;start_range=.,1378441;transl_table=11
+CP097810.1	Genbank	gene	1380436	1381161	.	+	.	ID=gene-C820_001352;Name=tagA;gbkey=Gene;gene=tagA;gene_biotype=protein_coding;locus_tag=C820_001352
+CP097810.1	Genbank	CDS	1380436	1381161	.	+	0	ID=cds-USF29932.1;Parent=gene-C820_001352;Dbxref=COG:COG1922,NCBI_GP:USF29932.1;Name=USF29932.1;gbkey=CDS;gene=tagA;inference=similar to AA sequence:UniProtKB:P27620;locus_tag=C820_001352;product=N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase;protein_id=USF29932.1;transl_table=11
+CP097810.1	Genbank	gene	1381235	1382089	.	+	.	ID=gene-C820_001353;Name=C820_001353;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001353
+CP097810.1	Genbank	CDS	1381235	1382089	.	+	0	ID=cds-USF29933.1;Parent=gene-C820_001353;Dbxref=NCBI_GP:USF29933.1;Name=USF29933.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001353;product=hypothetical protein;protein_id=USF29933.1;transl_table=11
+CP097810.1	Genbank	gene	1382098	1382475	.	-	.	ID=gene-C820_001354;Name=acpS;gbkey=Gene;gene=acpS;gene_biotype=protein_coding;locus_tag=C820_001354
+CP097810.1	Genbank	CDS	1382098	1382475	.	-	0	ID=cds-USF29934.1;Parent=gene-C820_001354;Dbxref=COG:COG0736,NCBI_GP:USF29934.1;Name=USF29934.1;gbkey=CDS;gene=acpS;inference=similar to AA sequence:UniProtKB:Q9KPB6;locus_tag=C820_001354;product=Holo-[acyl-carrier-protein] synthase;protein_id=USF29934.1;transl_table=11
+CP097810.1	Genbank	gene	1382697	1383143	.	+	.	ID=gene-C820_001355;Name=C820_001355;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001355
+CP097810.1	Genbank	CDS	1382697	1383143	.	+	0	ID=cds-USF29935.1;Parent=gene-C820_001355;Dbxref=NCBI_GP:USF29935.1;Name=USF29935.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001355;product=hypothetical protein;protein_id=USF29935.1;transl_table=11
+CP097810.1	Genbank	gene	1383260	1383700	.	+	.	ID=gene-C820_001356;Name=C820_001356;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001356
+CP097810.1	Genbank	CDS	1383260	1383700	.	+	0	ID=cds-USF29936.1;Parent=gene-C820_001356;Dbxref=NCBI_GP:USF29936.1;Name=USF29936.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001356;product=hypothetical protein;protein_id=USF29936.1;transl_table=11
+CP097810.1	Genbank	gene	1383820	1385055	.	+	.	ID=gene-C820_001357;Name=C820_001357;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001357
+CP097810.1	Genbank	CDS	1383820	1385055	.	+	0	ID=cds-USF29937.1;Parent=gene-C820_001357;Dbxref=NCBI_GP:USF29937.1;Name=USF29937.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001357;product=hypothetical protein;protein_id=USF29937.1;transl_table=11
+CP097810.1	Genbank	gene	1385058	1385960	.	+	.	ID=gene-C820_001358;Name=thrB;gbkey=Gene;gene=thrB;gene_biotype=protein_coding;locus_tag=C820_001358
+CP097810.1	Genbank	CDS	1385058	1385960	.	+	0	ID=cds-USF29938.1;Parent=gene-C820_001358;Dbxref=COG:COG0083,NCBI_GP:USF29938.1;Name=USF29938.1;gbkey=CDS;gene=thrB;inference=similar to AA sequence:UniProtKB:Q8Y4A6;locus_tag=C820_001358;product=Homoserine kinase;protein_id=USF29938.1;transl_table=11
+CP097810.1	Genbank	gene	1385977	1387203	.	+	.	ID=gene-C820_001359;Name=lysC;gbkey=Gene;gene=lysC;gene_biotype=protein_coding;locus_tag=C820_001359
+CP097810.1	Genbank	CDS	1385977	1387203	.	+	0	ID=cds-USF29939.1;Parent=gene-C820_001359;Dbxref=COG:COG0527,NCBI_GP:USF29939.1;Name=USF29939.1;gbkey=CDS;gene=lysC;inference=similar to AA sequence:UniProtKB:P26512;locus_tag=C820_001359;product=Aspartokinase;protein_id=USF29939.1;transl_table=11
+CP097810.1	Genbank	gene	1387274	1388068	.	+	.	ID=gene-C820_001360;Name=C820_001360;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001360
+CP097810.1	Genbank	CDS	1387274	1388068	.	+	0	ID=cds-USF29940.1;Parent=gene-C820_001360;Dbxref=NCBI_GP:USF29940.1;Name=USF29940.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001360;product=hypothetical protein;protein_id=USF29940.1;transl_table=11
+CP097810.1	Genbank	gene	1388847	1389320	.	-	.	ID=gene-C820_001361;Name=smpB;gbkey=Gene;gene=smpB;gene_biotype=protein_coding;locus_tag=C820_001361
+CP097810.1	Genbank	CDS	1388847	1389320	.	-	0	ID=cds-USF29941.1;Parent=gene-C820_001361;Dbxref=COG:COG0691,NCBI_GP:USF29941.1;Name=USF29941.1;gbkey=CDS;gene=smpB;inference=similar to AA sequence:UniProtKB:O32230;locus_tag=C820_001361;product=SsrA-binding protein;protein_id=USF29941.1;transl_table=11
+CP097810.1	Genbank	gene	1389501	1389728	.	-	.	ID=gene-C820_001362;Name=C820_001362;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001362
+CP097810.1	Genbank	CDS	1389501	1389728	.	-	0	ID=cds-USF29942.1;Parent=gene-C820_001362;Dbxref=NCBI_GP:USF29942.1;Name=USF29942.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001362;product=hypothetical protein;protein_id=USF29942.1;transl_table=11
+CP097810.1	Genbank	gene	1390120	1390464	.	+	.	ID=gene-C820_001363;Name=rplS;gbkey=Gene;gene=rplS;gene_biotype=protein_coding;locus_tag=C820_001363
+CP097810.1	Genbank	CDS	1390120	1390464	.	+	0	ID=cds-USF29943.1;Parent=gene-C820_001363;Dbxref=COG:COG0335,NCBI_GP:USF29943.1;Name=USF29943.1;gbkey=CDS;gene=rplS;inference=similar to AA sequence:UniProtKB:O31742;locus_tag=C820_001363;product=50S ribosomal protein L19;protein_id=USF29943.1;transl_table=11
+CP097810.1	Genbank	gene	1390544	1391110	.	+	.	ID=gene-C820_001364;Name=sipS_2;gbkey=Gene;gene=sipS_2;gene_biotype=protein_coding;locus_tag=C820_001364
+CP097810.1	Genbank	CDS	1390544	1391110	.	+	0	ID=cds-USF29944.1;Parent=gene-C820_001364;Dbxref=COG:COG0681,NCBI_GP:USF29944.1;Name=USF29944.1;gbkey=CDS;gene=sipS_2;inference=similar to AA sequence:UniProtKB:P28628;locus_tag=C820_001364;product=Signal peptidase I S;protein_id=USF29944.1;transl_table=11
+CP097810.1	Genbank	gene	1391118	1391984	.	+	.	ID=gene-C820_001365;Name=rbgA;gbkey=Gene;gene=rbgA;gene_biotype=protein_coding;locus_tag=C820_001365
+CP097810.1	Genbank	CDS	1391118	1391984	.	+	0	ID=cds-USF29945.1;Parent=gene-C820_001365;Dbxref=COG:COG1161,NCBI_GP:USF29945.1;Name=USF29945.1;gbkey=CDS;gene=rbgA;inference=similar to AA sequence:UniProtKB:O31743;locus_tag=C820_001365;product=Ribosome biogenesis GTPase A;protein_id=USF29945.1;transl_table=11
+CP097810.1	Genbank	gene	1392156	1393220	.	+	.	ID=gene-C820_001366;Name=C820_001366;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001366
+CP097810.1	Genbank	CDS	1392156	1393220	.	+	0	ID=cds-USF29946.1;Parent=gene-C820_001366;Dbxref=NCBI_GP:USF29946.1;Name=USF29946.1;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001366;product=hypothetical protein;protein_id=USF29946.1;transl_table=11
+CP097810.1	Genbank	gene	1393378	1395360	.	+	.	ID=gene-C820_001367;Name=fbp;gbkey=Gene;gene=fbp;gene_biotype=protein_coding;locus_tag=C820_001367
+CP097810.1	Genbank	CDS	1393378	1395360	.	+	0	ID=cds-USF29947.1;Parent=gene-C820_001367;Dbxref=COG:COG3855,NCBI_GP:USF29947.1;Name=USF29947.1;gbkey=CDS;gene=fbp;inference=similar to AA sequence:UniProtKB:Q45597;locus_tag=C820_001367;product=Fructose-1%2C6-bisphosphatase class 3;protein_id=USF29947.1;transl_table=11
+CP097810.1	Genbank	gene	1395525	1397900	.	+	.	ID=gene-C820_001368;Name=mutS2;gbkey=Gene;gene=mutS2;gene_biotype=protein_coding;locus_tag=C820_001368
+CP097810.1	Genbank	CDS	1395525	1397900	.	+	0	ID=cds-USF29948.1;Parent=gene-C820_001368;Dbxref=NCBI_GP:USF29948.1;Name=USF29948.1;gbkey=CDS;gene=mutS2;inference=similar to AA sequence:UniProtKB:P65496;locus_tag=C820_001368;product=Endonuclease MutS2;protein_id=USF29948.1;transl_table=11
+CP097810.1	Genbank	gene	1397943	1398641	.	+	.	ID=gene-C820_001369;Name=walR_2;gbkey=Gene;gene=walR_2;gene_biotype=protein_coding;locus_tag=C820_001369
+CP097810.1	Genbank	CDS	1397943	1398641	.	+	0	ID=cds-USF29949.1;Parent=gene-C820_001369;Dbxref=COG:COG0745,NCBI_GP:USF29949.1;Name=USF29949.1;gbkey=CDS;gene=walR_2;inference=similar to AA sequence:UniProtKB:P37478;locus_tag=C820_001369;product=Transcriptional regulatory protein WalR;protein_id=USF29949.1;transl_table=11
+CP097810.1	Genbank	gene	1398682	1398904	.	-	.	ID=gene-C820_001370;Name=C820_001370;end_range=1398904,.;gbkey=Gene;gene_biotype=protein_coding;locus_tag=C820_001370;partial=true
+CP097810.1	Genbank	CDS	1398682	1398904	.	-	1	ID=cds-USF29950.1;Parent=gene-C820_001370;Dbxref=NCBI_GP:USF29950.1;Name=USF29950.1;end_range=1398904,.;gbkey=CDS;inference=ab initio prediction:Prodigal:002006;locus_tag=C820_001370;partial=true;product=hypothetical protein;protein_id=USF29950.1;transl_table=11
+###

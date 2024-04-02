@@ -1,0 +1,29 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP107216.1 2203894 2224357
+CP107216.1	Protein Homology	gene	2203894	2204217	.	-	0	ID=sporulation protein YqfD
+CP107216.1	Protein Homology	gene	2204228	2204527	.	-	0	ID=YabP/YqfC family sporulation protein
+CP107216.1	GeneMarkS-2+	gene	2204603	2205571	.	+	0	ID=sporulation protein
+CP107216.1	Protein Homology	gene	2205574	2206158	.	-	0	ID=chromate transporter
+CP107216.1	Protein Homology	gene	2206155	2206709	.	-	0	ID=chromate transporter
+CP107216.1	Protein Homology	gene	2206776	2208506	.	-	0	ID=phospho-sugar mutase
+CP107216.1	GeneMarkS-2+	gene	2208499	2208834	.	-	0	ID=hypothetical protein
+CP107216.1	Protein Homology	gene	2208850	2209332	.	-	0	ID=23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH
+CP107216.1	Protein Homology	gene	2209320	2210123	.	-	0	ID=MBL fold metallo-hydrolase
+CP107216.1	Protein Homology	gene	2210120	2211415	.	-	0	ID=UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+CP107216.1	Protein Homology	gene	2211554	2212120	.	-	0	ID=NUDIX hydrolase
+CP107216.1	GeneMarkS-2+	gene	2212268	2212735	.	+	0	ID=adaptor protein MecA
+CP107216.1	Protein Homology	gene	2212807	2213274	.	+	0	ID=SsrA-binding protein SmpB
+CP107216.1	Protein Homology	gene	2213274	2213795	.	+	0	ID=peptidylprolyl isomerase
+CP107216.1	Protein Homology	gene	2214795	2216429	.	+	0	ID=MBOAT family protein
+CP107216.1	GeneMarkS-2+	gene	2216439	2217407	.	+	0	ID=hypothetical protein 1
+CP107216.1	GeneMarkS-2+	gene	2217646	2217774	.	+	0	ID=hypothetical protein 2
+CP107216.1	GeneMarkS-2+	gene	2217904	2218068	.	-	0	ID=FeoB-associated Cys-rich membrane protein
+CP107216.1	Protein Homology	gene	2218068	2220056	.	-	0	ID=ferrous iron transport protein B
+CP107216.1	Protein Homology	gene	2220053	2220283	.	-	0	ID=ferrous iron transport protein A
+CP107216.1	Protein Homology	gene	2220463	2223960	.	-	0	ID=S-layer homology domain-containing protein
+CP107216.1	Protein Homology	gene	2224308	2224357	.	+	0	ID=response regulator transcription factor
+CP107216.1	Protein Homology	AMP	2213911	2214257	.	+	0	ID=AMP_138681_c7_g1_i1
+CP107216.1	Protein Homology	AMP	2213913	2214015	.	+	0	ID=AMP_138681_c7_g1_i1
+###

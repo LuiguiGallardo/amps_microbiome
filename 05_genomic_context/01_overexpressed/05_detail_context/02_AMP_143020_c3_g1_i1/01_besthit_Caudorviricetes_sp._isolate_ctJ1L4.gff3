@@ -1,0 +1,43 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK026787.1 9526 29989
+BK026787.1	tpg	gene	9527	9778	.	+	0	ID=tail assembly chaperone protein
+BK026787.1	tpg	gene	9760	10407	.	+	0	ID=tail assembly protein
+BK026787.1	tpg	gene	10429	11409	.	+	0	ID=43 kDa tail protein
+BK026787.1	tpg	gene	11409	11774	.	+	0	ID=tail assembly chaperone protein
+BK026787.1	tpg	gene	11771	11926	.	+	0	ID=hypothetical protein 1
+BK026787.1	tpg	gene	11931	12584	.	+	0	ID=hypothetical protein 2
+BK026787.1	tpg	gene	12597	12914	.	+	0	ID=Protein of unknown function (DUF2577)
+BK026787.1	tpg	gene	12916	13320	.	+	0	ID=Baseplate wedge protein
+BK026787.1	tpg	gene	13317	14390	.	+	0	ID=Baseplate J like protein
+BK026787.1	tpg	gene	14387	15013	.	+	0	ID=tail protein
+BK026787.1	tpg	gene	14992	15105	.	+	0	ID=hypothetical protein 3
+BK026787.1	tpg	gene	15081	15320	.	+	0	ID=Protein translocase subunit SecY
+BK026787.1	tpg	gene	15434	17593	.	+	0	ID=ribonuclease R
+BK026787.1	tpg	gene	17649	18770	.	-	0	ID=RDD family
+BK026787.1	tpg	gene	18811	18948	.	-	0	ID=hypothetical protein 4
+BK026787.1	tpg	gene	19017	19490	.	+	0	ID=SmpB protein
+BK026787.1	tpg	gene	19552	19671	.	+	0	ID=hypothetical protein 5
+BK026787.1	tpg	gene	19672	19773	.	-	0	ID=hypothetical protein 6
+BK026787.1	tpg	gene	19798	19938	.	-	0	ID=Sulfotransferase 4A1
+BK026787.1	tpg	gene	19974	21188	.	-	0	ID=Integrase
+BK026787.1	tpg	gene	21226	21438	.	+	0	ID=hypothetical protein 7
+BK026787.1	tpg	gene	21455	21568	.	-	0	ID=hypothetical protein 8
+BK026787.1	tpg	gene	21561	21650	.	-	0	ID=hypothetical protein 9
+BK026787.1	tpg	gene	21691	22920	.	-	0	ID=Integrase
+BK026787.1	tpg	gene	22977	23075	.	-	0	ID=hypothetical protein 10
+BK026787.1	tpg	gene	23090	24901	.	-	0	ID=dsDNA helicase
+BK026787.1	tpg	gene	24953	25102	.	+	0	ID=hypothetical protein 11
+BK026787.1	tpg	gene	25084	25929	.	+	0	ID=hypothetical protein 12
+BK026787.1	tpg	gene	26071	26307	.	-	0	ID=DNA binding domain protein
+BK026787.1	tpg	gene	26374	26508	.	-	0	ID=hypothetical protein 13
+BK026787.1	tpg	gene	26552	26665	.	+	0	ID=hypothetical protein 14
+BK026787.1	tpg	gene	26640	26780	.	+	0	ID=hypothetical protein 15
+BK026787.1	tpg	gene	26876	27256	.	+	0	ID=protein of unknown function (DUF3846)
+BK026787.1	tpg	gene	27268	28386	.	+	0	ID=Putative amidoligase enzyme
+BK026787.1	tpg	gene	28386	29330	.	+	0	ID=amidotransferase class II
+BK026787.1	tpg	gene	29392	29989	.	+	0	ID=gamma delta Resolvase
+BK026787.1	tpg	AMP	19543	19898	.	+	0	ID=AMP_143020_c3_g1_i1
+BK026787.1	tpg	AMP	19544	19672	.	+	0	ID=AMP_143020_c3_g1_i1
+###

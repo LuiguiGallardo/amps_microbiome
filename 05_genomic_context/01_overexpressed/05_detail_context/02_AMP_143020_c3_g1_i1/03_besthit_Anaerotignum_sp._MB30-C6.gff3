@@ -1,0 +1,24 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP133078.1 2467298 2487761
+CP133078.1	Protein Homology	gene	2467298	2467579	.	-	0	ID=ABC transporter permease
+CP133078.1	Protein Homology	gene	2467576	2468271	.	-	0	ID=ABC transporter ATP-binding protein
+CP133078.1	Protein Homology	gene	2468282	2469463	.	-	0	ID=efflux RND transporter periplasmic adaptor subunit
+CP133078.1	Protein Homology	gene	2469842	2473369	.	-	0	ID=pyruvate:ferredoxin (flavodoxin) oxidoreductase
+CP133078.1	Protein Homology	gene	2474513	2475526	.	-	0	ID=copper amine oxidase N-terminal domain-containing protein
+CP133078.1	Protein Homology	gene	2475561	2476553	.	-	0	ID=L%2CD-transpeptidase
+CP133078.1	Protein Homology	gene	2476817	2477290	.	+	0	ID=SsrA-binding protein SmpB
+CP133078.1	Protein Homology	gene	2477885	2478223	.	-	0	ID=helix-turn-helix transcriptional regulator
+CP133078.1	Protein Homology	gene	2478291	2479892	.	-	0	ID=recombinase family protein
+CP133078.1	GeneMarkS-2+	gene	2480903	2481256	.	-	0	ID=hypothetical protein 1
+CP133078.1	Protein Homology	gene	2481413	2482072	.	-	0	ID=DUF1643 domain-containing protein
+CP133078.1	Protein Homology	gene	2482283	2483785	.	+	0	ID=AAA family ATPase
+CP133078.1	Protein Homology	gene	2484161	2484838	.	+	0	ID=Crp/Fnr family transcriptional regulator
+CP133078.1	Protein Homology	gene	2485300	2485986	.	-	0	ID=hypothetical protein 2
+CP133078.1	Protein Homology	gene	2486005	2486562	.	-	0	ID=hemerythrin domain-containing protein
+CP133078.1	GeneMarkS-2+	gene	2486801	2487094	.	-	0	ID=hypothetical protein 3
+CP133078.1	Protein Homology	gene	2487427	2487615	.	-	0	ID=ferredoxin
+CP133078.1	Protein Homology	AMP	2477315	2477669	.	+	0	ID=AMP_143020_c3_g1_i1
+CP133078.1	Protein Homology	AMP	2477316	2477444	.	+	0	ID=AMP_143020_c3_g1_i1
+###

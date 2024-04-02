@@ -1,0 +1,30 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK027835.1 4776 16000
+BK027835.1	tpg	gene	4776	5393	.	-	0	ID=Major capsid protein
+BK027835.1	tpg	gene	5457	6356	.	-	0	ID=hypothetical protein 1
+BK027835.1	tpg	gene	6469	8178	.	-	0	ID=portal protein
+BK027835.1	tpg	gene	8171	8515	.	-	0	ID=shock protein B
+BK027835.1	tpg	gene	8525	9934	.	-	0	ID=Large subunit terminase
+BK027835.1	tpg	gene	10025	10168	.	-	0	ID=hypothetical protein 2
+BK027835.1	tpg	gene	10178	10969	.	-	0	ID=vacuolar protein sorting-associated protein
+BK027835.1	tpg	gene	10971	11144	.	-	0	ID=hypothetical protein 3
+BK027835.1	tpg	gene	11141	11464	.	-	0	ID=hypothetical protein 4
+BK027835.1	tpg	gene	11538	11927	.	-	0	ID=DNA-packaging protein small subunit
+BK027835.1	tpg	gene	11957	12286	.	-	0	ID=hypothetical protein 5
+BK027835.1	tpg	gene	12275	12394	.	+	0	ID=hypothetical protein 6
+BK027835.1	tpg	gene	12372	12467	.	+	0	ID=hypothetical protein 7
+BK027835.1	tpg	gene	12471	12710	.	+	0	ID=hypothetical protein 8
+BK027835.1	tpg	gene	12915	13106	.	+	0	ID=hypothetical protein 9
+BK027835.1	tpg	gene	13169	13351	.	+	0	ID=hypothetical protein 10
+BK027835.1	tpg	gene	13455	13955	.	+	0	ID=DnaJ-like protein
+BK027835.1	tpg	gene	14053	14520	.	+	0	ID=hypothetical protein 11
+BK027835.1	tpg	gene	14672	14839	.	+	0	ID=hypothetical protein 12
+BK027835.1	tpg	gene	14836	14934	.	+	0	ID=hypothetical protein 13
+BK027835.1	tpg	gene	14946	15164	.	+	0	ID=hypothetical protein 14
+BK027835.1	tpg	gene	15256	15777	.	-	0	ID=peptidyl-prolyl cis-transisomerase
+BK027835.1	tpg	gene	15777	16000	.	-	2	ID=SmpB protein
+BK027835.1	tpg	AMP	14793	15140	.	-	2	ID=AMP_138681_c7_g1_i1
+BK027835.1	tpg	AMP	15036	15137	.	-	2	ID=AMP_138681_c7_g1_i1
+###

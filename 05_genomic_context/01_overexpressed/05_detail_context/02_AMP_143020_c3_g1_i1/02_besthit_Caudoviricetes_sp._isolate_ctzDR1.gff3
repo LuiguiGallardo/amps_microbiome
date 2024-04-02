@@ -1,0 +1,49 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK058526.1 4999 25462
+BK058526.1	tpg	gene	4999	5637	.	+	0	ID=tail sheath protein
+BK058526.1	tpg	gene	5650	6105	.	+	0	ID=tail tube protein
+BK058526.1	tpg	gene	6119	6499	.	+	0	ID=tail assembly chaperone protein
+BK058526.1	tpg	gene	6481	7128	.	+	0	ID=tail assembly protein
+BK058526.1	tpg	gene	7150	8130	.	+	0	ID=43 kDa tail protein
+BK058526.1	tpg	gene	8130	8495	.	+	0	ID=tail assembly chaperone protein
+BK058526.1	tpg	gene	8492	8647	.	+	0	ID=hypothetical protein 1
+BK058526.1	tpg	gene	8652	9305	.	+	0	ID=hypothetical protein 2
+BK058526.1	tpg	gene	9318	9635	.	+	0	ID=Protein of unknown function (DUF2577)
+BK058526.1	tpg	gene	9667	10041	.	+	0	ID=Baseplate wedge protein
+BK058526.1	tpg	gene	10038	11111	.	+	0	ID=Baseplate J like protein
+BK058526.1	tpg	gene	11108	11734	.	+	0	ID=tail protein
+BK058526.1	tpg	gene	11713	11826	.	+	0	ID=hypothetical protein 3
+BK058526.1	tpg	gene	11802	12041	.	+	0	ID=Protein translocase subunit SecY
+BK058526.1	tpg	gene	12034	12144	.	+	0	ID=hypothetical protein 4
+BK058526.1	tpg	gene	12155	14314	.	+	0	ID=ribonuclease R
+BK058526.1	tpg	gene	14422	14517	.	+	0	ID=agnoprotein
+BK058526.1	tpg	gene	14490	14963	.	+	0	ID=SmpB protein
+BK058526.1	tpg	gene	14997	15143	.	+	0	ID=hypothetical protein 5
+BK058526.1	tpg	gene	15244	15462	.	+	0	ID=hypothetical protein 6
+BK058526.1	tpg	gene	15554	15844	.	+	0	ID=hypothetical protein 7
+BK058526.1	tpg	gene	15805	16224	.	-	0	ID=hypothetical protein 8
+BK058526.1	tpg	gene	16338	17171	.	-	0	ID=SprT-like domain-containing protein Spartan/DNA Complex repair
+BK058526.1	tpg	gene	17291	18088	.	-	0	ID=5%2C10-methylene-tetrahydropholate dehydrogenase
+BK058526.1	tpg	gene	18085	18267	.	-	0	ID=hypothetical protein 9
+BK058526.1	tpg	gene	18267	18473	.	-	0	ID=Helix-turn-helix XRE-family like protein
+BK058526.1	tpg	gene	18531	19100	.	-	0	ID=hypothetical protein 10
+BK058526.1	tpg	gene	19130	19858	.	-	0	ID=type I restriction-modification system methyltransferase
+BK058526.1	tpg	gene	19934	20125	.	-	0	ID=hypothetical protein 11
+BK058526.1	tpg	gene	20127	20216	.	-	0	ID=hypothetical protein 12
+BK058526.1	tpg	gene	20323	20655	.	-	0	ID=hypothetical protein 13
+BK058526.1	tpg	gene	20766	20870	.	-	0	ID=hypothetical protein 14
+BK058526.1	tpg	gene	20950	21057	.	-	0	ID=hypothetical protein 15
+BK058526.1	tpg	gene	21083	22000	.	-	0	ID=peptidoglycan hydrolase
+BK058526.1	tpg	gene	21993	22382	.	-	0	ID=hypothetical protein 16
+BK058526.1	tpg	gene	22387	22644	.	-	0	ID=hypothetical protein 17
+BK058526.1	tpg	gene	22634	22948	.	-	0	ID=hypothetical protein 18
+BK058526.1	tpg	gene	22945	23634	.	-	0	ID=ChiA1-BD-binding domain protein
+BK058526.1	tpg	gene	23625	24818	.	-	0	ID=hypothetical protein 19
+BK058526.1	tpg	gene	24818	24910	.	-	0	ID=hypothetical protein 20
+BK058526.1	tpg	gene	25023	25115	.	-	0	ID=hypothetical protein 21
+BK058526.1	tpg	gene	25214	25462	.	-	0	ID=23S rRNA-intervening sequence protein
+BK058526.1	tpg	AMP	15016	15374	.	+	0	ID=AMP_143020_c3_g1_i1
+BK058526.1	tpg	AMP	15017	15145	.	+	0	ID=AMP_143020_c3_g1_i1
+###

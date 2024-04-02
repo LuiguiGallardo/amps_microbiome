@@ -1,0 +1,23 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP126057.1 61372 80844
+CP126057.1	Protein Homology	gene	61372	61959	.	+	1	ID=RhuM family protein
+CP126057.1	Protein Homology	gene	62201	62839	.	+	0	ID=recombinase family protein
+CP126057.1	Protein Homology	gene	62967	64475	.	+	0	ID=Fic family protein
+CP126057.1	Protein Homology	gene	64498	64896	.	+	0	ID=exo-poly-alpha-D-galacturonosidase
+CP126057.1	GeneMarkS-2+	gene	65498	65719	.	-	0	ID=hypothetical protein 1
+CP126057.1	Protein Homology	gene	66135	67109	.	+	0	ID=zincin-like metallopeptidase domain-containing protein
+CP126057.1	Protein Homology	gene	67325	71286	.	-	0	ID=response regulator
+CP126057.1	Protein Homology	gene	71482	71652	.	-	0	ID=hypothetical protein 2
+CP126057.1	Protein Homology	gene	72217	72423	.	-	0	ID=hypothetical protein 3
+CP126057.1	Protein Homology	gene	72389	72838	.	+	0	ID=DNA methylase
+CP126057.1	Protein Homology	gene	73047	74172	.	+	0	ID=AraC family transcriptional regulator
+CP126057.1	Protein Homology	gene	74373	75467	.	+	0	ID=DUF3575 domain-containing protein
+CP126057.1	Protein Homology	gene	75484	76371	.	+	0	ID=hypothetical protein 4
+CP126057.1	Protein Homology	gene	76470	77357	.	+	0	ID=fimbrillin family protein
+CP126057.1	Protein Homology	gene	77392	78954	.	+	0	ID=fimbrillin family protein 2
+CP126057.1	Protein Homology	gene	78977	80683	.	+	0	ID=fimbrillin family protein 3
+CP126057.1	Protein Homology	AMP	71409	72152	.	-	0	ID=AMP_138200_c2_g1_i1
+CP126057.1	Protein Homology	AMP	71480	71698	.	-	0	ID=AMP_138200_c2_g1_i1
+###

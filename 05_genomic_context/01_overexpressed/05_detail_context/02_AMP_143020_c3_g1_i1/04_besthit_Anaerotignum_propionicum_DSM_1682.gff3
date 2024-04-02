@@ -1,0 +1,25 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP014223.1 2486724 2507184
+CP014223.1	Genbank	gene	2486724	2486945	.	-	0	ID=DNA polymerase III subunit alpha
+CP014223.1	Genbank	gene	2487351	2488556	.	-	0	ID=macrolide export ATP-binding/permease protein MacB
+CP014223.1	Genbank	gene	2488553	2489248	.	-	0	ID=macrolide export ATP-binding/permease protein MacB
+CP014223.1	Genbank	gene	2489259	2490440	.	-	0	ID=putative efflux system component YknX
+CP014223.1	Genbank	gene	2490631	2494158	.	-	0	ID=pyruvate-flavodoxin oxidoreductase
+CP014223.1	Genbank	gene	2494825	2495841	.	-	0	ID=hypothetical protein 1
+CP014223.1	Genbank	gene	2496242	2496715	.	+	0	ID=SsrA-binding protein
+CP014223.1	Genbank	gene	2497314	2497958	.	-	0	ID=SMI1 / KNR4 family protein
+CP014223.1	Genbank	gene	2498033	2498476	.	-	0	ID=hypothetical protein 2
+CP014223.1	Genbank	gene	2498615	2500471	.	-	0	ID=AAA-like domain protein
+CP014223.1	Genbank	gene	2500464	2501642	.	-	0	ID=hypothetical protein 3
+CP014223.1	Genbank	gene	2502059	2502706	.	+	0	ID=tyrosine recombinase XerC
+CP014223.1	Genbank	gene	2502860	2503720	.	-	0	ID=hypothetical protein 4
+CP014223.1	Genbank	gene	2503831	2505021	.	-	0	ID=hypothetical protein 5
+CP014223.1	Genbank	gene	2505297	2506058	.	-	0	ID=modification methylase DpnIIA
+CP014223.1	Genbank	gene	2506157	2506870	.	-	0	ID=hypothetical protein 6
+CP014223.1	Genbank	gene	2506870	2507124	.	-	0	ID=hypothetical protein 7
+CP014223.1	Genbank	gene	2507090	2507184	.	-	2	ID=hypothetical protein 8
+CP014223.1	Genbank	AMP	2496741	2497093	.	+	2	ID=AMP_143020_c3_g1_i1
+CP014223.1	Genbank	AMP	2496742	2496870	.	+	2	ID=AMP_143020_c3_g1_i1
+###

@@ -1,0 +1,25 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP083680.1 5740467 5761284
+CP083680.1	Protein Homology	gene	5740467	5740908	.	+	1	ID=site-specific integrase 1
+CP083680.1	Protein Homology	gene	5741051	5741362	.	-	0	ID=helix-turn-helix domain-containing protein 1
+CP083680.1	Protein Homology	gene	5741319	5741813	.	-	0	ID=DUF2589 domain-containing protein
+CP083680.1	Protein Homology	gene	5742043	5743749	.	-	0	ID=fimbrillin family protein 1
+CP083680.1	Protein Homology	gene	5743762	5745333	.	-	0	ID=fimbrillin family protein 2
+CP083680.1	Protein Homology	gene	5745368	5746255	.	-	0	ID=fimbrillin family protein 3
+CP083680.1	Protein Homology	gene	5746276	5747163	.	-	0	ID=hypothetical protein 1
+CP083680.1	Protein Homology	gene	5747180	5748280	.	-	0	ID=DUF3575 domain-containing protein
+CP083680.1	Protein Homology	gene	5748482	5749609	.	-	0	ID=helix-turn-helix domain-containing protein 2
+CP083680.1	Protein Homology	gene	5749818	5750267	.	-	0	ID=DNA methylase
+CP083680.1	Protein Homology	gene	5750233	5750439	.	+	0	ID=hypothetical protein 2
+CP083680.1	Protein Homology	gene	5751004	5751174	.	+	0	ID=hypothetical protein 3
+CP083680.1	Protein Homology	gene	5751370	5755335	.	+	0	ID=response regulator
+CP083680.1	Protein Homology	gene	5755551	5756552	.	-	0	ID=ssDNA-binding domain-containing protein 1
+CP083680.1	Protein Homology	gene	5756651	5757682	.	-	0	ID=site-specific integrase 2
+CP083680.1	Protein Homology	gene	5757660	5758622	.	-	0	ID=tyrosine-type recombinase/integrase 1
+CP083680.1	Protein Homology	gene	5758619	5760229	.	-	0	ID=tyrosine-type recombinase/integrase 2
+CP083680.1	Protein Homology	gene	5760326	5761174	.	+	0	ID=ssDNA-binding domain-containing protein 2
+CP083680.1	Protein Homology	AMP	5750504	5751247	.	+	0	ID=AMP_138200_c2_g1_i1
+CP083680.1	Protein Homology	AMP	5750958	5751630	.	+	0	ID=AMP_138200_c2_g1_i1
+###

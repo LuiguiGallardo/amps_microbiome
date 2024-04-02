@@ -1,0 +1,25 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region CP103125.1 5381961 5402778
+CP103125.1	Protein Homology	gene	5381961	5382918	.	-	0	ID=zincin-like metallopeptidase domain-containing protein 1
+CP103125.1	Protein Homology	gene	5383015	5384625	.	+	0	ID=tyrosine-type recombinase/integrase 1
+CP103125.1	Protein Homology	gene	5384622	5385584	.	+	0	ID=tyrosine-type recombinase/integrase 2
+CP103125.1	Protein Homology	gene	5385562	5386593	.	+	0	ID=site-specific integrase 1
+CP103125.1	Protein Homology	gene	5386692	5387693	.	+	0	ID=zincin-like metallopeptidase domain-containing protein 2
+CP103125.1	Protein Homology	gene	5387909	5391875	.	-	0	ID=response regulator
+CP103125.1	Protein Homology	gene	5392071	5392241	.	-	0	ID=hypothetical protein 1
+CP103125.1	Protein Homology	gene	5392806	5393012	.	-	0	ID=hypothetical protein 2
+CP103125.1	Protein Homology	gene	5392978	5393427	.	+	0	ID=DNA methylase
+CP103125.1	Protein Homology	gene	5393636	5394763	.	+	0	ID=helix-turn-helix domain-containing protein 1
+CP103125.1	Protein Homology	gene	5394965	5396065	.	+	0	ID=DUF3575 domain-containing protein
+CP103125.1	Protein Homology	gene	5396082	5396969	.	+	0	ID=hypothetical protein
+CP103125.1	Protein Homology	gene	5396990	5397877	.	+	0	ID=fimbrillin family protein 1
+CP103125.1	Protein Homology	gene	5397912	5399483	.	+	0	ID=fimbrillin family protein 2
+CP103125.1	Protein Homology	gene	5399496	5401202	.	+	0	ID=fimbrillin family protein 3
+CP103125.1	Protein Homology	gene	5401432	5401926	.	+	0	ID=DUF2589 domain-containing protein
+CP103125.1	Protein Homology	gene	5401883	5402194	.	+	0	ID=helix-turn-helix domain-containing protein 2
+CP103125.1	Protein Homology	gene	5402337	5402778	.	-	1	ID=site-specific integrase 2
+CP103125.1	Protein Homology	AMP	5391998	5392741	.	-	1	ID=AMP_138200_c2_g1_i1
+CP103125.1	Protein Homology	AMP	5392069	5392287	.	-	1	ID=AMP_138200_c2_g1_i1
+###
