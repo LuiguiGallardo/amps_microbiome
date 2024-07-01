@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='ASCII' standalone='yes'?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <g>
-    <g class="svglite" transform="translate(0, -24) scale(0.21 0.21) "><defs>
+    <g class="svglite" transform="translate(0, -23) scale(0.3 0.3) "><defs>
   <style type="text/css">
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
       fill: none;
@@ -318,7 +318,7 @@
 <text x="492.04" y="488.95" text-anchor="end" style="font-size: 14.00px; font-family: &quot;Arial&quot;;" textLength="125.66px" lengthAdjust="spacingAndGlyphs">total = 193 variables</text>
 </g>
 </g>
-    <g transform="translate(95, 0) scale(0.21 0.21) "><metadata>
+    <g transform="translate(150, 3) scale(0.33 0.33) "><metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
@@ -1706,6 +1706,6 @@
   </g>
   <g>
     <text x="1" y="7" font-size="6" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">A</text>
-    <text x="95" y="7" font-size="6" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">B</text>
+    <text x="154" y="7" font-size="6" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">B</text>
   </g>
 </svg>

@@ -1,0 +1,512 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region scaffold_11136 1 4170
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p1;Name=ORF%20type%3Acomplete%20len%3A380%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p1;Parent=GENE.scaffold_11136~~scaffold_11136.p1;Name=ORF%20type%3Acomplete%20len%3A380%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2517	.	+	.	ID=scaffold_11136.p1.utr5p1;Parent=scaffold_11136.p1
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p1.exon1;Parent=scaffold_11136.p1
+scaffold_11136	transdecoder	CDS	2518	3657	.	+	0	ID=cds.scaffold_11136.p1;Parent=scaffold_11136.p1
+scaffold_11136	transdecoder	three_prime_UTR	3658	4170	.	+	.	ID=scaffold_11136.p1.utr3p1;Parent=scaffold_11136.p1
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p2;Name=ORF%20type%3Acomplete%20len%3A306%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p2;Parent=GENE.scaffold_11136~~scaffold_11136.p2;Name=ORF%20type%3Acomplete%20len%3A306%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2330	4170	.	-	.	ID=scaffold_11136.p2.utr5p1;Parent=scaffold_11136.p2
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p2.exon1;Parent=scaffold_11136.p2
+scaffold_11136	transdecoder	CDS	1412	2329	.	-	0	ID=cds.scaffold_11136.p2;Parent=scaffold_11136.p2
+scaffold_11136	transdecoder	three_prime_UTR	1	1411	.	-	.	ID=scaffold_11136.p2.utr3p1;Parent=scaffold_11136.p2
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p3;Name=ORF%20type%3Acomplete%20len%3A222%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p3;Parent=GENE.scaffold_11136~~scaffold_11136.p3;Name=ORF%20type%3Acomplete%20len%3A222%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3463	4170	.	-	.	ID=scaffold_11136.p3.utr5p1;Parent=scaffold_11136.p3
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p3.exon1;Parent=scaffold_11136.p3
+scaffold_11136	transdecoder	CDS	2797	3462	.	-	0	ID=cds.scaffold_11136.p3;Parent=scaffold_11136.p3
+scaffold_11136	transdecoder	three_prime_UTR	1	2796	.	-	.	ID=scaffold_11136.p3.utr3p1;Parent=scaffold_11136.p3
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p4;Name=ORF%20type%3Acomplete%20len%3A203%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p4;Parent=GENE.scaffold_11136~~scaffold_11136.p4;Name=ORF%20type%3Acomplete%20len%3A203%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	859	4170	.	-	.	ID=scaffold_11136.p4.utr5p1;Parent=scaffold_11136.p4
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p4.exon1;Parent=scaffold_11136.p4
+scaffold_11136	transdecoder	CDS	250	858	.	-	0	ID=cds.scaffold_11136.p4;Parent=scaffold_11136.p4
+scaffold_11136	transdecoder	three_prime_UTR	1	249	.	-	.	ID=scaffold_11136.p4.utr3p1;Parent=scaffold_11136.p4
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p5;Name=ORF%20type%3Acomplete%20len%3A180%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p5;Parent=GENE.scaffold_11136~~scaffold_11136.p5;Name=ORF%20type%3Acomplete%20len%3A180%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	670	.	+	.	ID=scaffold_11136.p5.utr5p1;Parent=scaffold_11136.p5
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p5.exon1;Parent=scaffold_11136.p5
+scaffold_11136	transdecoder	CDS	671	1210	.	+	0	ID=cds.scaffold_11136.p5;Parent=scaffold_11136.p5
+scaffold_11136	transdecoder	three_prime_UTR	1211	4170	.	+	.	ID=scaffold_11136.p5.utr3p1;Parent=scaffold_11136.p5
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p6;Name=ORF%20type%3Acomplete%20len%3A168%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p6;Parent=GENE.scaffold_11136~~scaffold_11136.p6;Name=ORF%20type%3Acomplete%20len%3A168%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	240	.	+	.	ID=scaffold_11136.p6.utr5p1;Parent=scaffold_11136.p6
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p6.exon1;Parent=scaffold_11136.p6
+scaffold_11136	transdecoder	CDS	241	744	.	+	0	ID=cds.scaffold_11136.p6;Parent=scaffold_11136.p6
+scaffold_11136	transdecoder	three_prime_UTR	745	4170	.	+	.	ID=scaffold_11136.p6.utr3p1;Parent=scaffold_11136.p6
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p7;Name=ORF%20type%3Acomplete%20len%3A102%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p7;Parent=GENE.scaffold_11136~~scaffold_11136.p7;Name=ORF%20type%3Acomplete%20len%3A102%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2839	.	+	.	ID=scaffold_11136.p7.utr5p1;Parent=scaffold_11136.p7
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p7.exon1;Parent=scaffold_11136.p7
+scaffold_11136	transdecoder	CDS	2840	3145	.	+	0	ID=cds.scaffold_11136.p7;Parent=scaffold_11136.p7
+scaffold_11136	transdecoder	three_prime_UTR	3146	4170	.	+	.	ID=scaffold_11136.p7.utr3p1;Parent=scaffold_11136.p7
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p8;Name=ORF%20type%3Acomplete%20len%3A85%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p8;Parent=GENE.scaffold_11136~~scaffold_11136.p8;Name=ORF%20type%3Acomplete%20len%3A85%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2464	.	+	.	ID=scaffold_11136.p8.utr5p1;Parent=scaffold_11136.p8
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p8.exon1;Parent=scaffold_11136.p8
+scaffold_11136	transdecoder	CDS	2465	2719	.	+	0	ID=cds.scaffold_11136.p8;Parent=scaffold_11136.p8
+scaffold_11136	transdecoder	three_prime_UTR	2720	4170	.	+	.	ID=scaffold_11136.p8.utr3p1;Parent=scaffold_11136.p8
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p9;Name=ORF%20type%3Acomplete%20len%3A81%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p9;Parent=GENE.scaffold_11136~~scaffold_11136.p9;Name=ORF%20type%3Acomplete%20len%3A81%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3912	4170	.	-	.	ID=scaffold_11136.p9.utr5p1;Parent=scaffold_11136.p9
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p9.exon1;Parent=scaffold_11136.p9
+scaffold_11136	transdecoder	CDS	3669	3911	.	-	0	ID=cds.scaffold_11136.p9;Parent=scaffold_11136.p9
+scaffold_11136	transdecoder	three_prime_UTR	1	3668	.	-	.	ID=scaffold_11136.p9.utr3p1;Parent=scaffold_11136.p9
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p10;Name=ORF%20type%3A5prime_partial%20len%3A67%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p10;Parent=GENE.scaffold_11136~~scaffold_11136.p10;Name=ORF%20type%3A5prime_partial%20len%3A67%20%28%2B%29
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p10.exon1;Parent=scaffold_11136.p10
+scaffold_11136	transdecoder	CDS	1	201	.	+	0	ID=cds.scaffold_11136.p10;Parent=scaffold_11136.p10;5_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	202	4170	.	+	.	ID=scaffold_11136.p10.utr3p1;Parent=scaffold_11136.p10
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p11;Name=ORF%20type%3A3prime_partial%20len%3A67%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p11;Parent=GENE.scaffold_11136~~scaffold_11136.p11;Name=ORF%20type%3A3prime_partial%20len%3A67%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	200	4170	.	-	.	ID=scaffold_11136.p11.utr5p1;Parent=scaffold_11136.p11
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p11.exon1;Parent=scaffold_11136.p11
+scaffold_11136	transdecoder	CDS	2	199	.	-	0	ID=cds.scaffold_11136.p11;Parent=scaffold_11136.p11;3_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	1	1	.	-	.	ID=scaffold_11136.p11.utr3p1;Parent=scaffold_11136.p11
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p12;Name=ORF%20type%3A5prime_partial%20len%3A63%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p12;Parent=GENE.scaffold_11136~~scaffold_11136.p12;Name=ORF%20type%3A5prime_partial%20len%3A63%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1	.	+	.	ID=scaffold_11136.p12.utr5p1;Parent=scaffold_11136.p12
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p12.exon1;Parent=scaffold_11136.p12
+scaffold_11136	transdecoder	CDS	2	190	.	+	0	ID=cds.scaffold_11136.p12;Parent=scaffold_11136.p12;5_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	191	4170	.	+	.	ID=scaffold_11136.p12.utr3p1;Parent=scaffold_11136.p12
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p13;Name=ORF%20type%3Acomplete%20len%3A60%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p13;Parent=GENE.scaffold_11136~~scaffold_11136.p13;Name=ORF%20type%3Acomplete%20len%3A60%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1333	4170	.	-	.	ID=scaffold_11136.p13.utr5p1;Parent=scaffold_11136.p13
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p13.exon1;Parent=scaffold_11136.p13
+scaffold_11136	transdecoder	CDS	1153	1332	.	-	0	ID=cds.scaffold_11136.p13;Parent=scaffold_11136.p13
+scaffold_11136	transdecoder	three_prime_UTR	1	1152	.	-	.	ID=scaffold_11136.p13.utr3p1;Parent=scaffold_11136.p13
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p14;Name=ORF%20type%3Acomplete%20len%3A55%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p14;Parent=GENE.scaffold_11136~~scaffold_11136.p14;Name=ORF%20type%3Acomplete%20len%3A55%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1440	.	+	.	ID=scaffold_11136.p14.utr5p1;Parent=scaffold_11136.p14
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p14.exon1;Parent=scaffold_11136.p14
+scaffold_11136	transdecoder	CDS	1441	1605	.	+	0	ID=cds.scaffold_11136.p14;Parent=scaffold_11136.p14
+scaffold_11136	transdecoder	three_prime_UTR	1606	4170	.	+	.	ID=scaffold_11136.p14.utr3p1;Parent=scaffold_11136.p14
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p15;Name=ORF%20type%3Acomplete%20len%3A55%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p15;Parent=GENE.scaffold_11136~~scaffold_11136.p15;Name=ORF%20type%3Acomplete%20len%3A55%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1815	.	+	.	ID=scaffold_11136.p15.utr5p1;Parent=scaffold_11136.p15
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p15.exon1;Parent=scaffold_11136.p15
+scaffold_11136	transdecoder	CDS	1816	1980	.	+	0	ID=cds.scaffold_11136.p15;Parent=scaffold_11136.p15
+scaffold_11136	transdecoder	three_prime_UTR	1981	4170	.	+	.	ID=scaffold_11136.p15.utr3p1;Parent=scaffold_11136.p15
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p16;Name=ORF%20type%3A3prime_partial%20len%3A54%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p16;Parent=GENE.scaffold_11136~~scaffold_11136.p16;Name=ORF%20type%3A3prime_partial%20len%3A54%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	162	4170	.	-	.	ID=scaffold_11136.p16.utr5p1;Parent=scaffold_11136.p16
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p16.exon1;Parent=scaffold_11136.p16
+scaffold_11136	transdecoder	CDS	3	161	.	-	0	ID=cds.scaffold_11136.p16;Parent=scaffold_11136.p16;3_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	1	2	.	-	.	ID=scaffold_11136.p16.utr3p1;Parent=scaffold_11136.p16
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p17;Name=ORF%20type%3Acomplete%20len%3A51%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p17;Parent=GENE.scaffold_11136~~scaffold_11136.p17;Name=ORF%20type%3Acomplete%20len%3A51%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1483	.	+	.	ID=scaffold_11136.p17.utr5p1;Parent=scaffold_11136.p17
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p17.exon1;Parent=scaffold_11136.p17
+scaffold_11136	transdecoder	CDS	1484	1636	.	+	0	ID=cds.scaffold_11136.p17;Parent=scaffold_11136.p17
+scaffold_11136	transdecoder	three_prime_UTR	1637	4170	.	+	.	ID=scaffold_11136.p17.utr3p1;Parent=scaffold_11136.p17
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p18;Name=ORF%20type%3Acomplete%20len%3A49%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p18;Parent=GENE.scaffold_11136~~scaffold_11136.p18;Name=ORF%20type%3Acomplete%20len%3A49%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	3460	.	+	.	ID=scaffold_11136.p18.utr5p1;Parent=scaffold_11136.p18
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p18.exon1;Parent=scaffold_11136.p18
+scaffold_11136	transdecoder	CDS	3461	3607	.	+	0	ID=cds.scaffold_11136.p18;Parent=scaffold_11136.p18
+scaffold_11136	transdecoder	three_prime_UTR	3608	4170	.	+	.	ID=scaffold_11136.p18.utr3p1;Parent=scaffold_11136.p18
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p19;Name=ORF%20type%3Acomplete%20len%3A48%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p19;Parent=GENE.scaffold_11136~~scaffold_11136.p19;Name=ORF%20type%3Acomplete%20len%3A48%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	501	4170	.	-	.	ID=scaffold_11136.p19.utr5p1;Parent=scaffold_11136.p19
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p19.exon1;Parent=scaffold_11136.p19
+scaffold_11136	transdecoder	CDS	357	500	.	-	0	ID=cds.scaffold_11136.p19;Parent=scaffold_11136.p19
+scaffold_11136	transdecoder	three_prime_UTR	1	356	.	-	.	ID=scaffold_11136.p19.utr3p1;Parent=scaffold_11136.p19
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p20;Name=ORF%20type%3Acomplete%20len%3A45%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p20;Parent=GENE.scaffold_11136~~scaffold_11136.p20;Name=ORF%20type%3Acomplete%20len%3A45%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1840	4170	.	-	.	ID=scaffold_11136.p20.utr5p1;Parent=scaffold_11136.p20
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p20.exon1;Parent=scaffold_11136.p20
+scaffold_11136	transdecoder	CDS	1705	1839	.	-	0	ID=cds.scaffold_11136.p20;Parent=scaffold_11136.p20
+scaffold_11136	transdecoder	three_prime_UTR	1	1704	.	-	.	ID=scaffold_11136.p20.utr3p1;Parent=scaffold_11136.p20
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p21;Name=ORF%20type%3Acomplete%20len%3A44%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p21;Parent=GENE.scaffold_11136~~scaffold_11136.p21;Name=ORF%20type%3Acomplete%20len%3A44%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1693	.	+	.	ID=scaffold_11136.p21.utr5p1;Parent=scaffold_11136.p21
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p21.exon1;Parent=scaffold_11136.p21
+scaffold_11136	transdecoder	CDS	1694	1825	.	+	0	ID=cds.scaffold_11136.p21;Parent=scaffold_11136.p21
+scaffold_11136	transdecoder	three_prime_UTR	1826	4170	.	+	.	ID=scaffold_11136.p21.utr3p1;Parent=scaffold_11136.p21
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p22;Name=ORF%20type%3Acomplete%20len%3A44%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p22;Parent=GENE.scaffold_11136~~scaffold_11136.p22;Name=ORF%20type%3Acomplete%20len%3A44%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	3830	.	+	.	ID=scaffold_11136.p22.utr5p1;Parent=scaffold_11136.p22
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p22.exon1;Parent=scaffold_11136.p22
+scaffold_11136	transdecoder	CDS	3831	3962	.	+	0	ID=cds.scaffold_11136.p22;Parent=scaffold_11136.p22
+scaffold_11136	transdecoder	three_prime_UTR	3963	4170	.	+	.	ID=scaffold_11136.p22.utr3p1;Parent=scaffold_11136.p22
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p23;Name=ORF%20type%3Acomplete%20len%3A44%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p23;Parent=GENE.scaffold_11136~~scaffold_11136.p23;Name=ORF%20type%3Acomplete%20len%3A44%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3827	4170	.	-	.	ID=scaffold_11136.p23.utr5p1;Parent=scaffold_11136.p23
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p23.exon1;Parent=scaffold_11136.p23
+scaffold_11136	transdecoder	CDS	3695	3826	.	-	0	ID=cds.scaffold_11136.p23;Parent=scaffold_11136.p23
+scaffold_11136	transdecoder	three_prime_UTR	1	3694	.	-	.	ID=scaffold_11136.p23.utr3p1;Parent=scaffold_11136.p23
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p24;Name=ORF%20type%3Acomplete%20len%3A44%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p24;Parent=GENE.scaffold_11136~~scaffold_11136.p24;Name=ORF%20type%3Acomplete%20len%3A44%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3629	4170	.	-	.	ID=scaffold_11136.p24.utr5p1;Parent=scaffold_11136.p24
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p24.exon1;Parent=scaffold_11136.p24
+scaffold_11136	transdecoder	CDS	3497	3628	.	-	0	ID=cds.scaffold_11136.p24;Parent=scaffold_11136.p24
+scaffold_11136	transdecoder	three_prime_UTR	1	3496	.	-	.	ID=scaffold_11136.p24.utr3p1;Parent=scaffold_11136.p24
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p25;Name=ORF%20type%3Acomplete%20len%3A41%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p25;Parent=GENE.scaffold_11136~~scaffold_11136.p25;Name=ORF%20type%3Acomplete%20len%3A41%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1283	.	+	.	ID=scaffold_11136.p25.utr5p1;Parent=scaffold_11136.p25
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p25.exon1;Parent=scaffold_11136.p25
+scaffold_11136	transdecoder	CDS	1284	1406	.	+	0	ID=cds.scaffold_11136.p25;Parent=scaffold_11136.p25
+scaffold_11136	transdecoder	three_prime_UTR	1407	4170	.	+	.	ID=scaffold_11136.p25.utr3p1;Parent=scaffold_11136.p25
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p26;Name=ORF%20type%3Acomplete%20len%3A41%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p26;Parent=GENE.scaffold_11136~~scaffold_11136.p26;Name=ORF%20type%3Acomplete%20len%3A41%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2304	.	+	.	ID=scaffold_11136.p26.utr5p1;Parent=scaffold_11136.p26
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p26.exon1;Parent=scaffold_11136.p26
+scaffold_11136	transdecoder	CDS	2305	2427	.	+	0	ID=cds.scaffold_11136.p26;Parent=scaffold_11136.p26
+scaffold_11136	transdecoder	three_prime_UTR	2428	4170	.	+	.	ID=scaffold_11136.p26.utr3p1;Parent=scaffold_11136.p26
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p27;Name=ORF%20type%3Acomplete%20len%3A41%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p27;Parent=GENE.scaffold_11136~~scaffold_11136.p27;Name=ORF%20type%3Acomplete%20len%3A41%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	3958	.	+	.	ID=scaffold_11136.p27.utr5p1;Parent=scaffold_11136.p27
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p27.exon1;Parent=scaffold_11136.p27
+scaffold_11136	transdecoder	CDS	3959	4081	.	+	0	ID=cds.scaffold_11136.p27;Parent=scaffold_11136.p27
+scaffold_11136	transdecoder	three_prime_UTR	4082	4170	.	+	.	ID=scaffold_11136.p27.utr3p1;Parent=scaffold_11136.p27
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p28;Name=ORF%20type%3Acomplete%20len%3A40%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p28;Parent=GENE.scaffold_11136~~scaffold_11136.p28;Name=ORF%20type%3Acomplete%20len%3A40%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	319	.	+	.	ID=scaffold_11136.p28.utr5p1;Parent=scaffold_11136.p28
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p28.exon1;Parent=scaffold_11136.p28
+scaffold_11136	transdecoder	CDS	320	439	.	+	0	ID=cds.scaffold_11136.p28;Parent=scaffold_11136.p28
+scaffold_11136	transdecoder	three_prime_UTR	440	4170	.	+	.	ID=scaffold_11136.p28.utr3p1;Parent=scaffold_11136.p28
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p29;Name=ORF%20type%3Acomplete%20len%3A38%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p29;Parent=GENE.scaffold_11136~~scaffold_11136.p29;Name=ORF%20type%3Acomplete%20len%3A38%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2054	.	+	.	ID=scaffold_11136.p29.utr5p1;Parent=scaffold_11136.p29
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p29.exon1;Parent=scaffold_11136.p29
+scaffold_11136	transdecoder	CDS	2055	2168	.	+	0	ID=cds.scaffold_11136.p29;Parent=scaffold_11136.p29
+scaffold_11136	transdecoder	three_prime_UTR	2169	4170	.	+	.	ID=scaffold_11136.p29.utr3p1;Parent=scaffold_11136.p29
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p30;Name=ORF%20type%3A5prime_partial%20len%3A38%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p30;Parent=GENE.scaffold_11136~~scaffold_11136.p30;Name=ORF%20type%3A5prime_partial%20len%3A38%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	4170	4170	.	-	.	ID=scaffold_11136.p30.utr5p1;Parent=scaffold_11136.p30
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p30.exon1;Parent=scaffold_11136.p30
+scaffold_11136	transdecoder	CDS	4056	4169	.	-	0	ID=cds.scaffold_11136.p30;Parent=scaffold_11136.p30;5_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	1	4055	.	-	.	ID=scaffold_11136.p30.utr3p1;Parent=scaffold_11136.p30
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p31;Name=ORF%20type%3Acomplete%20len%3A37%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p31;Parent=GENE.scaffold_11136~~scaffold_11136.p31;Name=ORF%20type%3Acomplete%20len%3A37%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1004	4170	.	-	.	ID=scaffold_11136.p31.utr5p1;Parent=scaffold_11136.p31
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p31.exon1;Parent=scaffold_11136.p31
+scaffold_11136	transdecoder	CDS	893	1003	.	-	0	ID=cds.scaffold_11136.p31;Parent=scaffold_11136.p31
+scaffold_11136	transdecoder	three_prime_UTR	1	892	.	-	.	ID=scaffold_11136.p31.utr3p1;Parent=scaffold_11136.p31
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p32;Name=ORF%20type%3Acomplete%20len%3A36%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p32;Parent=GENE.scaffold_11136~~scaffold_11136.p32;Name=ORF%20type%3Acomplete%20len%3A36%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3084	4170	.	-	.	ID=scaffold_11136.p32.utr5p1;Parent=scaffold_11136.p32
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p32.exon1;Parent=scaffold_11136.p32
+scaffold_11136	transdecoder	CDS	2976	3083	.	-	0	ID=cds.scaffold_11136.p32;Parent=scaffold_11136.p32
+scaffold_11136	transdecoder	three_prime_UTR	1	2975	.	-	.	ID=scaffold_11136.p32.utr3p1;Parent=scaffold_11136.p32
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p33;Name=ORF%20type%3Acomplete%20len%3A33%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p33;Parent=GENE.scaffold_11136~~scaffold_11136.p33;Name=ORF%20type%3Acomplete%20len%3A33%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2467	4170	.	-	.	ID=scaffold_11136.p33.utr5p1;Parent=scaffold_11136.p33
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p33.exon1;Parent=scaffold_11136.p33
+scaffold_11136	transdecoder	CDS	2368	2466	.	-	0	ID=cds.scaffold_11136.p33;Parent=scaffold_11136.p33
+scaffold_11136	transdecoder	three_prime_UTR	1	2367	.	-	.	ID=scaffold_11136.p33.utr3p1;Parent=scaffold_11136.p33
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p34;Name=ORF%20type%3Acomplete%20len%3A32%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p34;Parent=GENE.scaffold_11136~~scaffold_11136.p34;Name=ORF%20type%3Acomplete%20len%3A32%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1700	.	+	.	ID=scaffold_11136.p34.utr5p1;Parent=scaffold_11136.p34
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p34.exon1;Parent=scaffold_11136.p34
+scaffold_11136	transdecoder	CDS	1701	1796	.	+	0	ID=cds.scaffold_11136.p34;Parent=scaffold_11136.p34
+scaffold_11136	transdecoder	three_prime_UTR	1797	4170	.	+	.	ID=scaffold_11136.p34.utr3p1;Parent=scaffold_11136.p34
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p35;Name=ORF%20type%3Acomplete%20len%3A30%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p35;Parent=GENE.scaffold_11136~~scaffold_11136.p35;Name=ORF%20type%3Acomplete%20len%3A30%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2248	4170	.	-	.	ID=scaffold_11136.p35.utr5p1;Parent=scaffold_11136.p35
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p35.exon1;Parent=scaffold_11136.p35
+scaffold_11136	transdecoder	CDS	2158	2247	.	-	0	ID=cds.scaffold_11136.p35;Parent=scaffold_11136.p35
+scaffold_11136	transdecoder	three_prime_UTR	1	2157	.	-	.	ID=scaffold_11136.p35.utr3p1;Parent=scaffold_11136.p35
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p36;Name=ORF%20type%3Acomplete%20len%3A30%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p36;Parent=GENE.scaffold_11136~~scaffold_11136.p36;Name=ORF%20type%3Acomplete%20len%3A30%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1537	4170	.	-	.	ID=scaffold_11136.p36.utr5p1;Parent=scaffold_11136.p36
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p36.exon1;Parent=scaffold_11136.p36
+scaffold_11136	transdecoder	CDS	1447	1536	.	-	0	ID=cds.scaffold_11136.p36;Parent=scaffold_11136.p36
+scaffold_11136	transdecoder	three_prime_UTR	1	1446	.	-	.	ID=scaffold_11136.p36.utr3p1;Parent=scaffold_11136.p36
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p37;Name=ORF%20type%3Acomplete%20len%3A29%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p37;Parent=GENE.scaffold_11136~~scaffold_11136.p37;Name=ORF%20type%3Acomplete%20len%3A29%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1306	.	+	.	ID=scaffold_11136.p37.utr5p1;Parent=scaffold_11136.p37
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p37.exon1;Parent=scaffold_11136.p37
+scaffold_11136	transdecoder	CDS	1307	1393	.	+	0	ID=cds.scaffold_11136.p37;Parent=scaffold_11136.p37
+scaffold_11136	transdecoder	three_prime_UTR	1394	4170	.	+	.	ID=scaffold_11136.p37.utr3p1;Parent=scaffold_11136.p37
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p38;Name=ORF%20type%3Acomplete%20len%3A28%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p38;Parent=GENE.scaffold_11136~~scaffold_11136.p38;Name=ORF%20type%3Acomplete%20len%3A28%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1630	4170	.	-	.	ID=scaffold_11136.p38.utr5p1;Parent=scaffold_11136.p38
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p38.exon1;Parent=scaffold_11136.p38
+scaffold_11136	transdecoder	CDS	1546	1629	.	-	0	ID=cds.scaffold_11136.p38;Parent=scaffold_11136.p38
+scaffold_11136	transdecoder	three_prime_UTR	1	1545	.	-	.	ID=scaffold_11136.p38.utr3p1;Parent=scaffold_11136.p38
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p39;Name=ORF%20type%3Acomplete%20len%3A27%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p39;Parent=GENE.scaffold_11136~~scaffold_11136.p39;Name=ORF%20type%3Acomplete%20len%3A27%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1392	4170	.	-	.	ID=scaffold_11136.p39.utr5p1;Parent=scaffold_11136.p39
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p39.exon1;Parent=scaffold_11136.p39
+scaffold_11136	transdecoder	CDS	1311	1391	.	-	0	ID=cds.scaffold_11136.p39;Parent=scaffold_11136.p39
+scaffold_11136	transdecoder	three_prime_UTR	1	1310	.	-	.	ID=scaffold_11136.p39.utr3p1;Parent=scaffold_11136.p39
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p40;Name=ORF%20type%3Acomplete%20len%3A25%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p40;Parent=GENE.scaffold_11136~~scaffold_11136.p40;Name=ORF%20type%3Acomplete%20len%3A25%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1096	4170	.	-	.	ID=scaffold_11136.p40.utr5p1;Parent=scaffold_11136.p40
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p40.exon1;Parent=scaffold_11136.p40
+scaffold_11136	transdecoder	CDS	1021	1095	.	-	0	ID=cds.scaffold_11136.p40;Parent=scaffold_11136.p40
+scaffold_11136	transdecoder	three_prime_UTR	1	1020	.	-	.	ID=scaffold_11136.p40.utr3p1;Parent=scaffold_11136.p40
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p41;Name=ORF%20type%3A5prime_partial%20len%3A24%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p41;Parent=GENE.scaffold_11136~~scaffold_11136.p41;Name=ORF%20type%3A5prime_partial%20len%3A24%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	4169	4170	.	-	.	ID=scaffold_11136.p41.utr5p1;Parent=scaffold_11136.p41
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p41.exon1;Parent=scaffold_11136.p41
+scaffold_11136	transdecoder	CDS	4097	4168	.	-	0	ID=cds.scaffold_11136.p41;Parent=scaffold_11136.p41;5_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	1	4096	.	-	.	ID=scaffold_11136.p41.utr3p1;Parent=scaffold_11136.p41
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p42;Name=ORF%20type%3Acomplete%20len%3A23%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p42;Parent=GENE.scaffold_11136~~scaffold_11136.p42;Name=ORF%20type%3Acomplete%20len%3A23%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2745	4170	.	-	.	ID=scaffold_11136.p42.utr5p1;Parent=scaffold_11136.p42
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p42.exon1;Parent=scaffold_11136.p42
+scaffold_11136	transdecoder	CDS	2676	2744	.	-	0	ID=cds.scaffold_11136.p42;Parent=scaffold_11136.p42
+scaffold_11136	transdecoder	three_prime_UTR	1	2675	.	-	.	ID=scaffold_11136.p42.utr3p1;Parent=scaffold_11136.p42
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p43;Name=ORF%20type%3Acomplete%20len%3A22%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p43;Parent=GENE.scaffold_11136~~scaffold_11136.p43;Name=ORF%20type%3Acomplete%20len%3A22%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3598	4170	.	-	.	ID=scaffold_11136.p43.utr5p1;Parent=scaffold_11136.p43
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p43.exon1;Parent=scaffold_11136.p43
+scaffold_11136	transdecoder	CDS	3532	3597	.	-	0	ID=cds.scaffold_11136.p43;Parent=scaffold_11136.p43
+scaffold_11136	transdecoder	three_prime_UTR	1	3531	.	-	.	ID=scaffold_11136.p43.utr3p1;Parent=scaffold_11136.p43
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p44;Name=ORF%20type%3Acomplete%20len%3A21%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p44;Parent=GENE.scaffold_11136~~scaffold_11136.p44;Name=ORF%20type%3Acomplete%20len%3A21%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3961	4170	.	-	.	ID=scaffold_11136.p44.utr5p1;Parent=scaffold_11136.p44
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p44.exon1;Parent=scaffold_11136.p44
+scaffold_11136	transdecoder	CDS	3898	3960	.	-	0	ID=cds.scaffold_11136.p44;Parent=scaffold_11136.p44
+scaffold_11136	transdecoder	three_prime_UTR	1	3897	.	-	.	ID=scaffold_11136.p44.utr3p1;Parent=scaffold_11136.p44
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p45;Name=ORF%20type%3Acomplete%20len%3A20%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p45;Parent=GENE.scaffold_11136~~scaffold_11136.p45;Name=ORF%20type%3Acomplete%20len%3A20%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	520	.	+	.	ID=scaffold_11136.p45.utr5p1;Parent=scaffold_11136.p45
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p45.exon1;Parent=scaffold_11136.p45
+scaffold_11136	transdecoder	CDS	521	580	.	+	0	ID=cds.scaffold_11136.p45;Parent=scaffold_11136.p45
+scaffold_11136	transdecoder	three_prime_UTR	581	4170	.	+	.	ID=scaffold_11136.p45.utr3p1;Parent=scaffold_11136.p45
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p46;Name=ORF%20type%3A3prime_partial%20len%3A20%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p46;Parent=GENE.scaffold_11136~~scaffold_11136.p46;Name=ORF%20type%3A3prime_partial%20len%3A20%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	4112	.	+	.	ID=scaffold_11136.p46.utr5p1;Parent=scaffold_11136.p46
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p46.exon1;Parent=scaffold_11136.p46
+scaffold_11136	transdecoder	CDS	4113	4169	.	+	0	ID=cds.scaffold_11136.p46;Parent=scaffold_11136.p46;3_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	4170	4170	.	+	.	ID=scaffold_11136.p46.utr3p1;Parent=scaffold_11136.p46
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p47;Name=ORF%20type%3Acomplete%20len%3A19%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p47;Parent=GENE.scaffold_11136~~scaffold_11136.p47;Name=ORF%20type%3Acomplete%20len%3A19%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2151	.	+	.	ID=scaffold_11136.p47.utr5p1;Parent=scaffold_11136.p47
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p47.exon1;Parent=scaffold_11136.p47
+scaffold_11136	transdecoder	CDS	2152	2208	.	+	0	ID=cds.scaffold_11136.p47;Parent=scaffold_11136.p47
+scaffold_11136	transdecoder	three_prime_UTR	2209	4170	.	+	.	ID=scaffold_11136.p47.utr3p1;Parent=scaffold_11136.p47
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p48;Name=ORF%20type%3Acomplete%20len%3A19%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p48;Parent=GENE.scaffold_11136~~scaffold_11136.p48;Name=ORF%20type%3Acomplete%20len%3A19%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2474	4170	.	-	.	ID=scaffold_11136.p48.utr5p1;Parent=scaffold_11136.p48
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p48.exon1;Parent=scaffold_11136.p48
+scaffold_11136	transdecoder	CDS	2417	2473	.	-	0	ID=cds.scaffold_11136.p48;Parent=scaffold_11136.p48
+scaffold_11136	transdecoder	three_prime_UTR	1	2416	.	-	.	ID=scaffold_11136.p48.utr3p1;Parent=scaffold_11136.p48
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p49;Name=ORF%20type%3Acomplete%20len%3A17%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p49;Parent=GENE.scaffold_11136~~scaffold_11136.p49;Name=ORF%20type%3Acomplete%20len%3A17%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2808	4170	.	-	.	ID=scaffold_11136.p49.utr5p1;Parent=scaffold_11136.p49
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p49.exon1;Parent=scaffold_11136.p49
+scaffold_11136	transdecoder	CDS	2757	2807	.	-	0	ID=cds.scaffold_11136.p49;Parent=scaffold_11136.p49
+scaffold_11136	transdecoder	three_prime_UTR	1	2756	.	-	.	ID=scaffold_11136.p49.utr3p1;Parent=scaffold_11136.p49
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p50;Name=ORF%20type%3Acomplete%20len%3A16%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p50;Parent=GENE.scaffold_11136~~scaffold_11136.p50;Name=ORF%20type%3Acomplete%20len%3A16%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3195	4170	.	-	.	ID=scaffold_11136.p50.utr5p1;Parent=scaffold_11136.p50
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p50.exon1;Parent=scaffold_11136.p50
+scaffold_11136	transdecoder	CDS	3147	3194	.	-	0	ID=cds.scaffold_11136.p50;Parent=scaffold_11136.p50
+scaffold_11136	transdecoder	three_prime_UTR	1	3146	.	-	.	ID=scaffold_11136.p50.utr3p1;Parent=scaffold_11136.p50
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p51;Name=ORF%20type%3Acomplete%20len%3A16%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p51;Parent=GENE.scaffold_11136~~scaffold_11136.p51;Name=ORF%20type%3Acomplete%20len%3A16%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2559	4170	.	-	.	ID=scaffold_11136.p51.utr5p1;Parent=scaffold_11136.p51
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p51.exon1;Parent=scaffold_11136.p51
+scaffold_11136	transdecoder	CDS	2511	2558	.	-	0	ID=cds.scaffold_11136.p51;Parent=scaffold_11136.p51
+scaffold_11136	transdecoder	three_prime_UTR	1	2510	.	-	.	ID=scaffold_11136.p51.utr3p1;Parent=scaffold_11136.p51
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p52;Name=ORF%20type%3Acomplete%20len%3A15%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p52;Parent=GENE.scaffold_11136~~scaffold_11136.p52;Name=ORF%20type%3Acomplete%20len%3A15%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3401	4170	.	-	.	ID=scaffold_11136.p52.utr5p1;Parent=scaffold_11136.p52
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p52.exon1;Parent=scaffold_11136.p52
+scaffold_11136	transdecoder	CDS	3356	3400	.	-	0	ID=cds.scaffold_11136.p52;Parent=scaffold_11136.p52
+scaffold_11136	transdecoder	three_prime_UTR	1	3355	.	-	.	ID=scaffold_11136.p52.utr3p1;Parent=scaffold_11136.p52
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p53;Name=ORF%20type%3Acomplete%20len%3A14%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p53;Parent=GENE.scaffold_11136~~scaffold_11136.p53;Name=ORF%20type%3Acomplete%20len%3A14%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	946	4170	.	-	.	ID=scaffold_11136.p53.utr5p1;Parent=scaffold_11136.p53
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p53.exon1;Parent=scaffold_11136.p53
+scaffold_11136	transdecoder	CDS	904	945	.	-	0	ID=cds.scaffold_11136.p53;Parent=scaffold_11136.p53
+scaffold_11136	transdecoder	three_prime_UTR	1	903	.	-	.	ID=scaffold_11136.p53.utr3p1;Parent=scaffold_11136.p53
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p54;Name=ORF%20type%3Acomplete%20len%3A13%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p54;Parent=GENE.scaffold_11136~~scaffold_11136.p54;Name=ORF%20type%3Acomplete%20len%3A13%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1980	.	+	.	ID=scaffold_11136.p54.utr5p1;Parent=scaffold_11136.p54
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p54.exon1;Parent=scaffold_11136.p54
+scaffold_11136	transdecoder	CDS	1981	2019	.	+	0	ID=cds.scaffold_11136.p54;Parent=scaffold_11136.p54
+scaffold_11136	transdecoder	three_prime_UTR	2020	4170	.	+	.	ID=scaffold_11136.p54.utr3p1;Parent=scaffold_11136.p54
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p55;Name=ORF%20type%3Acomplete%20len%3A13%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p55;Parent=GENE.scaffold_11136~~scaffold_11136.p55;Name=ORF%20type%3Acomplete%20len%3A13%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	3804	.	+	.	ID=scaffold_11136.p55.utr5p1;Parent=scaffold_11136.p55
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p55.exon1;Parent=scaffold_11136.p55
+scaffold_11136	transdecoder	CDS	3805	3843	.	+	0	ID=cds.scaffold_11136.p55;Parent=scaffold_11136.p55
+scaffold_11136	transdecoder	three_prime_UTR	3844	4170	.	+	.	ID=scaffold_11136.p55.utr3p1;Parent=scaffold_11136.p55
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p56;Name=ORF%20type%3Acomplete%20len%3A13%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p56;Parent=GENE.scaffold_11136~~scaffold_11136.p56;Name=ORF%20type%3Acomplete%20len%3A13%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3485	4170	.	-	.	ID=scaffold_11136.p56.utr5p1;Parent=scaffold_11136.p56
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p56.exon1;Parent=scaffold_11136.p56
+scaffold_11136	transdecoder	CDS	3446	3484	.	-	0	ID=cds.scaffold_11136.p56;Parent=scaffold_11136.p56
+scaffold_11136	transdecoder	three_prime_UTR	1	3445	.	-	.	ID=scaffold_11136.p56.utr3p1;Parent=scaffold_11136.p56
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p57;Name=ORF%20type%3Acomplete%20len%3A12%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p57;Parent=GENE.scaffold_11136~~scaffold_11136.p57;Name=ORF%20type%3Acomplete%20len%3A12%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	3653	.	+	.	ID=scaffold_11136.p57.utr5p1;Parent=scaffold_11136.p57
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p57.exon1;Parent=scaffold_11136.p57
+scaffold_11136	transdecoder	CDS	3654	3689	.	+	0	ID=cds.scaffold_11136.p57;Parent=scaffold_11136.p57
+scaffold_11136	transdecoder	three_prime_UTR	3690	4170	.	+	.	ID=scaffold_11136.p57.utr3p1;Parent=scaffold_11136.p57
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p58;Name=ORF%20type%3A3prime_partial%20len%3A13%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p58;Parent=GENE.scaffold_11136~~scaffold_11136.p58;Name=ORF%20type%3A3prime_partial%20len%3A13%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	37	4170	.	-	.	ID=scaffold_11136.p58.utr5p1;Parent=scaffold_11136.p58
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p58.exon1;Parent=scaffold_11136.p58
+scaffold_11136	transdecoder	CDS	1	36	.	-	0	ID=cds.scaffold_11136.p58;Parent=scaffold_11136.p58;3_prime_partial=true
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p59;Name=ORF%20type%3Acomplete%20len%3A11%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p59;Parent=GENE.scaffold_11136~~scaffold_11136.p59;Name=ORF%20type%3Acomplete%20len%3A11%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2767	.	+	.	ID=scaffold_11136.p59.utr5p1;Parent=scaffold_11136.p59
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p59.exon1;Parent=scaffold_11136.p59
+scaffold_11136	transdecoder	CDS	2768	2800	.	+	0	ID=cds.scaffold_11136.p59;Parent=scaffold_11136.p59
+scaffold_11136	transdecoder	three_prime_UTR	2801	4170	.	+	.	ID=scaffold_11136.p59.utr3p1;Parent=scaffold_11136.p59
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p60;Name=ORF%20type%3A5prime_partial%20len%3A11%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p60;Parent=GENE.scaffold_11136~~scaffold_11136.p60;Name=ORF%20type%3A5prime_partial%20len%3A11%20%28-%29
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p60.exon1;Parent=scaffold_11136.p60
+scaffold_11136	transdecoder	CDS	4138	4170	.	-	0	ID=cds.scaffold_11136.p60;Parent=scaffold_11136.p60;5_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	1	4137	.	-	.	ID=scaffold_11136.p60.utr3p1;Parent=scaffold_11136.p60
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p61;Name=ORF%20type%3Acomplete%20len%3A11%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p61;Parent=GENE.scaffold_11136~~scaffold_11136.p61;Name=ORF%20type%3Acomplete%20len%3A11%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1014	4170	.	-	.	ID=scaffold_11136.p61.utr5p1;Parent=scaffold_11136.p61
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p61.exon1;Parent=scaffold_11136.p61
+scaffold_11136	transdecoder	CDS	981	1013	.	-	0	ID=cds.scaffold_11136.p61;Parent=scaffold_11136.p61
+scaffold_11136	transdecoder	three_prime_UTR	1	980	.	-	.	ID=scaffold_11136.p61.utr3p1;Parent=scaffold_11136.p61
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p62;Name=ORF%20type%3A5prime_partial%20len%3A10%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p62;Parent=GENE.scaffold_11136~~scaffold_11136.p62;Name=ORF%20type%3A5prime_partial%20len%3A10%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2	.	+	.	ID=scaffold_11136.p62.utr5p1;Parent=scaffold_11136.p62
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p62.exon1;Parent=scaffold_11136.p62
+scaffold_11136	transdecoder	CDS	3	32	.	+	0	ID=cds.scaffold_11136.p62;Parent=scaffold_11136.p62;5_prime_partial=true
+scaffold_11136	transdecoder	three_prime_UTR	33	4170	.	+	.	ID=scaffold_11136.p62.utr3p1;Parent=scaffold_11136.p62
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p63;Name=ORF%20type%3Acomplete%20len%3A10%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p63;Parent=GENE.scaffold_11136~~scaffold_11136.p63;Name=ORF%20type%3Acomplete%20len%3A10%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2752	4170	.	-	.	ID=scaffold_11136.p63.utr5p1;Parent=scaffold_11136.p63
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p63.exon1;Parent=scaffold_11136.p63
+scaffold_11136	transdecoder	CDS	2722	2751	.	-	0	ID=cds.scaffold_11136.p63;Parent=scaffold_11136.p63
+scaffold_11136	transdecoder	three_prime_UTR	1	2721	.	-	.	ID=scaffold_11136.p63.utr3p1;Parent=scaffold_11136.p63
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p64;Name=ORF%20type%3Acomplete%20len%3A9%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p64;Parent=GENE.scaffold_11136~~scaffold_11136.p64;Name=ORF%20type%3Acomplete%20len%3A9%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	2450	.	+	.	ID=scaffold_11136.p64.utr5p1;Parent=scaffold_11136.p64
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p64.exon1;Parent=scaffold_11136.p64
+scaffold_11136	transdecoder	CDS	2451	2477	.	+	0	ID=cds.scaffold_11136.p64;Parent=scaffold_11136.p64
+scaffold_11136	transdecoder	three_prime_UTR	2478	4170	.	+	.	ID=scaffold_11136.p64.utr3p1;Parent=scaffold_11136.p64
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p65;Name=ORF%20type%3Acomplete%20len%3A9%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p65;Parent=GENE.scaffold_11136~~scaffold_11136.p65;Name=ORF%20type%3Acomplete%20len%3A9%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2658	4170	.	-	.	ID=scaffold_11136.p65.utr5p1;Parent=scaffold_11136.p65
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p65.exon1;Parent=scaffold_11136.p65
+scaffold_11136	transdecoder	CDS	2631	2657	.	-	0	ID=cds.scaffold_11136.p65;Parent=scaffold_11136.p65
+scaffold_11136	transdecoder	three_prime_UTR	1	2630	.	-	.	ID=scaffold_11136.p65.utr3p1;Parent=scaffold_11136.p65
+
+scaffold_11136	transdecoder	gene	1	4170	.	+	.	ID=GENE.scaffold_11136~~scaffold_11136.p66;Name=ORF%20type%3Acomplete%20len%3A8%20%28%2B%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	+	.	ID=scaffold_11136.p66;Parent=GENE.scaffold_11136~~scaffold_11136.p66;Name=ORF%20type%3Acomplete%20len%3A8%20%28%2B%29
+scaffold_11136	transdecoder	five_prime_UTR	1	1655	.	+	.	ID=scaffold_11136.p66.utr5p1;Parent=scaffold_11136.p66
+scaffold_11136	transdecoder	exon	1	4170	.	+	.	ID=scaffold_11136.p66.exon1;Parent=scaffold_11136.p66
+scaffold_11136	transdecoder	CDS	1656	1679	.	+	0	ID=cds.scaffold_11136.p66;Parent=scaffold_11136.p66
+scaffold_11136	transdecoder	three_prime_UTR	1680	4170	.	+	.	ID=scaffold_11136.p66.utr3p1;Parent=scaffold_11136.p66
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p67;Name=ORF%20type%3Acomplete%20len%3A8%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p67;Parent=GENE.scaffold_11136~~scaffold_11136.p67;Name=ORF%20type%3Acomplete%20len%3A8%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1921	4170	.	-	.	ID=scaffold_11136.p67.utr5p1;Parent=scaffold_11136.p67
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p67.exon1;Parent=scaffold_11136.p67
+scaffold_11136	transdecoder	CDS	1897	1920	.	-	0	ID=cds.scaffold_11136.p67;Parent=scaffold_11136.p67
+scaffold_11136	transdecoder	three_prime_UTR	1	1896	.	-	.	ID=scaffold_11136.p67.utr3p1;Parent=scaffold_11136.p67
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p68;Name=ORF%20type%3Acomplete%20len%3A7%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p68;Parent=GENE.scaffold_11136~~scaffold_11136.p68;Name=ORF%20type%3Acomplete%20len%3A7%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2586	4170	.	-	.	ID=scaffold_11136.p68.utr5p1;Parent=scaffold_11136.p68
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p68.exon1;Parent=scaffold_11136.p68
+scaffold_11136	transdecoder	CDS	2565	2585	.	-	0	ID=cds.scaffold_11136.p68;Parent=scaffold_11136.p68
+scaffold_11136	transdecoder	three_prime_UTR	1	2564	.	-	.	ID=scaffold_11136.p68.utr3p1;Parent=scaffold_11136.p68
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p69;Name=ORF%20type%3Acomplete%20len%3A6%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p69;Parent=GENE.scaffold_11136~~scaffold_11136.p69;Name=ORF%20type%3Acomplete%20len%3A6%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2500	4170	.	-	.	ID=scaffold_11136.p69.utr5p1;Parent=scaffold_11136.p69
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p69.exon1;Parent=scaffold_11136.p69
+scaffold_11136	transdecoder	CDS	2482	2499	.	-	0	ID=cds.scaffold_11136.p69;Parent=scaffold_11136.p69
+scaffold_11136	transdecoder	three_prime_UTR	1	2481	.	-	.	ID=scaffold_11136.p69.utr3p1;Parent=scaffold_11136.p69
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p70;Name=ORF%20type%3Acomplete%20len%3A6%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p70;Parent=GENE.scaffold_11136~~scaffold_11136.p70;Name=ORF%20type%3Acomplete%20len%3A6%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1590	4170	.	-	.	ID=scaffold_11136.p70.utr5p1;Parent=scaffold_11136.p70
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p70.exon1;Parent=scaffold_11136.p70
+scaffold_11136	transdecoder	CDS	1572	1589	.	-	0	ID=cds.scaffold_11136.p70;Parent=scaffold_11136.p70
+scaffold_11136	transdecoder	three_prime_UTR	1	1571	.	-	.	ID=scaffold_11136.p70.utr3p1;Parent=scaffold_11136.p70
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p71;Name=ORF%20type%3Acomplete%20len%3A5%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p71;Parent=GENE.scaffold_11136~~scaffold_11136.p71;Name=ORF%20type%3Acomplete%20len%3A5%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	3240	4170	.	-	.	ID=scaffold_11136.p71.utr5p1;Parent=scaffold_11136.p71
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p71.exon1;Parent=scaffold_11136.p71
+scaffold_11136	transdecoder	CDS	3225	3239	.	-	0	ID=cds.scaffold_11136.p71;Parent=scaffold_11136.p71
+scaffold_11136	transdecoder	three_prime_UTR	1	3224	.	-	.	ID=scaffold_11136.p71.utr3p1;Parent=scaffold_11136.p71
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p72;Name=ORF%20type%3Acomplete%20len%3A5%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p72;Parent=GENE.scaffold_11136~~scaffold_11136.p72;Name=ORF%20type%3Acomplete%20len%3A5%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	2613	4170	.	-	.	ID=scaffold_11136.p72.utr5p1;Parent=scaffold_11136.p72
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p72.exon1;Parent=scaffold_11136.p72
+scaffold_11136	transdecoder	CDS	2598	2612	.	-	0	ID=cds.scaffold_11136.p72;Parent=scaffold_11136.p72
+scaffold_11136	transdecoder	three_prime_UTR	1	2597	.	-	.	ID=scaffold_11136.p72.utr3p1;Parent=scaffold_11136.p72
+
+scaffold_11136	transdecoder	gene	1	4170	.	-	.	ID=GENE.scaffold_11136~~scaffold_11136.p73;Name=ORF%20type%3Acomplete%20len%3A5%20%28-%29
+scaffold_11136	transdecoder	mRNA	1	4170	.	-	.	ID=scaffold_11136.p73;Parent=GENE.scaffold_11136~~scaffold_11136.p73;Name=ORF%20type%3Acomplete%20len%3A5%20%28-%29
+scaffold_11136	transdecoder	five_prime_UTR	1302	4170	.	-	.	ID=scaffold_11136.p73.utr5p1;Parent=scaffold_11136.p73
+scaffold_11136	transdecoder	exon	1	4170	.	-	.	ID=scaffold_11136.p73.exon1;Parent=scaffold_11136.p73
+scaffold_11136	transdecoder	CDS	1287	1301	.	-	0	ID=cds.scaffold_11136.p73;Parent=scaffold_11136.p73
+scaffold_11136	transdecoder	three_prime_UTR	1	1286	.	-	.	ID=scaffold_11136.p73.utr3p1;Parent=scaffold_11136.p73

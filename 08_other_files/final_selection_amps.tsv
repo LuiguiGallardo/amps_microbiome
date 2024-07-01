@@ -1,0 +1,26 @@
+amp.id	Group	Number of AMP predictors	Genomic context in the reference	Peptide available in the reference	Nucleotide phylogeny with homologs	Protein phylogeny with homologs	Score summary
+AMP_851511_c0_g1_i1	OMS	1	0	0	0	0	1
+AMP_7230_c1_g2_i2	OMS	1	0	0	0	0	1
+AMP_142115_c6_g1_i3	OMS	1	0	0	0	0	1
+AMP_142823_c1_g1_i2	OMS	1	0	0	0	1	2
+AMP_142526_c5_g1_i7	OMS	1	0	0	1	0	2
+AMP_125192_c2_g1_i1	OMS	1	0	0	1	0	2
+AMP_145575_c0_g1_i3	OMS	1	1	0	1	0	3
+AMP_145391_c5_g1_i9	OMS	1	1	0	1	0	3
+AMP_145245_c6_g1_i2	OMS	1	1	0	1	0	3
+AMP_145062_c3_g1_i3	OMS	1	1	0	1	0	3
+AMP_145055_c3_g1_i3	OMS	1	1	0	1	0	3
+AMP_144653_c7_g8_i1	OMS	1	1	0	1	0	3
+AMP_144483_c7_g1_i1	OMS	1	1	1	0	0	3
+AMP_144187_c0_g1_i10	OMS	1	1	0	1	0	3
+AMP_612198_c2_g1_i1	OMS	1	1	0	1	1	4
+AMP_144624_c4_g1_i1	OMS	2	1	0	1	0	4
+AMP_143096_c2_g1_i1	OMS	2	1	0	1	0	4
+AMP_133076_c0_g4_i1	OMS	1	1	0	1	1	4
+AMP_138681_c7_g1_i1	OMS	3	1	1	1	1	7
+AMP_141075_c3_g1_i1	Ob	1	0	0	1	0	2
+AMP_144897_c3_g1_i5	Ob	1	1	0	1	0	3
+AMP_143683_c0_g2_i1	Ob	2	1	0	1	0	4
+AMP_385865_c1_g1_i1	Ob	1	1	0	1	1	4
+AMP_138200_c2_g1_i1	Ob	1	1	1	1	1	5
+AMP_143020_c3_g1_i1	Ob	2	1	1	1	1	6

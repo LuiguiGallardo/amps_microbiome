@@ -1,0 +1,14 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region scaffold_11136 1 4170
+scaffold_11136	transdecoder	gene	2518	3657	.	+	0	ID=Mos transposase
+scaffold_11136	transdecoder	gene	1412	2329	.	-	0	ID=5'-nucleotidase
+scaffold_11136	transdecoder	gene	671	1210	.	+	0	ID=Integrase
+scaffold_11136	transdecoder	gene	3669	3911	.	-	0	ID=Hypothetical protein
+scaffold_11136	transdecoder	gene	2	190	.	+	0	ID=UDP-glucose 4-epimerase;5_prime_partial=true
+scaffold_11136	transdecoder	gene	3959	4081	.	+	0	ID=Hypothetical protein 1
+scaffold_11136	transdecoder	gene	4056	4169	.	-	0	ID=Hypothetical protein 2;5_prime_partial=true
+scaffold_11136	transdecoder	gene	1311	1391	.	-	0	ID=Hypothetical protein 3
+scaffold_11136	transdecoder	AMP	3780	4156	.	-	0	ID=AMP_138681_c7_g1_i1
+scaffold_11136	transdecoder	AMP	4056	4156	.	-	0	ID=AMP_138681_c7_g1_i1
