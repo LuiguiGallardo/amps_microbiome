@@ -1,3 +1,3 @@
 #!/bin/bash
 
-gt sketch -flattenfiles yes $1.png $1
+gt sketch -flattenfiles yes $1.svg $1
