@@ -1,0 +1,51 @@
+#/bin/bash
+
+efetch -db nuccore -id CP126057.1 -format gff3 > CP126057.1.gff3
+efetch -db nuccore -id CP083680.1 -format gff3 > CP083680.1.gff3
+efetch -db nuccore -id CP083675.1 -format gff3 > CP083675.1.gff3
+efetch -db nuccore -id CP103125.1 -format gff3 > CP103125.1.gff3
+efetch -db nuccore -id CP046425.1 -format gff3 > CP046425.1.gff3
+efetch -db nuccore -id AP019724.1 -format gff3 > AP019724.1.gff3
+efetch -db nuccore -id CP103166.1 -format gff3 > CP103166.1.gff3
+efetch -db nuccore -id CP046424.1 -format gff3 > CP046424.1.gff3
+efetch -db nuccore -id CP046426.1 -format gff3 > CP046426.1.gff3
+efetch -db nuccore -id CP107195.1 -format gff3 > CP107195.1.gff3
+efetch -db nuccore -id CP103082.1 -format gff3 > CP103082.1.gff3
+efetch -db nuccore -id CP103118.1 -format gff3 > CP103118.1.gff3
+efetch -db nuccore -id CP103100.1 -format gff3 > CP103100.1.gff3
+efetch -db nuccore -id CP083681.1 -format gff3 > CP083681.1.gff3
+efetch -db nuccore -id CP103228.1 -format gff3 > CP103228.1.gff3
+efetch -db nuccore -id CP103141.1 -format gff3 > CP103141.1.gff3
+efetch -db nuccore -id CP072239.1 -format gff3 > CP072239.1.gff3
+efetch -db nuccore -id CP072258.1 -format gff3 > CP072258.1.gff3
+efetch -db nuccore -id CP045612.1 -format gff3 > CP045612.1.gff3
+efetch -db nuccore -id CP103069.1 -format gff3 > CP103069.1.gff3
+efetch -db nuccore -id CP081917.1 -format gff3 > CP081917.1.gff3
+efetch -db nuccore -id CP083673.1 -format gff3 > CP083673.1.gff3
+efetch -db nuccore -id CP012937.1 -format gff3 > CP012937.1.gff3
+efetch -db nuccore -id CP041395.1 -format gff3 > CP041395.1.gff3
+efetch -db nuccore -id CP120351.1 -format gff3 > CP120351.1.gff3
+efetch -db nuccore -id CP103210.1 -format gff3 > CP103210.1.gff3
+efetch -db nuccore -id CP103191.1 -format gff3 > CP103191.1.gff3
+efetch -db nuccore -id CP083686.1 -format gff3 > CP083686.1.gff3
+efetch -db nuccore -id CP103274.1 -format gff3 > CP103274.1.gff3
+efetch -db nuccore -id CP083679.1 -format gff3 > CP083679.1.gff3
+efetch -db nuccore -id CP072224.1 -format gff3 > CP072224.1.gff3
+efetch -db nuccore -id CP072244.1 -format gff3 > CP072244.1.gff3
+efetch -db nuccore -id CP075193.1 -format gff3 > CP075193.1.gff3
+efetch -db nuccore -id CP081908.1 -format gff3 > CP081908.1.gff3
+efetch -db nuccore -id CP075195.1 -format gff3 > CP075195.1.gff3
+efetch -db nuccore -id CP103172.1 -format gff3 > CP103172.1.gff3
+efetch -db nuccore -id CP103098.1 -format gff3 > CP103098.1.gff3
+efetch -db nuccore -id CP103094.1 -format gff3 > CP103094.1.gff3
+efetch -db nuccore -id CP103130.1 -format gff3 > CP103130.1.gff3
+efetch -db nuccore -id CP113514.1 -format gff3 > CP113514.1.gff3
+efetch -db nuccore -id CP143941.1 -format gff3 > CP143941.1.gff3
+efetch -db nuccore -id CP041230.1 -format gff3 > CP041230.1.gff3
+efetch -db nuccore -id CP103206.1 -format gff3 > CP103206.1.gff3
+efetch -db nuccore -id CP103114.1 -format gff3 > CP103114.1.gff3
+efetch -db nuccore -id CP083682.1 -format gff3 > CP083682.1.gff3
+efetch -db nuccore -id GQ873874.1 -format gff3 > GQ873874.1.gff3
+efetch -db nuccore -id GQ874230.1 -format gff3 > GQ874230.1.gff3
+
+wait

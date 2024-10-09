@@ -1,0 +1,17 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK025808.1 1 12225
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2832643
+BK025808.1	tpg	region	1	12225	.	+	.	ID=BK025808.1:1..12225;Dbxref=taxon:2832643;collection-date=2015-06-02;country=USA;environmental-sample=true;gbkey=Src;isolate=ctvmC4;isolation-source=Human metagenome;metagenome-source=Human Metagenome;metagenomic=true;mol_type=genomic DNA;note=genome binned from sequencing reads available in ERX491270;old-name=Siphoviridae sp.
+BK025808.1	tpg	CDS	1	311	.	-	0	ID=cds-DAZ14059.1;Dbxref=NCBI_GP:DAZ14059.1;Name=DAZ14059.1;Note=No HHsearch hits;gbkey=CDS;partial=true;product=hypothetical protein;protein_id=DAZ14059.1;start_range=.,1;transl_table=11
+BK025808.1	tpg	CDS	463	561	.	+	0	ID=cds-DAZ14060.1;Dbxref=NCBI_GP:DAZ14060.1;Name=DAZ14060.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ14060.1;transl_table=11
+BK025808.1	tpg	CDS	731	1051	.	-	0	ID=cds-DAZ14057.1;Dbxref=NCBI_GP:DAZ14057.1;Name=DAZ14057.1;Note=Phage_holin_5_1;gbkey=CDS;inference=protein motif:PFAM:PF06946.10;product=holin;protein_id=DAZ14057.1;transl_table=11
+BK025808.1	tpg	CDS	1008	1256	.	-	0	ID=cds-DAZ14061.1;Dbxref=NCBI_GP:DAZ14061.1;Name=DAZ14061.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ14061.1;transl_table=11
+BK025808.1	tpg	CDS	1319	2254	.	-	0	ID=cds-DAZ14054.1;Dbxref=NCBI_GP:DAZ14054.1;Name=DAZ14054.1;Note=PGRP;gbkey=CDS;inference=protein motif:CDD:133475;product=PGRP protein;protein_id=DAZ14054.1;transl_table=11
+BK025808.1	tpg	CDS	2267	2923	.	-	0	ID=cds-DAZ14062.1;Dbxref=NCBI_GP:DAZ14062.1;Name=DAZ14062.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ14062.1;transl_table=11
+BK025808.1	tpg	CDS	2939	5506	.	-	0	ID=cds-DAZ14063.1;Dbxref=NCBI_GP:DAZ14063.1;Name=DAZ14063.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ14063.1;transl_table=11
+BK025808.1	tpg	CDS	5520	7073	.	-	0	ID=cds-DAZ14055.1;Dbxref=NCBI_GP:DAZ14055.1;Name=DAZ14055.1;Note=Siphovirus protein of unknown function (DUF859);gbkey=CDS;inference=protein motif:CDD:310464;product=protein of unknown function DUF859;protein_id=DAZ14055.1;transl_table=11
+BK025808.1	tpg	CDS	7073	8659	.	-	0	ID=cds-DAZ14058.1;Dbxref=NCBI_GP:DAZ14058.1;Name=DAZ14058.1;Note=Minor structural protein;gbkey=CDS;inference=protein motif:PDB:5E7T_B;product=Minor structural protein;protein_id=DAZ14058.1;transl_table=11
+BK025808.1	tpg	CDS	8666	9037	.	-	0	ID=cds-DAZ14064.1;Dbxref=NCBI_GP:DAZ14064.1;Name=DAZ14064.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAZ14064.1;transl_table=11
+BK025808.1	tpg	CDS	9047	12225	.	-	2	ID=cds-DAZ14056.1;Dbxref=NCBI_GP:DAZ14056.1;Name=DAZ14056.1;Note=minor tail protein;end_range=12225,.;gbkey=CDS;inference=protein motif:UniProtKB:A0A0R1V141_9LACO;partial=true;product=minor tail protein;protein_id=DAZ14056.1;transl_table=11

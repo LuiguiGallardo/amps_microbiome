@@ -1,0 +1,6 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region GQ873874.1 1 1346
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=155900
+GQ873874.1	Genbank	region	1	1346	.	+	.	ID=GQ873874.1:1..1346;Dbxref=taxon:155900;clone=1041059765805;environmental-sample=true;gbkey=Src;genome=genomic;isolation-source=gut;mol_type=genomic DNA;nat-host=Homo sapiens

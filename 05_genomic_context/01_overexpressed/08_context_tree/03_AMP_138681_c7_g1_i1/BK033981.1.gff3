@@ -1,0 +1,58 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK033981.1 1 14519
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2832643
+BK033981.1	tpg	region	1	14519	.	+	.	ID=BK033981.1:1..14519;Dbxref=taxon:2832643;collection-date=2012-06-19;country=USA;environmental-sample=true;gbkey=Src;isolate=ctiL05;isolation-source=Human metagenome;metagenome-source=Human Metagenome;metagenomic=true;mol_type=genomic DNA;note=genome binned from sequencing reads available in SRX153999;old-name=Siphoviridae sp.
+BK033981.1	tpg	CDS	94	228	.	+	0	ID=cds-DAR99049.1;Dbxref=NCBI_GP:DAR99049.1;Name=DAR99049.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99049.1;transl_table=11
+BK033981.1	tpg	CDS	458	589	.	+	0	ID=cds-DAR99050.1;Dbxref=NCBI_GP:DAR99050.1;Name=DAR99050.1;Note=PORTAL PROTEIN%2C 15 PROTEIN%2C HEAD PROTEIN%2C VIRAL INFECTION%2C TAILED.2A;gbkey=CDS;inference=protein motif:PDB:5A21_D;product=PORTAL PROTEIN%2C 15 PROTEIN%2C HEAD PROTEIN%2C VIRAL INFECTION%2C TAILED.2A;protein_id=DAR99050.1;transl_table=11
+BK033981.1	tpg	CDS	754	867	.	+	0	ID=cds-DAR99051.1;Dbxref=NCBI_GP:DAR99051.1;Name=DAR99051.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99051.1;transl_table=11
+BK033981.1	tpg	CDS	879	1190	.	+	0	ID=cds-DAR99046.1;Dbxref=NCBI_GP:DAR99046.1;Name=DAR99046.1;Note=type I neck protein;gbkey=CDS;inference=protein motif:PFAM:PF04883.11;product=type I neck protein;protein_id=DAR99046.1;transl_table=11
+BK033981.1	tpg	CDS	1313	1510	.	+	0	ID=cds-DAR99052.1;Dbxref=NCBI_GP:DAR99052.1;Name=DAR99052.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99052.1;transl_table=11
+BK033981.1	tpg	CDS	1547	1657	.	+	0	ID=cds-DAR99053.1;Dbxref=NCBI_GP:DAR99053.1;Name=DAR99053.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99053.1;transl_table=11
+BK033981.1	tpg	CDS	1704	1811	.	+	0	ID=cds-DAR99054.1;Dbxref=NCBI_GP:DAR99054.1;Name=DAR99054.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99054.1;transl_table=11
+BK033981.1	tpg	CDS	1826	2083	.	+	0	ID=cds-DAR99055.1;Dbxref=NCBI_GP:DAR99055.1;Name=DAR99055.1;Note=Major tail protein V%2C Bacteriophage Lambda%2C Major tail;gbkey=CDS;inference=protein motif:PDB:2K4Q_A;product=major tail protein;protein_id=DAR99055.1;transl_table=11
+BK033981.1	tpg	CDS	2155	2319	.	+	0	ID=cds-DAR99056.1;Dbxref=NCBI_GP:DAR99056.1;Name=DAR99056.1;Note=Phage tail tube protein%2C GTA-gp10;gbkey=CDS;inference=protein motif:PFAM:PF11836.8;product=tail tube protein;protein_id=DAR99056.1;transl_table=11
+BK033981.1	tpg	CDS	2326	2490	.	+	0	ID=cds-DAR99057.1;Dbxref=NCBI_GP:DAR99057.1;Name=DAR99057.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99057.1;transl_table=11
+BK033981.1	tpg	CDS	2595	2789	.	+	0	ID=cds-DAR99058.1;Dbxref=NCBI_GP:DAR99058.1;Name=DAR99058.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99058.1;transl_table=11
+BK033981.1	tpg	CDS	2806	2901	.	+	0	ID=cds-DAR99059.1;Dbxref=NCBI_GP:DAR99059.1;Name=DAR99059.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99059.1;transl_table=11
+BK033981.1	tpg	CDS	2951	3040	.	+	0	ID=cds-DAR99060.1;Dbxref=NCBI_GP:DAR99060.1;Name=DAR99060.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99060.1;transl_table=11
+BK033981.1	tpg	CDS	3236	3526	.	+	0	ID=cds-DAR99044.1;Dbxref=NCBI_GP:DAR99044.1;Name=DAR99044.1;Note=Phage related minor tail protein;gbkey=CDS;inference=protein motif:UniProtKB:R4KJ43_9FIRM;product=minor tail protein;protein_id=DAR99044.1;transl_table=11
+BK033981.1	tpg	CDS	3668	3775	.	+	0	ID=cds-DAR99061.1;Dbxref=NCBI_GP:DAR99061.1;Name=DAR99061.1;Note=Protein of unknown function (DUF2497);gbkey=CDS;inference=protein motif:PFAM:PF10691.9;product=Protein of unknown function (DUF2497);protein_id=DAR99061.1;transl_table=11
+BK033981.1	tpg	CDS	3890	4132	.	+	0	ID=cds-DAR99062.1;Dbxref=NCBI_GP:DAR99062.1;Name=DAR99062.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99062.1;transl_table=11
+BK033981.1	tpg	CDS	4324	4443	.	-	0	ID=cds-DAR99063.1;Dbxref=NCBI_GP:DAR99063.1;Name=DAR99063.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99063.1;transl_table=11
+BK033981.1	tpg	CDS	4412	4594	.	+	0	ID=cds-DAR99045.1;Dbxref=NCBI_GP:DAR99045.1;Name=DAR99045.1;Note=Phage related minor tail protein;gbkey=CDS;inference=protein motif:UniProtKB:R4KJ43_9FIRM;product=minor tail protein;protein_id=DAR99045.1;transl_table=11
+BK033981.1	tpg	CDS	4619	4726	.	+	0	ID=cds-DAR99064.1;Dbxref=NCBI_GP:DAR99064.1;Name=DAR99064.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99064.1;transl_table=11
+BK033981.1	tpg	CDS	4709	4873	.	-	0	ID=cds-DAR99065.1;Dbxref=NCBI_GP:DAR99065.1;Name=DAR99065.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99065.1;transl_table=11
+BK033981.1	tpg	CDS	4870	5022	.	-	0	ID=cds-DAR99066.1;Dbxref=NCBI_GP:DAR99066.1;Name=DAR99066.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99066.1;transl_table=11
+BK033981.1	tpg	CDS	5047	5247	.	-	0	ID=cds-DAR99067.1;Dbxref=NCBI_GP:DAR99067.1;Name=DAR99067.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99067.1;transl_table=11
+BK033981.1	tpg	CDS	5540	5899	.	+	0	ID=cds-DAR99047.1;Dbxref=NCBI_GP:DAR99047.1;Name=DAR99047.1;Note=Minor structural protein;gbkey=CDS;inference=protein motif:PDB:5E7T_B;product=Minor structural protein;protein_id=DAR99047.1;transl_table=11
+BK033981.1	tpg	CDS	5892	6074	.	+	0	ID=cds-DAR99068.1;Dbxref=NCBI_GP:DAR99068.1;Name=DAR99068.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99068.1;transl_table=11
+BK033981.1	tpg	CDS	6234	6500	.	+	0	ID=cds-DAR99069.1;Dbxref=NCBI_GP:DAR99069.1;Name=DAR99069.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99069.1;transl_table=11
+BK033981.1	tpg	CDS	6591	6950	.	+	0	ID=cds-DAR99070.1;Dbxref=NCBI_GP:DAR99070.1;Name=DAR99070.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99070.1;transl_table=11
+BK033981.1	tpg	CDS	6957	7052	.	+	0	ID=cds-DAR99071.1;Dbxref=NCBI_GP:DAR99071.1;Name=DAR99071.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99071.1;transl_table=11
+BK033981.1	tpg	CDS	7052	7204	.	+	0	ID=cds-DAR99072.1;Dbxref=NCBI_GP:DAR99072.1;Name=DAR99072.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99072.1;transl_table=11
+BK033981.1	tpg	CDS	7207	7323	.	+	0	ID=cds-DAR99073.1;Dbxref=NCBI_GP:DAR99073.1;Name=DAR99073.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99073.1;transl_table=11
+BK033981.1	tpg	CDS	7384	7596	.	-	0	ID=cds-DAR99074.1;Dbxref=NCBI_GP:DAR99074.1;Name=DAR99074.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99074.1;transl_table=11
+BK033981.1	tpg	CDS	7568	7690	.	+	0	ID=cds-DAR99075.1;Dbxref=NCBI_GP:DAR99075.1;Name=DAR99075.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99075.1;transl_table=11
+BK033981.1	tpg	CDS	7757	7933	.	+	0	ID=cds-DAR99076.1;Dbxref=NCBI_GP:DAR99076.1;Name=DAR99076.1;Note=Minor structural protein 4%2C Minor%2C Lactococcus lactis%2C Siphoviridae%2C nanobody;gbkey=CDS;inference=protein motif:PDB:5E7T_B;product=Minor structural protein 4%2C Minor%2C Lactococcus lactis%2C Siphoviridae%2C nanobody;protein_id=DAR99076.1;transl_table=11
+BK033981.1	tpg	CDS	8075	8230	.	+	0	ID=cds-DAR99077.1;Dbxref=NCBI_GP:DAR99077.1;Name=DAR99077.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99077.1;transl_table=11
+BK033981.1	tpg	CDS	8297	8755	.	+	0	ID=cds-DAR99078.1;Dbxref=NCBI_GP:DAR99078.1;Name=DAR99078.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99078.1;transl_table=11
+BK033981.1	tpg	CDS	8757	9329	.	+	0	ID=cds-DAR99079.1;Dbxref=NCBI_GP:DAR99079.1;Name=DAR99079.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99079.1;transl_table=11
+BK033981.1	tpg	CDS	9333	9440	.	+	0	ID=cds-DAR99080.1;Dbxref=NCBI_GP:DAR99080.1;Name=DAR99080.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99080.1;transl_table=11
+BK033981.1	tpg	CDS	9454	10020	.	+	0	ID=cds-DAR99081.1;Dbxref=NCBI_GP:DAR99081.1;Name=DAR99081.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99081.1;transl_table=11
+BK033981.1	tpg	CDS	10087	10179	.	+	0	ID=cds-DAR99082.1;Dbxref=NCBI_GP:DAR99082.1;Name=DAR99082.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99082.1;transl_table=11
+BK033981.1	tpg	CDS	10160	10276	.	-	0	ID=cds-DAR99083.1;Dbxref=NCBI_GP:DAR99083.1;Name=DAR99083.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99083.1;transl_table=11
+BK033981.1	tpg	CDS	10443	10661	.	+	0	ID=cds-DAR99084.1;Dbxref=NCBI_GP:DAR99084.1;Name=DAR99084.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99084.1;transl_table=11
+BK033981.1	tpg	CDS	10671	10763	.	+	0	ID=cds-DAR99085.1;Dbxref=NCBI_GP:DAR99085.1;Name=DAR99085.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99085.1;transl_table=11
+BK033981.1	tpg	CDS	10767	10913	.	+	0	ID=cds-DAR99086.1;Dbxref=NCBI_GP:DAR99086.1;Name=DAR99086.1;Note=Short C-terminal domain;gbkey=CDS;inference=protein motif:PFAM:PF09851.9;product=Short C-terminal domain;protein_id=DAR99086.1;transl_table=11
+BK033981.1	tpg	CDS	10954	11043	.	-	0	ID=cds-DAR99087.1;Dbxref=NCBI_GP:DAR99087.1;Name=DAR99087.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99087.1;transl_table=11
+BK033981.1	tpg	CDS	11063	11182	.	-	0	ID=cds-DAR99088.1;Dbxref=NCBI_GP:DAR99088.1;Name=DAR99088.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99088.1;transl_table=11
+BK033981.1	tpg	CDS	11280	11474	.	-	0	ID=cds-DAR99089.1;Dbxref=NCBI_GP:DAR99089.1;Name=DAR99089.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99089.1;transl_table=11
+BK033981.1	tpg	CDS	11525	11902	.	+	0	ID=cds-DAR99090.1;Dbxref=NCBI_GP:DAR99090.1;Name=DAR99090.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99090.1;transl_table=11
+BK033981.1	tpg	CDS	11980	12231	.	+	0	ID=cds-DAR99091.1;Dbxref=NCBI_GP:DAR99091.1;Name=DAR99091.1;Note=Regulatory protein/DNA Complex-sensing repressor%2C gene regulation%2C RsaL-DNA;gbkey=CDS;inference=protein motif:PDB:5J2Y_B;product=Regulatory protein;protein_id=DAR99091.1;transl_table=11
+BK033981.1	tpg	CDS	12266	13285	.	-	0	ID=cds-DAR99048.1;Dbxref=NCBI_GP:DAR99048.1;Name=DAR99048.1;Note=Integrase;gbkey=CDS;inference=protein motif:PDB:1Z19_B;product=Integrase;protein_id=DAR99048.1;transl_table=11
+BK033981.1	tpg	CDS	13376	13492	.	-	0	ID=cds-DAR99092.1;Dbxref=NCBI_GP:DAR99092.1;Name=DAR99092.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99092.1;transl_table=11
+BK033981.1	tpg	CDS	13514	13729	.	+	0	ID=cds-DAR99093.1;Dbxref=NCBI_GP:DAR99093.1;Name=DAR99093.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99093.1;transl_table=11
+BK033981.1	tpg	CDS	13790	13966	.	+	0	ID=cds-DAR99094.1;Dbxref=NCBI_GP:DAR99094.1;Name=DAR99094.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAR99094.1;transl_table=11
+BK033981.1	tpg	CDS	13981	14519	.	+	0	ID=cds-DAR99095.1;Dbxref=NCBI_GP:DAR99095.1;Name=DAR99095.1;Note=No HHsearch hits;end_range=14519,.;gbkey=CDS;partial=true;product=hypothetical protein;protein_id=DAR99095.1;transl_table=11

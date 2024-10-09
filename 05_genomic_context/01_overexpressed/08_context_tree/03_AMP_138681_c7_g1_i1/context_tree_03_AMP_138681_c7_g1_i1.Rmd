@@ -1,0 +1,176 @@
+---
+title: "context_tree"
+output: pdf_document
+date: "2024-10-07"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+options(repos = c(CRAN = "https://cloud.r-project.org"))
+
+if (!requireNamespace("gggenes", quietly = TRUE)) {
+    install.packages("gggenes")
+}
+if (!requireNamespace("rtracklayer", quietly = TRUE)) {
+    install.packages("BiocManager")
+    BiocManager::install("rtracklayer")
+}
+
+```
+
+## Genomic context AMP_138200_c2_g1_i1 
+```{r, echo=FALSE, fig.width=5, fig.height=5}
+# Load necessary libraries
+library(rtracklayer)
+library(ggplot2)
+library(gggenes)
+library(plotly)
+library(grid)            # For unit handling
+library(RColorBrewer)    # For color palettes
+
+# Function to load multiple GFF3 files with specific start and end positions and plot them using gggenes
+plot_gff3_genomic_context <- function(gff3_files_info,
+                                      output_svg = "genomic_context_plot.svg", 
+                                      output_png = "genomic_context_plot.png",
+                                      width = 10, height = 8, dpi = 300) {
+  
+  all_gene_data <- data.frame()  # Initialize an empty data frame to store gene data
+  
+  # Loop through each GFF3 file and corresponding start and end positions
+  for (i in seq_along(gff3_files_info)) {
+    gff3_file <- gff3_files_info[[i]]$file      # Get the GFF3 file path
+    species_name <- gff3_files_info[[i]]$species_name
+    start_pos <- gff3_files_info[[i]]$start     # Get the start position
+    end_pos <- gff3_files_info[[i]]$end         # Get the end position
+    # Import the GFF3 file using rtracklayer
+    gff_data <- import(gff3_file, format = "gff3")
+    
+    # Convert GFF3 data (GRanges) into a data frame
+    gff_df <- as.data.frame(gff_data)
+    
+    # Filter the data to only include genes that fall within the specified start and end range
+    gene_df <- gff_df[gff_df$type == "CDS" & gff_df$start >= start_pos & gff_df$end <= end_pos, ]
+    
+    # Check if the filtered gene_df is not empty
+    if (nrow(gene_df) > 0) {
+      # Extract the filename (without the path) to use as an identifier for the plot
+      file_name <- basename(gff3_file)
+      
+      # Create a data frame compatible with gggenes
+      gene_df_for_plot <- data.frame(
+        molecule = gene_df$seqnames,                # Chromosome or scaffold
+        gene = gene_df$product,                     # Gene name or ID
+        start = gene_df$start,                      # Start position from the GFF3
+        end = gene_df$end,                          # End position from the GFF3
+        strand = ifelse(gene_df$strand == "+", 1, -1),  # Strand (+1 or -1)
+        direction = ifelse(gene_df$strand == "+", "forward", "reverse"), # Direction based on strand
+        source = file_name,                          # Add file name to distinguish different GFF3 files
+        species_name = species_name
+      )
+      
+      # Append the data to the combined data frame
+      all_gene_data <- rbind(all_gene_data, gene_df_for_plot)
+    } else {
+      message(paste("No CDS found in", gff3_file, "for the specified range."))
+    }
+  }
+  
+  # Check if all_gene_data is not empty before plotting
+  if (nrow(all_gene_data) == 0) {
+    stop("No genes to plot. Please check your GFF3 files and specified ranges.")
+  }
+  
+  # Ensure the species name is treated as a factor and preserve the input order
+  all_gene_data$species_name <- factor(all_gene_data$species_name, levels = sapply(gff3_files_info, function(x) x$species_name))
+  
+  # Identify unique genes
+  unique_genes <- unique(all_gene_data$gene)
+  
+  # Define a custom color palette excluding "hypothetical protein"
+  palette_colors <- c(
+    "#1f78b4", "#33a02c", "#ff7f00", "#ffed6f",
+    "#6a3d9a", "#b15928", "#a6cee3", "#b2df8a",
+    "#fb9a99", "#fdbf6f", "#cab2d6", "#ffff99",
+    "#8dd3c7", "#ffffb3", "#bebada", "#fb8072",
+    "#80b1d3", "#fdb462", "#b3de69", "#fccde5",
+    "#d9d9d9", "#bc80bd", "#ccebc5"
+  )
+  
+  # Initialize the color mapping
+  color_mapping <- setNames(rep(NA, length(unique_genes)), unique_genes)
+  
+  # Assign red to "AMP"
+  hyp_prot_genes <- unique_genes[grepl("AMP", unique_genes, ignore.case = TRUE)]
+  color_mapping[hyp_prot_genes] <- "red"
+  
+  # Assign colors to other genes
+  non_hyp_prot_genes <- setdiff(unique_genes, hyp_prot_genes)
+  num_non_hyp_prot <- length(non_hyp_prot_genes)
+  
+  # Check if the palette has enough colors; if not, extend it
+  if (num_non_hyp_prot > length(palette_colors)) {
+    extended_palette <- rep(palette_colors, length.out = num_non_hyp_prot)
+  } else {
+    extended_palette <- palette_colors[1:num_non_hyp_prot]
+  }
+  
+  # Assign palette colors to non-hypothetical proteins
+  color_mapping[non_hyp_prot_genes] <- extended_palette
+  
+  # Create the plot using gggenes
+  plot <- ggplot(all_gene_data, aes(xmin = start, xmax = end, y = molecule, fill = gene, label = gene)) +
+    geom_gene_arrow(
+      arrowhead_height = unit(4, "mm"), 
+      arrow_body_height = unit(4, "mm"), 
+      arrowhead_width = unit(1, "mm"), 
+      direction = aes(direction)
+    ) +  # Gene arrows with custom arrowhead and direction
+    geom_gene_label(align = "left") +    # Add gene name labels inside the arrows
+    facet_wrap(~ species_name, scales = "free", ncol = 1) +  # Facet by species name
+    scale_fill_manual(values = color_mapping, guide = guide_legend(ncol = 1)) +  # Custom color mapping for gene arrows
+    scale_x_continuous(expand = expansion()) + 
+    labs(x = NULL, y = NULL, fill = "Gene") +
+    theme_genes() + 
+    theme(
+      legend.position = "right",
+      axis.title.x = element_blank(),   # Remove x-axis title
+      axis.text.x = element_blank(),    # Remove x-axis text
+      axis.ticks.x = element_blank(),   # Remove x-axis ticks
+      axis.line.x = element_blank(),
+      strip.text = element_text(size = 12)  # Enhance facet labels
+    )
+  
+  # Display the plot
+  print(plot)  # Ensure the plot is printed in the RMarkdown document or R environment
+  
+  # Save the plot as SVG
+  ggsave(filename = output_svg, plot = plot, width = width, height = height, units = "in", device = "svg")
+  message(paste("SVG plot saved as", output_svg))
+  
+  # Save the plot as PNG
+  ggsave(filename = output_png, plot = plot, width = width, height = height, units = "in", dpi = dpi, device = "png")
+  message(paste("PNG plot saved as", output_png))
+}
+
+
+```
+
+```{r, echo=FALSE, fig.width=10, fig.height=10}
+# Example usage of the function
+# Provide a list of GFF3 files with their respective start and end positions
+gff3_files_info <- list(
+  list(file = "./BK033981.1.gff3", species_name = "Caudoviricetes sp. isolate ctiL05", start = 8506, end = 14519),
+  list(file = "./BK025808.1.gff3", species_name = "Caudoviricetes sp. isolate ctvmC44", start = 0, end = 5462),
+  list(file = "./BK026979.1.gff3", species_name = "Caudoviricetes sp. isolate ctInE22", start = 0, end = 5462),
+  list(file = "./BK027835.1.gff3", species_name = "Caudoviricetes sp. isolate ctUyu4", start = 9793, end = 16000),
+  list(file = "./CP107216.1.gff3", species_name = "Clostridiales bacterium isolate KR001_HIC_0007", start = 2209257, end = 2219257),
+  list(file = "./BK038133.1.gff3", species_name = "Caudoviricetes sp. isolate ctlNO7", start = 0, end = 5463)
+)
+
+plot_gff3_genomic_context(gff3_files_info,
+                          output_svg = "genomic_context.svg", 
+                           output_png = "genomic_context.png",
+                           width = 12, height = 10, dpi = 300)
+
+```

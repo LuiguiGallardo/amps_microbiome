@@ -1,0 +1,34 @@
+##gff-version 3
+#!gff-spec-version 1.21
+#!processor NCBI annotwriter
+##sequence-region BK027835.1 1 16000
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=2832643
+BK027835.1	tpg	region	1	16000	.	+	.	ID=BK027835.1:1..16000;Dbxref=taxon:2832643;collection-date=2015-07-17;country=USA;environmental-sample=true;gbkey=Src;isolate=ctUyu4;isolation-source=Human metagenome;metagenome-source=Human Metagenome;metagenomic=true;mol_type=genomic DNA;note=genome binned from sequencing reads available in ERX547580%2CERX547580%2CERX547580;old-name=Myoviridae sp.
+BK027835.1	tpg	CDS	1	775	.	-	0	ID=cds-DAY79683.1;Dbxref=NCBI_GP:DAY79683.1;Name=DAY79683.1;Note=COLLAGEN ALPHA 1(VIII) CHAIN%2C C1Q_LIKE_DOMAIN%2C EXTRACELLULAR MATRIX%2C ADHESION;gbkey=CDS;inference=protein motif:PDB:1O91_B;partial=true;product=collagen alpha 1(VIII) chain protein;protein_id=DAY79683.1;start_range=.,1;transl_table=11
+BK027835.1	tpg	CDS	772	1101	.	-	0	ID=cds-DAY79684.1;Dbxref=NCBI_GP:DAY79684.1;Name=DAY79684.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79684.1;transl_table=11
+BK027835.1	tpg	CDS	1113	2063	.	-	0	ID=cds-DAY79680.1;Dbxref=NCBI_GP:DAY79680.1;Name=DAY79680.1;Note=Putative tail protein;gbkey=CDS;inference=protein motif:UniProt:tr|A0A068EP79_9CAUD;product=Putative tail protein;protein_id=DAY79680.1;transl_table=11
+BK027835.1	tpg	CDS	2075	3847	.	-	0	ID=cds-DAY79685.1;Dbxref=NCBI_GP:DAY79685.1;Name=DAY79685.1;Note=Phage stabilisation protein;gbkey=CDS;inference=protein motif:PFAM:PF11134.8;product=stabilization protein;protein_id=DAY79685.1;transl_table=11
+BK027835.1	tpg	CDS	3853	4281	.	-	0	ID=cds-DAY79686.1;Dbxref=NCBI_GP:DAY79686.1;Name=DAY79686.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79686.1;transl_table=11
+BK027835.1	tpg	CDS	4341	5393	.	-	0	ID=cds-DAY79681.1;Dbxref=NCBI_GP:DAY79681.1;Name=DAY79681.1;Note=Major capsid protein;gbkey=CDS;inference=protein motif:PDB:5UU5_D;product=Major capsid protein;protein_id=DAY79681.1;transl_table=11
+BK027835.1	tpg	CDS	5457	6356	.	-	0	ID=cds-DAY79687.1;Dbxref=NCBI_GP:DAY79687.1;Name=DAY79687.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79687.1;transl_table=11
+BK027835.1	tpg	CDS	6469	8178	.	-	0	ID=cds-DAY79682.1;Dbxref=NCBI_GP:DAY79682.1;Name=DAY79682.1;Note=portal protein;gbkey=CDS;inference=protein motif:PFAM:PF16510.4;product=portal protein;protein_id=DAY79682.1;transl_table=11
+BK027835.1	tpg	CDS	8171	8515	.	-	0	ID=cds-DAY79688.1;Dbxref=NCBI_GP:DAY79688.1;Name=DAY79688.1;Note=Phage shock protein B;gbkey=CDS;inference=protein motif:PFAM:PF06667.12;product=shock protein B;protein_id=DAY79688.1;transl_table=11
+BK027835.1	tpg	CDS	8525	9934	.	-	0	ID=cds-DAY79679.1;Dbxref=NCBI_GP:DAY79679.1;Name=DAY79679.1;Note=Large subunit terminase;gbkey=CDS;inference=protein motif:PDB:5OEA_B;product=Large subunit terminase;protein_id=DAY79679.1;transl_table=11
+BK027835.1	tpg	CDS	10025	10168	.	-	0	ID=cds-DAY79689.1;Dbxref=NCBI_GP:DAY79689.1;Name=DAY79689.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79689.1;transl_table=11
+BK027835.1	tpg	CDS	10178	10969	.	-	0	ID=cds-DAY79690.1;Dbxref=NCBI_GP:DAY79690.1;Name=DAY79690.1;Note=Vacuolar protein sorting-associated protein 29%2C cellular trafficking%2C endosomal sorting.5A;gbkey=CDS;inference=protein motif:PDB:5GTU_A;product=vacuolar protein sorting-associated protein;protein_id=DAY79690.1;transl_table=11
+BK027835.1	tpg	CDS	10971	11144	.	-	0	ID=cds-DAY79691.1;Dbxref=NCBI_GP:DAY79691.1;Name=DAY79691.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79691.1;transl_table=11
+BK027835.1	tpg	CDS	11141	11464	.	-	0	ID=cds-DAY79692.1;Dbxref=NCBI_GP:DAY79692.1;Name=DAY79692.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79692.1;transl_table=11
+BK027835.1	tpg	CDS	11538	11927	.	-	0	ID=cds-DAY79693.1;Dbxref=NCBI_GP:DAY79693.1;Name=DAY79693.1;Note=DNA-packaging protein gp3 small subunit%2C DNA Packaging.755A;gbkey=CDS;inference=protein motif:PDB:3P9A_C;product=DNA-packaging protein small subunit;protein_id=DAY79693.1;transl_table=11
+BK027835.1	tpg	CDS	11957	12286	.	-	0	ID=cds-DAY79694.1;Dbxref=NCBI_GP:DAY79694.1;Name=DAY79694.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79694.1;transl_table=11
+BK027835.1	tpg	CDS	12275	12394	.	+	0	ID=cds-DAY79695.1;Dbxref=NCBI_GP:DAY79695.1;Name=DAY79695.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79695.1;transl_table=11
+BK027835.1	tpg	CDS	12372	12467	.	+	0	ID=cds-DAY79696.1;Dbxref=NCBI_GP:DAY79696.1;Name=DAY79696.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79696.1;transl_table=11
+BK027835.1	tpg	CDS	12471	12710	.	+	0	ID=cds-DAY79697.1;Dbxref=NCBI_GP:DAY79697.1;Name=DAY79697.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79697.1;transl_table=11
+BK027835.1	tpg	CDS	12915	13106	.	+	0	ID=cds-DAY79698.1;Dbxref=NCBI_GP:DAY79698.1;Name=DAY79698.1;Note=RCR_reg Replication regulatory protein RepB;gbkey=CDS;inference=protein motif:PFAM:PF10723.9;product=hypothetical protein;protein_id=DAY79698.1;transl_table=11
+BK027835.1	tpg	CDS	13169	13351	.	+	0	ID=cds-DAY79699.1;Dbxref=NCBI_GP:DAY79699.1;Name=DAY79699.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79699.1;transl_table=11
+BK027835.1	tpg	CDS	13455	13955	.	+	0	ID=cds-DAY79676.1;Dbxref=NCBI_GP:DAY79676.1;Name=DAY79676.1;Note=DnaJ_C chaperone protein;gbkey=CDS;inference=protein motif:CDD:240236;product=DnaJ-like protein;protein_id=DAY79676.1;transl_table=11
+BK027835.1	tpg	CDS	14053	14520	.	+	0	ID=cds-DAY79700.1;Dbxref=NCBI_GP:DAY79700.1;Name=DAY79700.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79700.1;transl_table=11
+BK027835.1	tpg	CDS	14672	14839	.	+	0	ID=cds-DAY79701.1;Dbxref=NCBI_GP:DAY79701.1;Name=DAY79701.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79701.1;transl_table=11
+BK027835.1	tpg	CDS	14836	14934	.	+	0	ID=cds-DAY79702.1;Dbxref=NCBI_GP:DAY79702.1;Name=DAY79702.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79702.1;transl_table=11
+BK027835.1	tpg	CDS	14946	15164	.	+	0	ID=cds-DAY79703.1;Dbxref=NCBI_GP:DAY79703.1;Name=DAY79703.1;Note=No HHsearch hits;gbkey=CDS;product=hypothetical protein;protein_id=DAY79703.1;transl_table=11
+BK027835.1	tpg	CDS	15256	15777	.	-	0	ID=cds-DAY79677.1;Dbxref=NCBI_GP:DAY79677.1;Name=DAY79677.1;Note=Peptidyl-prolyl cis-trans isomerase (rotamase) - cyclophilin family;gbkey=CDS;inference=protein motif:CDD:223725;product=peptidyl-prolyl cis-transisomerase;protein_id=DAY79677.1;transl_table=11
+BK027835.1	tpg	CDS	15777	16000	.	-	2	ID=cds-DAY79678.1;Dbxref=NCBI_GP:DAY79678.1;Name=DAY79678.1;Note=SmpB protein;end_range=16000,.;gbkey=CDS;inference=protein motif:CDD:334633;partial=true;product=SmpB protein;protein_id=DAY79678.1;transl_table=11
