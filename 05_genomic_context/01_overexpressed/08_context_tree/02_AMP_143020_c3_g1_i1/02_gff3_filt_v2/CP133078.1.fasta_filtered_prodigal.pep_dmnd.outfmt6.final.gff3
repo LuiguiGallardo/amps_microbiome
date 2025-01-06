@@ -1,0 +1,19 @@
+##gff-version 3
+CP133078.1	BLASTP	match	2466374	2467579	3.1e-193	-	.	ID=CP133078.1_2368;subject=ABC transporter permease;score=684.1
+CP133078.1	BLASTP	match	2467576	2468271	1.8e-113	-	.	ID=CP133078.1_2369;subject=Macrolide export ATP-binding/permease protein MacB;score=418.3
+CP133078.1	BLASTP	match	2468282	2469463	2.1e-178	-	.	ID=CP133078.1_2370;subject=Efflux RND transporter periplasmic adaptor subunit;score=634.8
+CP133078.1	BLASTP	match	2469842	2473369	0.0	-	.	ID=CP133078.1_2371;subject=Pyruvate:ferredoxin oxidoreductase;score=2233.0
+CP133078.1	BLASTP	match	2474513	2475526	3.1999999999999997e-191	-	.	ID=CP133078.1_2372;subject=Copper amine oxidase N-terminal domain-containing protein;score=677.2
+CP133078.1	BLASTP	match	2475561	2476553	1.2e-193	-	.	ID=CP133078.1_2373;subject=L,D-transpeptidase;score=685.3
+CP133078.1	BLASTP	match	2476817	2477290	1.2e-79	+	.	ID=CP133078.1_2374;subject=SsrA-binding protein;score=305.4
+CP133078.1	BLASTP	match	2477885	2478223	5.2e-53	-	.	ID=CP133078.1_2375;subject=Helix-turn-helix transcriptional regulator;score=216.5
+CP133078.1	BLASTP	match	2478291	2479892	1.8999999999999999e-299	-	.	ID=CP133078.1_2376;subject=Recombinase family protein;score=1037.3
+CP133078.1	BLASTP	match	2480903	2481256	2.7e-60	-	.	ID=CP133078.1_2377;subject=Uncharacterized protein;score=240.7
+CP133078.1	BLASTP	match	2481413	2482072	4.7e-119	-	.	ID=CP133078.1_2378;subject=DUF1643 domain-containing protein;score=436.8
+CP133078.1	BLASTP	match	2482283	2483785	5.8e-282	+	.	ID=CP133078.1_2379;subject=AAA family ATPase;score=979.2
+CP133078.1	BLASTP	match	2484161	2484838	1.4e-121	+	.	ID=CP133078.1_2380;subject=Crp/Fnr family transcriptional regulator;score=445.3
+CP133078.1	BLASTP	match	2485300	2485986	3.1e-129	-	.	ID=CP133078.1_2381;subject=DUF2249 domain-containing protein;score=470.7
+CP133078.1	BLASTP	match	2486005	2486562	1.5e-97	-	.	ID=CP133078.1_2382;subject=Hemerythrin domain-containing protein;score=365.2
+CP133078.1	BLASTP	match	2486801	2487172	1.5e-50	-	.	ID=CP133078.1_2383;subject=Uncharacterized protein;score=208.4
+CP133078.1	BLASTP	match	2487427	2487615	2.1e-27	-	.	ID=CP133078.1_2384;subject=Ferredoxin;score=130.6
+CP133078.1	AMP	match	2477316	2477444	.	+	0	ID=AMP_143020_c3_g1_i1;subject=AMP

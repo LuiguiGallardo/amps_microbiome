@@ -1,0 +1,23 @@
+##gff-version 3
+BK026787.1	BLASTP	match	9413	9778	1.8e-64	+	.	ID=BK026787.1_14;subject=Phage portal protein;score=254.6
+BK026787.1	BLASTP	match	9760	10407	3.2e-120	+	.	ID=BK026787.1_15;subject=Peptidoglycan-binding protein;score=440.7
+BK026787.1	BLASTP	match	10429	11409	5.7e-185	+	.	ID=BK026787.1_16;subject=Phage protein;score=656.4
+BK026787.1	BLASTP	match	11409	11774	2.7e-63	+	.	ID=BK026787.1_17;subject=Phage XkdN-like protein;score=250.8
+BK026787.1	BLASTP	match	11771	11926	6.300000000000001e-22	+	.	ID=BK026787.1_18;subject=Uncharacterized protein;score=112.1
+BK026787.1	BLASTP	match	11931	12584	1.1999999999999999e-90	+	.	ID=BK026787.1_19;subject=Uncharacterized protein;score=342.4
+BK026787.1	BLASTP	match	12597	12914	2.8e-48	+	.	ID=BK026787.1_20;subject=DUF2577 domain-containing protein;score=200.7
+BK026787.1	BLASTP	match	12916	13320	5.8e-67	+	.	ID=BK026787.1_21;subject=Phage protein;score=263.1
+BK026787.1	BLASTP	match	13317	14390	2.8000000000000003e-201	+	.	ID=BK026787.1_22;subject=Phage tail protein;score=710.7
+BK026787.1	BLASTP	match	14387	15013	2.8e-113	+	.	ID=BK026787.1_23;subject=Uncharacterized protein;score=417.5
+BK026787.1	BLASTP	match	15434	17593	0.0	+	.	ID=BK026787.1_24;subject=Ribonuclease R;score=1423.3
+BK026787.1	BLASTP	match	17649	18770	3.8000000000000004e-209	-	.	ID=BK026787.1_25;subject=RDD domain-containing protein;score=736.9
+BK026787.1	BLASTP	match	19017	19490	3.8999999999999996e-83	+	.	ID=BK026787.1_26;subject=SsrA-binding protein;score=317.0
+BK026787.1	BLASTP	match	19974	21137	9.6e-208	-	.	ID=BK026787.1_27;subject=site-specific integrase;score=732.3
+BK026787.1	BLASTP	match	21691	22227	6.6e-95	-	.	ID=BK026787.1_29;subject=tyrosine-type recombinase/integrase;score=356.3
+BK026787.1	BLASTP	match	23090	24097	1.5000000000000002e-193	-	.	ID=BK026787.1_31;subject=phage/plasmid primase, P4 family;score=684.9
+BK026787.1	BLASTP	match	25432	25929	4.0999999999999997e-91	+	.	ID=BK026787.1_33;subject=hypothetical protein;score=343.6
+BK026787.1	BLASTP	match	26071	26307	5.6e-38	-	.	ID=BK026787.1_34;subject=excisionase family DNA-binding protein;score=166.0
+BK026787.1	BLASTP	match	26882	27256	2.2e-65	+	.	ID=BK026787.1_35;subject=DUF3846 domain-containing protein;score=257.7
+BK026787.1	BLASTP	match	27268	28386	1.7e-225	+	.	ID=BK026787.1_36;subject=amidoligase family protein;score=791.2
+BK026787.1	BLASTP	match	28614	29330	3.7999999999999996e-138	+	.	ID=BK026787.1_37;subject=class II glutamine amidotransferase;score=500.4
+BK026787.1	AMP	match	19543	19671	.	+	0	ID=AMP_143020_c3_g1_i1;subject=AMP

@@ -1,0 +1,17 @@
+##gff-version 3
+CP081917.1	BLASTP	match	4243644	4245803	0.0	+	.	ID=CP081917.1_3439;subject=BACON domain-containing protein;score=1472.2
+CP081917.1	BLASTP	match	4245805	4246902	8.200000000000001e-201	-	.	ID=CP081917.1_3440;subject=Transposase DDE domain-containing protein;score=709.1
+CP081917.1	BLASTP	match	4246910	4247110	4e-29	-	.	ID=CP081917.1_3441;subject=Transposase;score=136.3
+CP081917.1	BLASTP	match	4247152	4247421	5.4000000000000003e-45	-	.	ID=CP081917.1_3442;subject=Uncharacterized protein;score=189.5
+CP081917.1	BLASTP	match	4247455	4248660	1.6e-226	-	.	ID=CP081917.1_3443;subject=Uncharacterized protein;score=794.7
+CP081917.1	BLASTP	match	4249007	4250131	3e-190	-	.	ID=CP081917.1_3444;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP081917.1	BLASTP	match	4251235	4251879	1.3000000000000002e-124	-	.	ID=CP081917.1_3445;subject=Transposase;score=455.3
+CP081917.1	BLASTP	match	4251876	4252820	1.3e-175	-	.	ID=CP081917.1_3446;subject=Transposase;score=625.2
+CP081917.1	BLASTP	match	4252903	4253268	1.6e-52	-	.	ID=CP081917.1_3447;subject=Transposase;score=214.9
+CP081917.1	BLASTP	match	4253252	4253683	4.1e-71	-	.	ID=CP081917.1_3448;subject=Transposase;score=276.9
+CP081917.1	BLASTP	match	4254223	4254393	3e-25	+	.	ID=CP081917.1_3449;subject=Uncharacterized protein;score=123.2
+CP081917.1	BLASTP	match	4254589	4258554	0.0	+	.	ID=CP081917.1_3450;subject=histidine kinase;score=2724.1
+CP081917.1	BLASTP	match	4259124	4259615	3.8e-89	-	.	ID=CP081917.1_3451;subject=DUF1566 domain-containing protein;score=337.0
+CP081917.1	BLASTP	match	4259618	4260070	1.4e-77	-	.	ID=CP081917.1_3452;subject=Fimbrillin family protein;score=298.5
+CP081917.1	BLASTP	match	4260152	4261432	2.3e-250	-	.	ID=CP081917.1_3453;subject=DUF1566 domain-containing protein;score=874.0
+CP081917.1	BLASTP	match	4263677	4264426	1.7999999999999998e-138	-	.	ID=CP081917.1_3454;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5

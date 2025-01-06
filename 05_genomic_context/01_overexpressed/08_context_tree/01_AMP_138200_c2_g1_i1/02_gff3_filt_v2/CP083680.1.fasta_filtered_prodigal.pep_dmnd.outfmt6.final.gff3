@@ -1,0 +1,21 @@
+##gff-version 3
+CP083680.1	BLASTP	match	5739802	5740908	1.5e-213	+	.	ID=CP083680.1_4516;subject=Site-specific integrase;score=751.5
+CP083680.1	BLASTP	match	5741051	5741326	2.2e-38	-	.	ID=CP083680.1_4517;subject=AAA domain family protein;score=167.5
+CP083680.1	BLASTP	match	5741319	5741813	1.8e-78	-	.	ID=CP083680.1_4518;subject=DUF2589 domain-containing protein;score=301.6
+CP083680.1	BLASTP	match	5741823	5741966	3.3e-17	-	.	ID=CP083680.1_4519;subject=Uncharacterized protein;score=96.3
+CP083680.1	BLASTP	match	5742043	5743749	1.4000000000000001e-260	-	.	ID=CP083680.1_4520;subject=Fimbrillin family protein;score=908.3
+CP083680.1	BLASTP	match	5743762	5745333	2.2e-276	-	.	ID=CP083680.1_4521;subject=Fimbrillin family protein;score=960.7
+CP083680.1	BLASTP	match	5745368	5746255	2.9e-140	-	.	ID=CP083680.1_4522;subject=Fimbrillin family protein;score=507.7
+CP083680.1	BLASTP	match	5746276	5747130	5.9e-154	-	.	ID=CP083680.1_4523;subject=DUF5119 domain-containing protein;score=553.1
+CP083680.1	BLASTP	match	5747180	5748280	2.1000000000000003e-164	-	.	ID=CP083680.1_4524;subject=DUF3575 domain-containing protein;score=588.2
+CP083680.1	BLASTP	match	5748482	5749609	5.5e-192	-	.	ID=CP083680.1_4525;subject=Helix-turn-helix transcriptional regulator;score=679.9
+CP083680.1	BLASTP	match	5749726	5750439	1.2e-128	+	.	ID=CP083680.1_4526;subject=Uncharacterized protein;score=468.8
+CP083680.1	BLASTP	match	5751004	5751174	3e-25	+	.	ID=CP083680.1_4527;subject=Uncharacterized protein;score=123.2
+CP083680.1	BLASTP	match	5751370	5755335	0.0	+	.	ID=CP083680.1_4528;subject=histidine kinase;score=2724.1
+CP083680.1	BLASTP	match	5755551	5756552	5.5999999999999996e-188	-	.	ID=CP083680.1_4529;subject=DUF1738 domain-containing protein (Fragment);score=666.4
+CP083680.1	BLASTP	match	5756651	5757682	7.7e-193	-	.	ID=CP083680.1_4530;subject=Tyrosine-type recombinase/integrase;score=682.6
+CP083680.1	BLASTP	match	5757660	5758622	4.3999999999999996e-166	-	.	ID=CP083680.1_4531;subject=Tyrosine-type recombinase/integrase;score=593.6
+CP083680.1	BLASTP	match	5758619	5760229	2.7e-301	-	.	ID=CP083680.1_4532;subject=Tyrosine-type recombinase/integrase;score=1043.5
+CP083680.1	BLASTP	match	5760326	5761174	1.8e-163	+	.	ID=CP083680.1_4533;subject=DUF1738 domain-containing protein;score=584.7
+CP083680.1	BLASTP	match	5761200	5762123	7.699999999999999e-160	+	.	ID=CP083680.1_4534;subject=DUF1738 domain-containing protein;score=572.8
+CP083680.1	AMP	match	5750958	5751176	0	+	.	ID=AMP_138200_c2_g1_i1;subject=AMP

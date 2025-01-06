@@ -1,0 +1,22 @@
+##gff-version 3
+CP103082.1	BLASTP	match	2894936	2895979	9.3e-186	+	.	ID=CP103082.1_2565;subject=Tyr recombinase domain-containing protein;score=659.1
+CP103082.1	BLASTP	match	2896122	2896397	2.2e-38	-	.	ID=CP103082.1_2566;subject=AAA domain family protein;score=167.5
+CP103082.1	BLASTP	match	2896390	2896677	2.6e-45	-	.	ID=CP103082.1_2567;subject=DUF2589 domain-containing protein;score=190.7
+CP103082.1	BLASTP	match	2896655	2896885	1.3e-36	-	.	ID=CP103082.1_2568;subject=Uncharacterized protein;score=161.4
+CP103082.1	BLASTP	match	2897113	2898822	1.6e-256	-	.	ID=CP103082.1_2569;subject=GLUG domain-containing protein;score=894.8
+CP103082.1	BLASTP	match	2898845	2900407	2.4e-270	-	.	ID=CP103082.1_2570;subject=Fimbrillin family protein;score=940.6
+CP103082.1	BLASTP	match	2900442	2901329	1.0999999999999999e-142	-	.	ID=CP103082.1_2571;subject=Fimbrillin family protein;score=515.8
+CP103082.1	BLASTP	match	2901350	2902204	1.7e-156	-	.	ID=CP103082.1_2572;subject=DUF5119 domain-containing protein;score=561.6
+CP103082.1	BLASTP	match	2902254	2903354	3.3000000000000003e-165	-	.	ID=CP103082.1_2573;subject=DUF3575 domain-containing protein;score=590.9
+CP103082.1	BLASTP	match	2903813	2904679	7.3e-144	-	.	ID=CP103082.1_2574;subject=HTH araC/xylS-type domain-containing protein;score=519.6
+CP103082.1	BLASTP	match	2904796	2905509	4.1999999999999996e-129	+	.	ID=CP103082.1_2575;subject=Uncharacterized protein;score=470.3
+CP103082.1	BLASTP	match	2906440	2909613	0.0	+	.	ID=CP103082.1_2576;subject=histidine kinase;score=2161.7
+CP103082.1	BLASTP	match	2909585	2910406	8.400000000000001e-158	+	.	ID=CP103082.1_2577;subject=histidine kinase;score=565.8
+CP103082.1	BLASTP	match	2910622	2910903	1.7e-46	-	.	ID=CP103082.1_2578;subject=Uncharacterized protein;score=194.5
+CP103082.1	BLASTP	match	2912224	2912559	1.5000000000000002e-28	+	.	ID=CP103082.1_2579;subject=Uncharacterized protein;score=135.2
+CP103082.1	BLASTP	match	2912704	2912823	3e-11	+	.	ID=CP103082.1_2580;subject=RteC protein;score=76.3
+CP103082.1	BLASTP	match	2913040	2913333	1.6e-47	+	.	ID=CP103082.1_2581;subject=DNA-binding protein;score=198.0
+CP103082.1	BLASTP	match	2913399	2914610	1.3e-226	-	.	ID=CP103082.1_2582;subject=Site-specific integrase;score=795.0
+CP103082.1	BLASTP	match	2914638	2915867	3.599999999999999e-229	-	.	ID=CP103082.1_2583;subject=Tyr recombinase domain-containing protein;score=803.5
+CP103082.1	BLASTP	match	2915990	2916322	1.3e-45	+	.	ID=CP103082.1_2584;subject=Recombinase;score=191.8
+CP103082.1	AMP	match	2906028	2906246	0	+	.	ID=AMP_138200_c2_g1_i1;subject=AMP

@@ -1,0 +1,17 @@
+##gff-version 3
+CP081908.1	BLASTP	match	1895214	1895963	1.7999999999999998e-138	+	.	ID=CP081908.1_1688;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP081908.1	BLASTP	match	1898209	1899489	6.6e-250	+	.	ID=CP081908.1_1689;subject=DUF1566 domain-containing protein;score=872.5
+CP081908.1	BLASTP	match	1899571	1900023	1.4e-77	+	.	ID=CP081908.1_1690;subject=Fimbrillin family protein;score=298.5
+CP081908.1	BLASTP	match	1900026	1900517	3.8e-89	+	.	ID=CP081908.1_1691;subject=DUF1566 domain-containing protein;score=337.0
+CP081908.1	BLASTP	match	1901087	1905052	0.0	-	.	ID=CP081908.1_1692;subject=histidine kinase;score=2723.7
+CP081908.1	BLASTP	match	1905248	1905418	3e-25	-	.	ID=CP081908.1_1693;subject=Uncharacterized protein;score=123.2
+CP081908.1	BLASTP	match	1905958	1906389	4.1e-71	+	.	ID=CP081908.1_1694;subject=Transposase;score=276.9
+CP081908.1	BLASTP	match	1906373	1906738	1.6e-52	+	.	ID=CP081908.1_1695;subject=Transposase;score=214.9
+CP081908.1	BLASTP	match	1906821	1907765	1.3e-175	+	.	ID=CP081908.1_1696;subject=Transposase;score=625.2
+CP081908.1	BLASTP	match	1907762	1908406	1.3000000000000002e-124	+	.	ID=CP081908.1_1697;subject=Transposase;score=455.3
+CP081908.1	BLASTP	match	1909510	1910634	3e-190	+	.	ID=CP081908.1_1698;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP081908.1	BLASTP	match	1910981	1912186	1.6e-226	+	.	ID=CP081908.1_1699;subject=Uncharacterized protein;score=794.7
+CP081908.1	BLASTP	match	1912220	1912489	5.4000000000000003e-45	+	.	ID=CP081908.1_1700;subject=Uncharacterized protein;score=189.5
+CP081908.1	BLASTP	match	1912531	1912731	4e-29	+	.	ID=CP081908.1_1701;subject=Transposase;score=136.3
+CP081908.1	BLASTP	match	1912739	1913836	8.200000000000001e-201	+	.	ID=CP081908.1_1702;subject=Transposase DDE domain-containing protein;score=709.1
+CP081908.1	BLASTP	match	1913838	1915997	0.0	-	.	ID=CP081908.1_1703;subject=BACON domain-containing protein;score=1472.2

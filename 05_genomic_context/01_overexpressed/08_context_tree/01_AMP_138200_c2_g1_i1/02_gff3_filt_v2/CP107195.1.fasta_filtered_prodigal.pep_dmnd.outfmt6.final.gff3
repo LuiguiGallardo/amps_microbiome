@@ -1,0 +1,18 @@
+##gff-version 3
+CP107195.1	BLASTP	match	3408632	3409861	3.599999999999999e-229	+	.	ID=CP107195.1_2750;subject=Tyr recombinase domain-containing protein;score=803.5
+CP107195.1	BLASTP	match	3409889	3411100	4.3e-227	+	.	ID=CP107195.1_2751;subject=Site-specific integrase;score=796.6
+CP107195.1	BLASTP	match	3411165	3411458	1.8e-46	-	.	ID=CP107195.1_2752;subject=DNA-binding protein;score=194.5
+CP107195.1	BLASTP	match	3411675	3411794	1.6e-12	-	.	ID=CP107195.1_2753;subject=Uncharacterized protein;score=80.5
+CP107195.1	BLASTP	match	3413594	3413875	1.7e-46	+	.	ID=CP107195.1_2754;subject=Uncharacterized protein;score=194.5
+CP107195.1	BLASTP	match	3414091	3418056	0.0	-	.	ID=CP107195.1_2755;subject=histidine kinase;score=2719.9
+CP107195.1	BLASTP	match	3418252	3418422	3e-25	-	.	ID=CP107195.1_2756;subject=Uncharacterized protein;score=123.2
+CP107195.1	BLASTP	match	3418987	3419700	4.1999999999999996e-129	-	.	ID=CP107195.1_2757;subject=Uncharacterized protein;score=470.3
+CP107195.1	BLASTP	match	3419817	3420944	4.8e-196	+	.	ID=CP107195.1_2758;subject=Helix-turn-helix transcriptional regulator;score=693.3
+CP107195.1	BLASTP	match	3421143	3422237	1.8000000000000002e-168	+	.	ID=CP107195.1_2759;subject=DUF3575 domain-containing protein;score=601.7
+CP107195.1	BLASTP	match	3422287	3423141	1.7e-156	+	.	ID=CP107195.1_2760;subject=DUF5119 domain-containing protein;score=561.6
+CP107195.1	BLASTP	match	3423162	3424049	1.0999999999999999e-142	+	.	ID=CP107195.1_2761;subject=Fimbrillin family protein;score=515.8
+CP107195.1	BLASTP	match	3424084	3425646	2.4e-270	+	.	ID=CP107195.1_2762;subject=Fimbrillin family protein;score=940.6
+CP107195.1	BLASTP	match	3425669	3427378	2.4e-255	+	.	ID=CP107195.1_2763;subject=GLUG domain-containing protein;score=891.0
+CP107195.1	BLASTP	match	3427606	3427836	1.3e-36	+	.	ID=CP107195.1_2764;subject=Uncharacterized protein;score=161.4
+CP107195.1	BLASTP	match	3427814	3428101	2.6e-45	+	.	ID=CP107195.1_2765;subject=DUF2589 domain-containing protein;score=190.7
+CP107195.1	BLASTP	match	3428094	3428369	2.2e-38	+	.	ID=CP107195.1_2766;subject=AAA domain family protein;score=167.5

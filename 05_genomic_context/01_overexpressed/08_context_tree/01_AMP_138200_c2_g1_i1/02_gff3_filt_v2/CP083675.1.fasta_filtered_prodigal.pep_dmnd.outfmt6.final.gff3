@@ -1,0 +1,16 @@
+##gff-version 3
+CP083675.1	BLASTP	match	208047	210209	0.0	+	.	ID=CP083675.1_210;subject=Alpha-galactosidase;score=1488.8
+CP083675.1	BLASTP	match	210560	211324	5.5999999999999995e-140	+	.	ID=CP083675.1_211;subject=Protein SirB1 N-terminal domain-containing protein;score=506.5
+CP083675.1	BLASTP	match	211944	212150	5.200000000000001e-32	+	.	ID=CP083675.1_212;subject=Uncharacterized protein;score=146.0
+CP083675.1	BLASTP	match	212388	213362	4.200000000000001e-180	+	.	ID=CP083675.1_213;subject=DUF1738 domain-containing protein (Fragment);score=640.2
+CP083675.1	BLASTP	match	213578	217543	0.0	-	.	ID=CP083675.1_214;subject=histidine kinase;score=2718.0
+CP083675.1	BLASTP	match	218474	219187	9e-132	-	.	ID=CP083675.1_215;subject=Uncharacterized protein;score=479.2
+CP083675.1	BLASTP	match	219304	220431	3.1e-195	+	.	ID=CP083675.1_216;subject=Helix-turn-helix transcriptional regulator;score=690.6
+CP083675.1	BLASTP	match	220632	221726	7.5e-170	+	.	ID=CP083675.1_217;subject=DUF3575 domain-containing protein;score=606.3
+CP083675.1	BLASTP	match	221776	222630	9.999999999999999e-154	+	.	ID=CP083675.1_218;subject=DUF5119 domain-containing protein;score=552.4
+CP083675.1	BLASTP	match	222729	223616	2.8e-138	+	.	ID=CP083675.1_219;subject=Fimbrillin family protein;score=501.1
+CP083675.1	BLASTP	match	223651	225213	4.4999999999999995e-285	+	.	ID=CP083675.1_220;subject=Fimbrillin family protein;score=989.6
+CP083675.1	BLASTP	match	225236	226942	4.2e-260	+	.	ID=CP083675.1_221;subject=GLUG domain-containing protein;score=906.7
+CP083675.1	BLASTP	match	227019	227162	3.3e-17	+	.	ID=CP083675.1_222;subject=Uncharacterized protein;score=96.3
+CP083675.1	BLASTP	match	227305	227721	4.2000000000000003e-73	+	.	ID=CP083675.1_223;subject=IS66 family insertion sequence element accessory protein TnpB;score=283.5
+CP083675.1	AMP	match	218120	218338	0	-	.	ID=AMP_138200_c2_g1_i1;subject=AMP

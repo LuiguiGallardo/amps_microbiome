@@ -1,0 +1,22 @@
+##gff-version 3
+CP103206.1	BLASTP	match	3295392	3296168	1.2e-140	+	.	ID=CP103206.1_3201;subject=BACON domain-containing protein;score=508.8
+CP103206.1	BLASTP	match	3296149	3297552	2.5e-279	+	.	ID=CP103206.1_3202;subject=BACON domain-containing protein;score=970.3
+CP103206.1	BLASTP	match	3297554	3298642	8.7e-195	-	.	ID=CP103206.1_3203;subject=Transposase DDE domain-containing protein;score=689.1
+CP103206.1	BLASTP	match	3298658	3298858	4e-29	-	.	ID=CP103206.1_3204;subject=Transposase;score=136.3
+CP103206.1	BLASTP	match	3298900	3299169	5.4000000000000003e-45	-	.	ID=CP103206.1_3205;subject=Uncharacterized protein;score=189.5
+CP103206.1	BLASTP	match	3299203	3300408	1.6e-226	-	.	ID=CP103206.1_3206;subject=Uncharacterized protein;score=794.7
+CP103206.1	BLASTP	match	3300756	3301880	3e-190	-	.	ID=CP103206.1_3207;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP103206.1	BLASTP	match	3302467	3302709	7.8e-35	+	.	ID=CP103206.1_3208;subject=Uncharacterized protein;score=155.6
+CP103206.1	BLASTP	match	3302984	3303628	1.3000000000000002e-124	-	.	ID=CP103206.1_3209;subject=Transposase;score=455.3
+CP103206.1	BLASTP	match	3303625	3304389	2.7e-142	-	.	ID=CP103206.1_3210;subject=Transposase;score=514.2
+CP103206.1	BLASTP	match	3304436	3304570	3.9e-12	-	.	ID=CP103206.1_3211;subject=hypothetical protein;score=79.3
+CP103206.1	BLASTP	match	3304653	3305018	1.6e-52	-	.	ID=CP103206.1_3212;subject=Transposase;score=214.9
+CP103206.1	BLASTP	match	3305240	3305437	7.5e-28	-	.	ID=CP103206.1_3213;subject=Transposase;score=132.1
+CP103206.1	BLASTP	match	3306339	3307124	2.3e-149	+	.	ID=CP103206.1_3215;subject=Uncharacterized protein;score=537.7
+CP103206.1	BLASTP	match	3307168	3310305	0.0	+	.	ID=CP103206.1_3216;subject=histidine kinase;score=2157.1
+CP103206.1	BLASTP	match	3310875	3311366	3.8e-89	-	.	ID=CP103206.1_3217;subject=DUF1566 domain-containing protein;score=337.0
+CP103206.1	BLASTP	match	3311369	3311821	1.4e-77	-	.	ID=CP103206.1_3218;subject=Fimbrillin family protein;score=298.5
+CP103206.1	BLASTP	match	3311903	3313183	2.3e-250	-	.	ID=CP103206.1_3219;subject=DUF1566 domain-containing protein;score=874.0
+CP103206.1	BLASTP	match	3314107	3314457	1.4e-56	-	.	ID=CP103206.1_3220;subject=Reverse transcriptase N-terminal domain-containing protein;score=228.4
+CP103206.1	BLASTP	match	3315431	3316180	1.7999999999999998e-138	-	.	ID=CP103206.1_3221;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP103206.1	AMP	match	3305967	3306185	0	+	.	ID=AMP_138200_c2_g1_i1;subject=AMP

@@ -1,0 +1,17 @@
+##gff-version 3
+CP103166.1	BLASTP	match	3169456	3171615	0.0	+	.	ID=CP103166.1_2591;subject=BACON domain-containing protein;score=1472.2
+CP103166.1	BLASTP	match	3171617	3172705	8.7e-195	-	.	ID=CP103166.1_2592;subject=Transposase DDE domain-containing protein;score=689.1
+CP103166.1	BLASTP	match	3172721	3172921	4e-29	-	.	ID=CP103166.1_2593;subject=Transposase;score=136.3
+CP103166.1	BLASTP	match	3172963	3173232	5.4000000000000003e-45	-	.	ID=CP103166.1_2594;subject=Uncharacterized protein;score=189.5
+CP103166.1	BLASTP	match	3173266	3174471	1.6e-226	-	.	ID=CP103166.1_2595;subject=Uncharacterized protein;score=794.7
+CP103166.1	BLASTP	match	3174818	3175942	3e-190	-	.	ID=CP103166.1_2596;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP103166.1	BLASTP	match	3177046	3177498	1.1e-82	-	.	ID=CP103166.1_2597;subject=Transposase;score=315.5
+CP103166.1	BLASTP	match	3177688	3178632	1.3e-175	-	.	ID=CP103166.1_2598;subject=Transposase;score=625.2
+CP103166.1	BLASTP	match	3178715	3179080	1.6e-52	-	.	ID=CP103166.1_2599;subject=Transposase;score=214.9
+CP103166.1	BLASTP	match	3179302	3179499	7.5e-28	-	.	ID=CP103166.1_2600;subject=Transposase;score=132.1
+CP103166.1	BLASTP	match	3180402	3184367	0.0	+	.	ID=CP103166.1_2601;subject=histidine kinase;score=2724.1
+CP103166.1	BLASTP	match	3184937	3185428	3.8e-89	-	.	ID=CP103166.1_2602;subject=DUF1566 domain-containing protein;score=337.0
+CP103166.1	BLASTP	match	3185431	3185883	1.4e-77	-	.	ID=CP103166.1_2603;subject=Fimbrillin family protein;score=298.5
+CP103166.1	BLASTP	match	3185965	3187245	2.3e-250	-	.	ID=CP103166.1_2604;subject=DUF1566 domain-containing protein;score=874.0
+CP103166.1	BLASTP	match	3189490	3190239	1.7999999999999998e-138	-	.	ID=CP103166.1_2605;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP103166.1	AMP	match	3180029	3180247	0	+	.	ID=AMP_138200_c2_g1_i1;subject=AMP

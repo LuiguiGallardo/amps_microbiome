@@ -1,0 +1,12 @@
+##gff-version 3
+BK033981.1	BLASTP	match	4412	4594	2.9e-18	+	.	ID=BK033981.1_9;subject=Minor tail protein;score=100.1
+BK033981.1	BLASTP	match	4829	5035	6.9e-08	+	.	ID=BK033981.1_11;subject=Phage protein;score=65.9
+BK033981.1	BLASTP	match	5564	5899	9.700000000000002e-28	+	.	ID=BK033981.1_12;subject=Minor structural protein;score=132.5
+BK033981.1	BLASTP	match	5880	6074	1.6e-06	+	.	ID=BK033981.1_13;subject=Tail fiber protein;score=61.2
+BK033981.1	BLASTP	match	6591	6950	9.2e-08	+	.	ID=BK033981.1_15;subject=Tail fiber protein;score=66.2
+BK033981.1	BLASTP	match	8297	8755	3.8e-06	+	.	ID=BK033981.1_19;subject=Receptor Binding Protein;score=61.2
+BK033981.1	BLASTP	match	9454	10020	6.9e-10	+	.	ID=BK033981.1_21;subject=hypothetical protein;score=73.9
+BK033981.1	BLASTP	match	10443	10661	8.9e-22	+	.	ID=BK033981.1_22;subject=Uncharacterized protein;score=112.1
+BK033981.1	BLASTP	match	12266	13285	9.999999999999999e-84	-	.	ID=BK033981.1_26;subject=Site-specific integrase;score=320.1
+BK033981.1	BLASTP	match	13981	14517	1.3e-10	+	.	ID=BK033981.1_27;subject=Uncharacterized protein;score=76.3
+BK033981.1	AMP	match	13506	13835	.	-	0	ID=AMP_138681_c7_g1_i1;subject=AMP

@@ -1,0 +1,18 @@
+##gff-version 3
+CP103100.1	BLASTP	match	6338384	6340543	0.0	+	.	ID=CP103100.1_5266;subject=BACON domain-containing protein;score=1472.2
+CP103100.1	BLASTP	match	6340545	6341642	8.200000000000001e-201	-	.	ID=CP103100.1_5267;subject=Transposase DDE domain-containing protein;score=709.1
+CP103100.1	BLASTP	match	6341650	6341850	4e-29	-	.	ID=CP103100.1_5268;subject=Transposase;score=136.3
+CP103100.1	BLASTP	match	6341892	6342161	5.4000000000000003e-45	-	.	ID=CP103100.1_5269;subject=Uncharacterized protein;score=189.5
+CP103100.1	BLASTP	match	6342195	6343400	1.6e-226	-	.	ID=CP103100.1_5270;subject=Uncharacterized protein;score=794.7
+CP103100.1	BLASTP	match	6343747	6344871	3e-190	-	.	ID=CP103100.1_5271;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP103100.1	BLASTP	match	6345975	6346619	1.3000000000000002e-124	-	.	ID=CP103100.1_5272;subject=Transposase;score=455.3
+CP103100.1	BLASTP	match	6346616	6347560	1.3e-175	-	.	ID=CP103100.1_5273;subject=Transposase;score=625.2
+CP103100.1	BLASTP	match	6347643	6348008	1.6e-52	-	.	ID=CP103100.1_5274;subject=Transposase;score=214.9
+CP103100.1	BLASTP	match	6347992	6348423	4.1e-71	-	.	ID=CP103100.1_5275;subject=Transposase;score=276.9
+CP103100.1	BLASTP	match	6348963	6349133	3e-25	+	.	ID=CP103100.1_5276;subject=Uncharacterized protein;score=123.2
+CP103100.1	BLASTP	match	6349329	6350972	0.0	+	.	ID=CP103100.1_5277;subject=histidine kinase;score=1078.9
+CP103100.1	BLASTP	match	6351235	6353295	0.0	+	.	ID=CP103100.1_5278;subject=histidine kinase;score=1393.3
+CP103100.1	BLASTP	match	6353865	6354356	3.8e-89	-	.	ID=CP103100.1_5279;subject=DUF1566 domain-containing protein;score=337.0
+CP103100.1	BLASTP	match	6354359	6354811	1.4e-77	-	.	ID=CP103100.1_5280;subject=Fimbrillin family protein;score=298.5
+CP103100.1	BLASTP	match	6354893	6356173	8.6e-250	-	.	ID=CP103100.1_5281;subject=DUF1566 domain-containing protein;score=872.1
+CP103100.1	BLASTP	match	6358418	6359167	1.7999999999999998e-138	-	.	ID=CP103100.1_5282;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5

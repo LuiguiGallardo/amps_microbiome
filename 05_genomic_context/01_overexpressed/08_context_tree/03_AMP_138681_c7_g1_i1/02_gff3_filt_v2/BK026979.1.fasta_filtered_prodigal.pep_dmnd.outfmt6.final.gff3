@@ -1,0 +1,10 @@
+##gff-version 3
+BK026979.1	BLASTP	match	728	1048	1.8e-47	-	.	ID=BK026979.1_2;subject=Holin;score=198.0
+BK026979.1	BLASTP	match	1005	1319	1.4e-52	-	.	ID=BK026979.1_3;subject=hypothetical protein;score=214.9
+BK026979.1	BLASTP	match	1316	2248	8.4e-122	-	.	ID=BK026979.1_4;subject=N-acetylmuramoyl-L-alanine amidase;score=446.4
+BK026979.1	BLASTP	match	2262	5066	7.2e-76	-	.	ID=BK026979.1_5;subject=SGNH/GDSL hydrolase family protein;score=295.4
+BK026979.1	BLASTP	match	5079	6914	4.8e-262	-	.	ID=BK026979.1_6;subject=Uncharacterized protein;score=913.3
+BK026979.1	BLASTP	match	6914	7441	2.9e-95	-	.	ID=BK026979.1_7;subject=Minor structural protein;score=357.5
+BK026979.1	BLASTP	match	8507	8878	2.3e-62	-	.	ID=BK026979.1_8;subject=Uncharacterized protein;score=247.7
+BK026979.1	BLASTP	match	8888	12169	0.0	-	.	ID=BK026979.1_9;subject=Minor tail protein;score=1256.1
+BK026979.1	AMP	match	117	462	.	+	0	ID=AMP_138681_c7_g1_i1;subject=AMP

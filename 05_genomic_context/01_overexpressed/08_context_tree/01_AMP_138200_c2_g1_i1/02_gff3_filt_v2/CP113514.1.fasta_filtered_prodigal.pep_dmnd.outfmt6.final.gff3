@@ -1,0 +1,22 @@
+##gff-version 3
+CP113514.1	BLASTP	match	5649149	5653144	0.0	+	.	ID=CP113514.1_4687;subject=histidine kinase;score=2327.0
+CP113514.1	BLASTP	match	5653251	5654477	3.7e-218	-	.	ID=CP113514.1_4688;subject=IS1182 family Transposase;score=766.9
+CP113514.1	BLASTP	match	5654485	5654685	4e-29	-	.	ID=CP113514.1_4689;subject=Transposase;score=136.3
+CP113514.1	BLASTP	match	5654727	5654996	5.4000000000000003e-45	-	.	ID=CP113514.1_4690;subject=Uncharacterized protein;score=189.5
+CP113514.1	BLASTP	match	5655030	5656235	1.6e-226	-	.	ID=CP113514.1_4691;subject=Uncharacterized protein;score=794.7
+CP113514.1	BLASTP	match	5656582	5657706	3e-190	-	.	ID=CP113514.1_4692;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP113514.1	BLASTP	match	5657872	5658393	2.6999999999999997e-24	+	.	ID=CP113514.1_4693;subject=Uncharacterized protein;score=121.7
+CP113514.1	BLASTP	match	5658810	5660396	8.8e-305	-	.	ID=CP113514.1_4694;subject=Transposase IS66 central domain-containing protein;score=1055.0
+CP113514.1	BLASTP	match	5660479	5660844	1.6e-52	-	.	ID=CP113514.1_4695;subject=Transposase;score=214.9
+CP113514.1	BLASTP	match	5660828	5661259	4.1e-71	-	.	ID=CP113514.1_4696;subject=Transposase;score=276.9
+CP113514.1	BLASTP	match	5661799	5661969	3e-25	+	.	ID=CP113514.1_4697;subject=Uncharacterized protein;score=123.2
+CP113514.1	BLASTP	match	5662165	5666130	0.0	+	.	ID=CP113514.1_4698;subject=histidine kinase;score=2725.3
+CP113514.1	BLASTP	match	5666228	5666554	4.5e-54	-	.	ID=CP113514.1_4699;subject=Fimbrillin family protein;score=219.9
+CP113514.1	BLASTP	match	5666683	5667012	1.4e-55	+	.	ID=CP113514.1_4700;subject=IS66 family insertion sequence element accessory protein TnpB;score=224.9
+CP113514.1	BLASTP	match	5667000	5667383	4.2e-67	+	.	ID=CP113514.1_4701;subject=IS66 family insertion sequence element accessory protein TnpB;score=263.5
+CP113514.1	BLASTP	match	5667445	5668722	6.5999999999999995e-226	+	.	ID=CP113514.1_4702;subject=Transposase;score=792.7
+CP113514.1	BLASTP	match	5669369	5669860	3.8e-89	-	.	ID=CP113514.1_4703;subject=DUF1566 domain-containing protein;score=337.0
+CP113514.1	BLASTP	match	5669863	5670315	4.3e-79	-	.	ID=CP113514.1_4704;subject=Fimbrillin family protein;score=303.5
+CP113514.1	BLASTP	match	5670397	5671677	4.2000000000000004e-249	-	.	ID=CP113514.1_4705;subject=DUF1566 domain-containing protein;score=869.8
+CP113514.1	BLASTP	match	5671684	5672073	2.7e-66	-	.	ID=CP113514.1_4706;subject=Fimbrillin family protein;score=260.8
+CP113514.1	AMP	match	5661792	5662010	0	+	.	ID=AMP_138200_c2_g1_i1;subject=AMP

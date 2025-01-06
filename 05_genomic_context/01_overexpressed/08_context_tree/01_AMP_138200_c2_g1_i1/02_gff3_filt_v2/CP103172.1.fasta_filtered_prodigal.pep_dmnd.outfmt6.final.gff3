@@ -1,0 +1,20 @@
+##gff-version 3
+CP103172.1	BLASTP	match	599037	599786	1.7999999999999998e-138	+	.	ID=CP103172.1_576;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP103172.1	BLASTP	match	602032	603312	2.3e-250	+	.	ID=CP103172.1_577;subject=DUF1566 domain-containing protein;score=874.0
+CP103172.1	BLASTP	match	603394	603846	1.4e-77	+	.	ID=CP103172.1_578;subject=Fimbrillin family protein;score=298.5
+CP103172.1	BLASTP	match	604909	605730	1.4e-157	-	.	ID=CP103172.1_579;subject=histidine kinase;score=565.1
+CP103172.1	BLASTP	match	605979	606863	3.3e-144	-	.	ID=CP103172.1_580;subject=hybrid sensor histidine kinase/response regulator transcription factor;score=520.8
+CP103172.1	BLASTP	match	606847	607986	3.4e-173	-	.	ID=CP103172.1_581;subject=histidine kinase;score=617.5
+CP103172.1	BLASTP	match	607964	608698	1.6e-139	-	.	ID=CP103172.1_582;subject=Uncharacterized protein;score=505.0
+CP103172.1	BLASTP	match	608685	608879	1.2999999999999998e-24	-	.	ID=CP103172.1_583;subject=Uncharacterized protein;score=121.3
+CP103172.1	BLASTP	match	609785	610216	4.1e-71	+	.	ID=CP103172.1_584;subject=Transposase;score=276.9
+CP103172.1	BLASTP	match	610200	610565	1.6e-52	+	.	ID=CP103172.1_585;subject=Transposase;score=214.9
+CP103172.1	BLASTP	match	610648	610836	1.7e-21	+	.	ID=CP103172.1_586;subject=hypothetical protein;score=110.9
+CP103172.1	BLASTP	match	610829	611593	2.7e-142	+	.	ID=CP103172.1_587;subject=Transposase;score=514.2
+CP103172.1	BLASTP	match	611765	612235	9.900000000000001e-87	+	.	ID=CP103172.1_588;subject=Transposase;score=328.9
+CP103172.1	BLASTP	match	613339	614463	3e-190	+	.	ID=CP103172.1_589;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP103172.1	BLASTP	match	614810	616015	1.1e-225	+	.	ID=CP103172.1_590;subject=Uncharacterized protein;score=792.0
+CP103172.1	BLASTP	match	616049	616318	5.4000000000000003e-45	+	.	ID=CP103172.1_591;subject=Uncharacterized protein;score=189.5
+CP103172.1	BLASTP	match	616360	616560	4e-29	+	.	ID=CP103172.1_592;subject=Transposase;score=136.3
+CP103172.1	BLASTP	match	616568	617665	1.7999999999999998e-200	+	.	ID=CP103172.1_593;subject=Transposase DDE domain-containing protein;score=708.0
+CP103172.1	BLASTP	match	617667	619826	0.0	-	.	ID=CP103172.1_594;subject=BACON domain-containing protein;score=1470.7

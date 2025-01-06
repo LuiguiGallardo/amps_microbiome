@@ -1,0 +1,28 @@
+##gff-version 3
+CP103274.1	BLASTP	match	6666544	6666807	3.7e-38	-	.	ID=CP103274.1_5869;subject=Uncharacterized protein;score=166.8
+CP103274.1	BLASTP	match	6666804	6667190	1.7999999999999998e-70	-	.	ID=CP103274.1_5870;subject=Hydrolase;score=274.6
+CP103274.1	BLASTP	match	6667187	6667834	1.8e-110	-	.	ID=CP103274.1_5871;subject=DUF3164 family protein;score=408.3
+CP103274.1	BLASTP	match	6667858	6668082	2.4000000000000002e-30	-	.	ID=CP103274.1_5872;subject=Uncharacterized protein;score=140.6
+CP103274.1	BLASTP	match	6668069	6668500	1.3e-72	-	.	ID=CP103274.1_5873;subject=Regulatory protein GemA;score=282.0
+CP103274.1	BLASTP	match	6668469	6669146	2.1999999999999997e-127	-	.	ID=CP103274.1_5874;subject=AAA+ ATPase domain-containing protein;score=464.5
+CP103274.1	BLASTP	match	6669143	6670057	1.3e-138	-	.	ID=CP103274.1_5875;subject=AAA family ATPase;score=502.3
+CP103274.1	BLASTP	match	6670086	6671879	0.0	-	.	ID=CP103274.1_5876;subject=Integrase catalytic domain-containing protein;score=1194.1
+CP103274.1	BLASTP	match	6671876	6672277	5.5e-70	-	.	ID=CP103274.1_5877;subject=hypothetical protein;score=273.1
+CP103274.1	BLASTP	match	6672297	6672461	4.2e-24	-	.	ID=CP103274.1_5878;subject=Uncharacterized protein;score=119.4
+CP103274.1	BLASTP	match	6672469	6672648	1.5e-19	-	.	ID=CP103274.1_5879;subject=ABC transporter permease;score=104.4
+CP103274.1	BLASTP	match	6672778	6673026	1.5000000000000002e-38	+	.	ID=CP103274.1_5880;subject=Uncharacterized protein;score=167.9
+CP103274.1	BLASTP	match	6673210	6673452	2.8e-32	-	.	ID=CP103274.1_5881;subject=HTH cro/C1-type domain-containing protein;score=147.1
+CP103274.1	BLASTP	match	6673550	6674335	1.3e-147	+	.	ID=CP103274.1_5882;subject=Peptidase S24/S26A/S26B/S26C domain-containing protein;score=531.9
+CP103274.1	BLASTP	match	6674731	6674949	8.800000000000001e-30	+	.	ID=CP103274.1_5883;subject=Transposase;score=138.7
+CP103274.1	BLASTP	match	6675254	6675805	1.2e-99	-	.	ID=CP103274.1_5884;subject=Uncharacterized protein;score=372.1
+CP103274.1	BLASTP	match	6676001	6676171	3e-25	-	.	ID=CP103274.1_5885;subject=Uncharacterized protein;score=123.2
+CP103274.1	BLASTP	match	6676711	6677142	4.1e-71	+	.	ID=CP103274.1_5886;subject=Transposase;score=276.9
+CP103274.1	BLASTP	match	6677126	6677491	1.6e-52	+	.	ID=CP103274.1_5887;subject=Transposase;score=214.9
+CP103274.1	BLASTP	match	6677574	6678518	1.3e-175	+	.	ID=CP103274.1_5888;subject=Transposase;score=625.2
+CP103274.1	BLASTP	match	6678515	6678985	8.1e-89	+	.	ID=CP103274.1_5889;subject=IS66 family transposase;score=335.9
+CP103274.1	BLASTP	match	6679053	6680297	2.4e-241	+	.	ID=CP103274.1_5890;subject=Tyr recombinase domain-containing protein;score=844.0
+CP103274.1	BLASTP	match	6680310	6681293	1.4000000000000002e-196	+	.	ID=CP103274.1_5891;subject=Tyrosine-type recombinase/integrase;score=694.9
+CP103274.1	BLASTP	match	6681297	6682364	6.100000000000001e-209	+	.	ID=CP103274.1_5892;subject=Tyrosine-type recombinase/integrase;score=736.1
+CP103274.1	BLASTP	match	6682997	6683710	1.2e-128	-	.	ID=CP103274.1_5893;subject=Uncharacterized protein;score=468.8
+CP103274.1	BLASTP	match	6683827	6684954	5.5e-192	+	.	ID=CP103274.1_5894;subject=Helix-turn-helix transcriptional regulator;score=679.9
+CP103274.1	BLASTP	match	6685302	6686507	1.6e-226	+	.	ID=CP103274.1_5895;subject=Uncharacterized protein;score=794.7

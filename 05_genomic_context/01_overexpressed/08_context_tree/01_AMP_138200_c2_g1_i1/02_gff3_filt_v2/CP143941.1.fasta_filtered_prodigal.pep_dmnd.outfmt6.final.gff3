@@ -1,0 +1,18 @@
+##gff-version 3
+CP143941.1	BLASTP	match	4638461	4639210	1.7999999999999998e-138	+	.	ID=CP143941.1_3730;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP143941.1	BLASTP	match	4641456	4642736	2.3e-250	+	.	ID=CP143941.1_3731;subject=DUF1566 domain-containing protein;score=874.0
+CP143941.1	BLASTP	match	4642818	4643270	1.4e-77	+	.	ID=CP143941.1_3732;subject=Fimbrillin family protein;score=298.5
+CP143941.1	BLASTP	match	4643273	4643764	3.8e-89	+	.	ID=CP143941.1_3733;subject=DUF1566 domain-containing protein;score=337.0
+CP143941.1	BLASTP	match	4644334	4648299	0.0	-	.	ID=CP143941.1_3734;subject=histidine kinase;score=2724.1
+CP143941.1	BLASTP	match	4648495	4648665	3e-25	-	.	ID=CP143941.1_3735;subject=Uncharacterized protein;score=123.2
+CP143941.1	BLASTP	match	4649205	4649636	4.1e-71	+	.	ID=CP143941.1_3736;subject=Transposase;score=276.9
+CP143941.1	BLASTP	match	4649620	4649985	1.6e-52	+	.	ID=CP143941.1_3737;subject=Transposase;score=214.9
+CP143941.1	BLASTP	match	4650068	4651012	1.3e-175	+	.	ID=CP143941.1_3738;subject=Transposase;score=625.2
+CP143941.1	BLASTP	match	4651009	4651653	1.3000000000000002e-124	+	.	ID=CP143941.1_3739;subject=Transposase;score=455.3
+CP143941.1	BLASTP	match	4652757	4653881	3e-190	+	.	ID=CP143941.1_3740;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP143941.1	BLASTP	match	4654228	4655433	1.6e-226	+	.	ID=CP143941.1_3741;subject=Uncharacterized protein;score=794.7
+CP143941.1	BLASTP	match	4655467	4655736	5.4000000000000003e-45	+	.	ID=CP143941.1_3742;subject=Uncharacterized protein;score=189.5
+CP143941.1	BLASTP	match	4655778	4655978	4e-29	+	.	ID=CP143941.1_3743;subject=Transposase;score=136.3
+CP143941.1	BLASTP	match	4655986	4657083	8.200000000000001e-201	+	.	ID=CP143941.1_3744;subject=Transposase DDE domain-containing protein;score=709.1
+CP143941.1	BLASTP	match	4657085	4659244	0.0	-	.	ID=CP143941.1_3745;subject=BACON domain-containing protein;score=1472.2
+CP143941.1	AMP	match	4648876	4649094	0	-	.	ID=AMP_138200_c2_g1_i1;subject=AMP

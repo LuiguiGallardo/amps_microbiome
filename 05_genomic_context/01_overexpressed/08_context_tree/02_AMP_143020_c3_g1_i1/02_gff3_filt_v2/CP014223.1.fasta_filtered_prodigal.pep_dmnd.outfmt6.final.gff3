@@ -1,0 +1,20 @@
+##gff-version 3
+CP014223.1	BLASTP	match	2483445	2486945	0.0	-	.	ID=CP014223.1_2345;subject=DNA polymerase III subunit alpha;score=2319.7
+CP014223.1	BLASTP	match	2487351	2488556	7.9e-197	-	.	ID=CP014223.1_2346;subject=ABC transport system permease protein;score=696.0
+CP014223.1	BLASTP	match	2488553	2489248	2.3e-124	-	.	ID=CP014223.1_2347;subject=ABC transport system ATP-binding protein;score=454.5
+CP014223.1	BLASTP	match	2489259	2490440	3.6e-202	-	.	ID=CP014223.1_2348;subject=RND family efflux transporter, MFP subunit;score=713.8
+CP014223.1	BLASTP	match	2490631	2494158	0.0	-	.	ID=CP014223.1_2349;subject=Pyruvate:ferredoxin oxidoreductase;score=2252.2
+CP014223.1	BLASTP	match	2494825	2495841	4.6e-190	-	.	ID=CP014223.1_2350;subject=Copper amine oxidase N-terminal domain-containing protein;score=673.3
+CP014223.1	BLASTP	match	2496242	2496715	1.6e-76	+	.	ID=CP014223.1_2351;subject=SsrA-binding protein;score=295.0
+CP014223.1	BLASTP	match	2497314	2497958	4.5999999999999996e-127	-	.	ID=CP014223.1_2352;subject=SMI1 / KNR4 family (SUKH-1);score=463.4
+CP014223.1	BLASTP	match	2498033	2498476	2e-84	-	.	ID=CP014223.1_2353;subject=Uncharacterized protein;score=321.2
+CP014223.1	BLASTP	match	2498615	2500471	0.0	-	.	ID=CP014223.1_2354;subject=Uncharacterized protein;score=1219.5
+CP014223.1	BLASTP	match	2500464	2501642	1.1000000000000001e-227	-	.	ID=CP014223.1_2355;subject=SIR2-like domain-containing protein;score=798.5
+CP014223.1	BLASTP	match	2502059	2502706	2.6e-114	+	.	ID=CP014223.1_2356;subject=Site-specific recombinase XerD;score=421.0
+CP014223.1	BLASTP	match	2502860	2503720	7.1e-91	-	.	ID=CP014223.1_2357;subject=Uncharacterized protein;score=343.6
+CP014223.1	BLASTP	match	2503831	2505021	3.7e-231	-	.	ID=CP014223.1_2358;subject=Uncharacterized protein;score=810.1
+CP014223.1	BLASTP	match	2505297	2506058	1.6e-142	-	.	ID=CP014223.1_2359;subject=site-specific DNA-methyltransferase (adenine-specific);score=515.0
+CP014223.1	BLASTP	match	2506157	2506870	8.4e-130	-	.	ID=CP014223.1_2360;subject=Peptidase_C39 like family protein;score=472.6
+CP014223.1	BLASTP	match	2506870	2507124	9e-34	-	.	ID=CP014223.1_2361;subject=Uncharacterized protein;score=152.1
+CP014223.1	BLASTP	match	2507090	2507401	4.2000000000000005e-33	-	.	ID=CP014223.1_2362;subject=Uncharacterized protein;score=150.2
+CP014223.1	AMP	match	2496742	2496870	.	+	0	ID=AMP_143020_c3_g1_i1;subject=AMP

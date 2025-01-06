@@ -1,23 +1,6 @@
-TRINITY_DN138681_c7_g1_i1,BK038133.1,99.713,348,1,0,1,348,116,463,1.99e-178,638,0,5463,49067,"TPA: Caudoviricetes sp. isolate ctlNO7, partial genome"
-TRINITY_DN138681_c7_g1_i1,CP107216.1,99.712,347,1,0,1,347,2213911,2214257,7.17e-178,636,2209257,2219257,2378857,"Clostridiales bacterium isolate KR001_HIC_0007 chromosome, complete genome"
-TRINITY_DN138681_c7_g1_i1,BK027835.1,97.414,348,9,0,1,348,15140,14793,4.38e-165,593,9793,16000,16000,"TPA: Caudoviricetes sp. isolate ctUyu4, partial genome"
-TRINITY_DN138681_c7_g1_i1,BK026979.1,96.532,346,12,0,1,346,117,462,5.71e-159,573,0,5462,44980,"TPA: Caudoviricetes sp. isolate ctInE22, partial genome"
-TRINITY_DN138681_c7_g1_i1,BK025808.1,96.532,346,12,0,1,346,117,462,5.71e-159,573,0,5462,12225,"TPA: Caudoviricetes sp. isolate ctvmC4, partial genome"
-TRINITY_DN138681_c7_g1_i1,BK033981.1,80.737,353,38,20,1,346,13835,13506,3.93e-61,248,8506,14519,14519,"TPA: Caudoviricetes sp. isolate ctiL05, partial genome"
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+TRINITY_DN138681_c7_g1_i1,BK038133.1,99.713,348,1,0,1,348,116,463,1.99e-178,638,0,10463,49067,"TPA: Caudoviricetes sp. isolate ctlNO7, partial genome"
+TRINITY_DN138681_c7_g1_i1,CP107216.1,99.712,347,1,0,1,347,2213911,2214257,7.17e-178,636,2203911,2224257,2378857,"Clostridiales bacterium isolate KR001_HIC_0007 chromosome, complete genome"
+TRINITY_DN138681_c7_g1_i1,BK027835.1,97.414,348,9,0,1,348,15140,14793,4.38e-165,593,5140,16000,16000,"TPA: Caudoviricetes sp. isolate ctUyu4, partial genome"
+TRINITY_DN138681_c7_g1_i1,BK026979.1,96.532,346,12,0,1,346,117,462,5.71e-159,573,0,10462,44980,"TPA: Caudoviricetes sp. isolate ctInE22, partial genome"
+TRINITY_DN138681_c7_g1_i1,BK025808.1,96.532,346,12,0,1,346,117,462,5.71e-159,573,0,10462,12225,"TPA: Caudoviricetes sp. isolate ctvmC4, partial genome"
+TRINITY_DN138681_c7_g1_i1,BK033981.1,80.737,353,38,20,1,346,13835,13506,3.93e-61,248,3835,14519,14519,"TPA: Caudoviricetes sp. isolate ctiL05, partial genome"

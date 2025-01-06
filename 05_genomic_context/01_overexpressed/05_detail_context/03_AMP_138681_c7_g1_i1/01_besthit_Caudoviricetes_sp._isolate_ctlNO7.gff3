@@ -21,4 +21,5 @@ BK038133.1	tpg	gene	10014	10385	.	-	0	ID=hypothetical protein 12
 BK038133.1	tpg	gene	10398	10562	.	-	0	ID=minor tail protein
 BK038133.1	tpg	AMP	116	463	.	+	0	ID=AMP_138681_c7_g1_i1
 BK038133.1	tpg	AMP	119	220	.	+	0	ID=AMP_138681_c7_g1_i1
+BK038133.1	AMP	match	119	220	0	+	.	ID=AMP_138681_c7_g1_i1;subject=AMP
 ###

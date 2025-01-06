@@ -1,0 +1,28 @@
+##gff-version 3
+CP103114.1	BLASTP	match	599096	599845	2.6e-137	+	.	ID=CP103114.1_654;subject=Glycerophosphodiester phosphodiesterase family protein;score=497.7
+CP103114.1	BLASTP	match	602093	603373	8.6e-250	+	.	ID=CP103114.1_655;subject=DUF1566 domain-containing protein;score=872.1
+CP103114.1	BLASTP	match	603455	603907	1.4e-77	+	.	ID=CP103114.1_656;subject=Fimbrillin family protein;score=298.5
+CP103114.1	BLASTP	match	603960	604334	1.1999999999999998e-53	+	.	ID=CP103114.1_657;subject=DUF1566 domain-containing protein;score=218.8
+CP103114.1	BLASTP	match	604487	604873	5e-68	+	.	ID=CP103114.1_658;subject=Fimbrillin family protein;score=266.5
+CP103114.1	BLASTP	match	604972	605580	2.5e-114	-	.	ID=CP103114.1_659;subject=hybrid sensor histidine kinase/response regulator transcription factor;score=421.0
+CP103114.1	BLASTP	match	606040	606414	3.3e-40	-	.	ID=CP103114.1_660;subject=histidine kinase;score=174.1
+CP103114.1	BLASTP	match	606848	607552	2.5e-25	+	.	ID=CP103114.1_661;subject=hypothetical protein;score=125.6
+CP103114.1	BLASTP	match	608030	608521	1.1e-85	-	.	ID=CP103114.1_663;subject=Uncharacterized protein;score=325.5
+CP103114.1	BLASTP	match	608754	608948	1.2999999999999998e-24	-	.	ID=CP103114.1_664;subject=Uncharacterized protein;score=121.3
+CP103114.1	BLASTP	match	609855	610286	4.1e-71	+	.	ID=CP103114.1_665;subject=Transposase;score=276.9
+CP103114.1	BLASTP	match	610717	610905	1.7e-21	+	.	ID=CP103114.1_666;subject=hypothetical protein;score=110.9
+CP103114.1	BLASTP	match	610898	611332	6.4e-72	+	.	ID=CP103114.1_667;subject=hypothetical protein;score=279.6
+CP103114.1	BLASTP	match	611661	612305	1.3000000000000002e-124	+	.	ID=CP103114.1_668;subject=Transposase;score=455.3
+CP103114.1	BLASTP	match	612580	613140	6.9e-95	-	.	ID=CP103114.1_669;subject=Uncharacterized protein;score=356.3
+CP103114.1	BLASTP	match	613409	613813	4.9e-42	+	.	ID=CP103114.1_670;subject=AraC family transcriptional regulator;score=180.3
+CP103114.1	BLASTP	match	613813	614214	9.999999999999999e-69	+	.	ID=CP103114.1_671;subject=AraC family transcriptional regulator;score=268.9
+CP103114.1	BLASTP	match	614878	615690	3.6e-145	+	.	ID=CP103114.1_672;subject=Uncharacterized protein;score=523.9
+CP103114.1	BLASTP	match	615727	615972	2.0000000000000002e-38	+	.	ID=CP103114.1_673;subject=Lipoprotein;score=167.5
+CP103114.1	BLASTP	match	616118	616387	5.4000000000000003e-45	+	.	ID=CP103114.1_674;subject=Uncharacterized protein;score=189.5
+CP103114.1	BLASTP	match	616429	616629	4e-29	+	.	ID=CP103114.1_675;subject=Transposase;score=136.3
+CP103114.1	BLASTP	match	616637	617734	1.7999999999999998e-200	+	.	ID=CP103114.1_676;subject=Transposase DDE domain-containing protein;score=708.0
+CP103114.1	BLASTP	match	617736	617852	3.3e-15	-	.	ID=CP103114.1_677;subject=BACON domain-containing protein;score=89.4
+CP103114.1	BLASTP	match	617859	618254	1.3000000000000001e-71	-	.	ID=CP103114.1_678;subject=BACON domain-containing protein;score=278.5
+CP103114.1	BLASTP	match	618256	618714	9.7e-79	-	.	ID=CP103114.1_679;subject=BACON domain-containing protein;score=302.4
+CP103114.1	BLASTP	match	618684	619898	3.4000000000000004e-216	-	.	ID=CP103114.1_680;subject=BACON domain-containing protein;score=760.4
+CP103114.1	AMP	match	609525	609743	0	-	.	ID=AMP_138200_c2_g1_i1;subject=AMP

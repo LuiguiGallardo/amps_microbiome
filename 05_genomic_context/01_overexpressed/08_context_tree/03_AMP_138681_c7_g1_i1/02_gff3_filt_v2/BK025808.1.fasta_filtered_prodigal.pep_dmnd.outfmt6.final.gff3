@@ -1,0 +1,11 @@
+##gff-version 3
+BK025808.1	BLASTP	match	731	994	2.8e-38	-	.	ID=BK025808.1_1;subject=Holin;score=167.2
+BK025808.1	BLASTP	match	1008	1322	2.8e-53	-	.	ID=BK025808.1_2;subject=hypothetical protein;score=217.2
+BK025808.1	BLASTP	match	1319	2254	1.2e-136	-	.	ID=BK025808.1_3;subject=peptidoglycan recognition family protein;score=495.7
+BK025808.1	BLASTP	match	2267	2923	3.4e-77	-	.	ID=BK025808.1_4;subject=CBM-cenC domain-containing protein;score=297.7
+BK025808.1	BLASTP	match	2939	5506	3.6e-13	-	.	ID=BK025808.1_5;subject=hypothetical protein;score=87.0
+BK025808.1	BLASTP	match	5520	7073	6e-205	-	.	ID=BK025808.1_6;subject=Uncharacterized protein;score=723.4
+BK025808.1	BLASTP	match	7073	8659	1.8e-297	-	.	ID=BK025808.1_7;subject=Minor structural protein;score=1030.8
+BK025808.1	BLASTP	match	8666	9037	5.7e-61	-	.	ID=BK025808.1_8;subject=Uncharacterized protein;score=243.0
+BK025808.1	BLASTP	match	9047	12223	0.0	-	.	ID=BK025808.1_9;subject=Minor tail protein;score=1202.2
+BK025808.1	AMP	match	117	462	.	+	0	ID=AMP_138681_c7_g1_i1;subject=AMP

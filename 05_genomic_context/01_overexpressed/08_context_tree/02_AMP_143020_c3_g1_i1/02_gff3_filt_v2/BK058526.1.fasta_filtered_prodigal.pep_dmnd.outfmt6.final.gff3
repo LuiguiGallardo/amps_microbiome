@@ -1,0 +1,33 @@
+##gff-version 3
+BK058526.1	BLASTP	match	4345	5637	1.1999999999999999e-235	+	.	ID=BK058526.1_9;subject=Phage tail sheath protein;score=825.1
+BK058526.1	BLASTP	match	5650	6105	3.3e-79	+	.	ID=BK058526.1_10;subject=Phage protein;score=303.9
+BK058526.1	BLASTP	match	6134	6499	4.1e-64	+	.	ID=BK058526.1_11;subject=Phage portal protein;score=253.4
+BK058526.1	BLASTP	match	6481	7128	1e-118	+	.	ID=BK058526.1_12;subject=Peptidoglycan-binding protein;score=435.6
+BK058526.1	BLASTP	match	7150	8130	1.1e-183	+	.	ID=BK058526.1_13;subject=Phage protein;score=652.1
+BK058526.1	BLASTP	match	8130	8495	1.6e-60	+	.	ID=BK058526.1_14;subject=Phage XkdN-like protein;score=241.5
+BK058526.1	BLASTP	match	8492	8647	6.300000000000001e-22	+	.	ID=BK058526.1_15;subject=Uncharacterized protein;score=112.1
+BK058526.1	BLASTP	match	8652	9305	1.4e-78	+	.	ID=BK058526.1_16;subject=Uncharacterized protein;score=302.4
+BK058526.1	BLASTP	match	9318	9635	8.000000000000001e-48	+	.	ID=BK058526.1_17;subject=DUF2577 domain-containing protein;score=199.1
+BK058526.1	BLASTP	match	9637	10041	1.7e-66	+	.	ID=BK058526.1_18;subject=Phage protein;score=261.5
+BK058526.1	BLASTP	match	10038	11111	1.7e-198	+	.	ID=BK058526.1_19;subject=Phage tail protein;score=701.4
+BK058526.1	BLASTP	match	11108	11734	3.5e-111	+	.	ID=BK058526.1_20;subject=Uncharacterized protein;score=410.6
+BK058526.1	BLASTP	match	11802	12041	7.899999999999999e-24	+	.	ID=BK058526.1_21;subject=Protein-export membrane protein SecG;score=119.0
+BK058526.1	BLASTP	match	12116	14314	0.0	+	.	ID=BK058526.1_22;subject=Ribonuclease R;score=1411.7
+BK058526.1	BLASTP	match	14490	14963	2.3e-83	+	.	ID=BK058526.1_23;subject=SsrA-binding protein;score=317.8
+BK058526.1	BLASTP	match	15805	16095	1.2e-45	-	.	ID=BK058526.1_25;subject=hypothetical protein;score=191.8
+BK058526.1	BLASTP	match	16338	17171	1.6999999999999998e-142	-	.	ID=BK058526.1_27;subject=SprT-like domain-containing protein;score=515.0
+BK058526.1	BLASTP	match	17291	18088	8.499999999999999e-139	-	.	ID=BK058526.1_28;subject=bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD;score=502.7
+BK058526.1	BLASTP	match	18085	18267	1.5999999999999999e-24	-	.	ID=BK058526.1_29;subject=hypothetical protein;score=120.9
+BK058526.1	BLASTP	match	18267	18473	6.000000000000001e-28	-	.	ID=BK058526.1_30;subject=helix-turn-helix transcriptional regulator;score=132.5
+BK058526.1	BLASTP	match	18531	19100	4.3e-92	-	.	ID=BK058526.1_31;subject=DUF6273 domain-containing protein;score=347.1
+BK058526.1	BLASTP	match	19130	19858	1.2e-134	-	.	ID=BK058526.1_32;subject=N-6 DNA methylase;score=488.8
+BK058526.1	BLASTP	match	19934	20125	2e-17	-	.	ID=BK058526.1_33;subject=hypothetical protein;score=97.4
+BK058526.1	BLASTP	match	20323	20655	9.900000000000001e-57	-	.	ID=BK058526.1_34;subject=hypothetical protein;score=228.8
+BK058526.1	BLASTP	match	21083	22000	2.9999999999999997e-140	-	.	ID=BK058526.1_36;subject=SPOR domain-containing protein;score=507.7
+BK058526.1	BLASTP	match	21993	22382	4.1e-62	-	.	ID=BK058526.1_37;subject=hypothetical protein;score=246.9
+BK058526.1	BLASTP	match	22387	22644	2.3e-37	-	.	ID=BK058526.1_38;subject=hypothetical protein;score=164.1
+BK058526.1	BLASTP	match	22634	22948	1.1e-52	-	.	ID=BK058526.1_39;subject=hypothetical protein;score=215.3
+BK058526.1	BLASTP	match	22945	23634	1e-119	-	.	ID=BK058526.1_40;subject=carbohydrate-binding protein;score=439.1
+BK058526.1	BLASTP	match	23625	24818	1.2e-226	-	.	ID=BK058526.1_41;subject=RNA-directed DNA polymerase;score=795.0
+BK058526.1	BLASTP	match	25214	25639	5.8e-70	-	.	ID=BK058526.1_42;subject=hypothetical protein;score=273.1
+BK058526.1	AMP	match	15017	15145	.	+	0	ID=AMP_143020_c3_g1_i1;subject=AMP

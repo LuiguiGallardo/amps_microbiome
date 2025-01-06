@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='864.00pt' height='720.00pt' viewBox='0 0 864.00 720.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA='>
+    <rect x='0.00' y='0.00' width='864.00' height='720.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+<rect x='-0.000000000000064' y='0.00' width='864.00' height='720.00' style='stroke-width: 1.07; stroke: #FFFFFF; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8MTYuNzR8MTE2LjM1'>
+    <rect x='8.22' y='16.74' width='504.41' height='99.61' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8MTYuNzR8MTE2LjM1)'>
+<polyline points='8.22,66.54 512.63,66.54 ' style='stroke-width: 2.13; stroke: #BEBEBE; stroke-linecap: butt;' />
+<polygon points='152.17,60.87 152.17,72.21 163.80,72.21 163.80,72.21 166.63,66.54 163.80,60.87 163.80,60.87 ' style='stroke-width: 0.64; fill: #1F78B4;' />
+<polygon points='177.45,60.87 177.45,72.21 180.19,72.21 180.19,72.21 183.02,66.54 180.19,60.87 180.19,60.87 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='250.10,60.87 250.10,72.21 226.88,72.21 226.88,72.21 224.05,66.54 226.88,60.87 226.88,60.87 ' style='stroke-width: 0.64; fill: #599923;' />
+<polygon points='267.89,60.87 267.89,72.21 278.76,72.21 278.76,72.21 281.59,66.54 278.76,60.87 278.76,60.87 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='264.16,60.87 264.16,72.21 258.58,72.21 258.58,72.21 255.75,66.54 258.58,60.87 258.58,60.87 ' style='stroke-width: 0.64; fill: #FF0000;' />
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8MTM1LjgzfDIzNS40Mw=='>
+    <rect x='8.22' y='135.83' width='504.41' height='99.61' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8MTM1LjgzfDIzNS40Mw==)'>
+<polyline points='8.22,185.63 512.63,185.63 ' style='stroke-width: 2.13; stroke: #BEBEBE; stroke-linecap: butt;' />
+<polygon points='278.17,179.96 278.17,191.30 274.28,191.30 274.28,191.30 271.44,185.63 274.28,179.96 274.28,179.96 ' style='stroke-width: 0.64; fill: #D28609;' />
+<polygon points='286.55,179.96 286.55,191.30 281.36,191.30 281.36,191.30 278.52,185.63 281.36,179.96 281.36,179.96 ' style='stroke-width: 0.64; fill: #1F78B4;' />
+<polygon points='310.38,179.96 310.38,191.30 289.31,191.30 289.31,191.30 286.47,185.63 289.31,179.96 289.31,179.96 ' style='stroke-width: 0.64; fill: #FFA82A;' />
+<polygon points='327.48,179.96 327.48,191.30 313.54,191.30 313.54,191.30 310.71,185.63 313.54,179.96 313.54,179.96 ' style='stroke-width: 0.64; fill: #FFEA6C;' />
+<polygon points='393.51,179.96 393.51,191.30 330.72,191.30 330.72,191.30 327.89,185.63 330.72,179.96 330.72,179.96 ' style='stroke-width: 0.64; fill: #1F78B4;' />
+<polygon points='433.56,179.96 433.56,191.30 396.70,191.30 396.70,191.30 393.86,185.63 396.70,179.96 396.70,179.96 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='474.11,179.96 474.11,191.30 436.40,191.30 436.40,191.30 433.56,185.63 436.40,179.96 436.40,179.96 ' style='stroke-width: 0.64; fill: #AA8987;' />
+<polygon points='483.77,179.96 483.77,191.30 477.12,191.30 477.12,191.30 474.29,185.63 477.12,179.96 477.12,179.96 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='255.75,179.96 255.75,191.30 261.73,191.30 261.73,191.30 264.57,185.63 261.73,179.96 261.73,179.96 ' style='stroke-width: 0.64; fill: #FF0000;' />
+<text x='330.72' y='187.15' style='font-size: 6.04px; font-family: "Arial";' textLength='52.32px' lengthAdjust='spacingAndGlyphs'>hypothetical protein</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8MjU0LjkxfDM1NC41Mg=='>
+    <rect x='8.22' y='254.91' width='504.41' height='99.61' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8MjU0LjkxfDM1NC41Mg==)'>
+<polyline points='8.22,304.72 512.63,304.72 ' style='stroke-width: 2.13; stroke: #BEBEBE; stroke-linecap: butt;' />
+<polygon points='279.55,299.05 279.55,310.39 274.20,310.39 274.20,310.39 271.37,304.72 274.20,299.05 274.20,299.05 ' style='stroke-width: 0.64; fill: #D28609;' />
+<polygon points='286.47,299.05 286.47,310.39 281.28,310.39 281.28,310.39 278.45,304.72 281.28,299.05 281.28,299.05 ' style='stroke-width: 0.64; fill: #1F78B4;' />
+<polygon points='310.22,299.05 310.22,310.39 289.23,310.39 289.23,310.39 286.40,304.72 289.23,299.05 289.23,299.05 ' style='stroke-width: 0.64; fill: #754187;' />
+<polygon points='382.26,299.05 382.26,310.39 313.41,310.39 313.41,310.39 310.58,304.72 313.41,299.05 313.41,299.05 ' style='stroke-width: 0.64; fill: #9F5243;' />
+<polygon points='429.50,299.05 429.50,310.39 385.43,310.39 385.43,310.39 382.59,304.72 385.43,299.05 385.43,299.05 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='442.97,299.05 442.97,310.39 432.33,310.39 432.33,310.39 429.50,304.72 432.33,299.05 432.33,299.05 ' style='stroke-width: 0.64; fill: #AA8987;' />
+<polygon points='479.71,299.05 479.71,310.39 473.06,310.39 473.06,310.39 470.22,304.72 473.06,299.05 473.06,299.05 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='255.75,299.05 255.75,310.39 261.73,310.39 261.73,310.39 264.57,304.72 261.73,299.05 261.73,299.05 ' style='stroke-width: 0.64; fill: #FF0000;' />
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8Mzc0LjAwfDQ3My42MQ=='>
+    <rect x='8.22' y='374.00' width='504.41' height='99.61' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8Mzc0LjAwfDQ3My42MQ==)'>
+<polyline points='8.22,423.80 512.63,423.80 ' style='stroke-width: 2.13; stroke: #BEBEBE; stroke-linecap: butt;' />
+<polygon points='40.07,418.13 40.07,429.47 19.92,429.47 19.92,429.47 17.09,423.80 19.92,418.13 19.92,418.13 ' style='stroke-width: 0.64; fill: #AD8269;' />
+<polygon points='86.65,418.13 86.65,429.47 45.79,429.47 45.79,429.47 42.96,423.80 45.79,418.13 45.79,418.13 ' style='stroke-width: 0.64; fill: #A6C7D8;' />
+<polygon points='131.54,418.13 131.54,429.47 98.35,429.47 98.35,429.47 95.52,423.80 98.35,418.13 98.35,418.13 ' style='stroke-width: 0.64; fill: #ACD7B2;' />
+<polygon points='157.99,418.13 157.99,429.47 140.61,429.47 140.61,429.47 137.77,423.80 140.61,418.13 140.61,418.13 ' style='stroke-width: 0.64; fill: #BBD58C;' />
+<polygon points='182.48,418.13 182.48,429.47 175.37,429.47 175.37,429.47 172.54,423.80 175.37,418.13 175.37,418.13 ' style='stroke-width: 0.64; fill: #E7AC94;' />
+<polygon points='221.54,418.13 221.54,429.47 231.49,429.47 231.49,429.47 234.33,423.80 231.49,418.13 231.49,418.13 ' style='stroke-width: 0.64; fill: #FBA68B;' />
+<polygon points='236.83,418.13 236.83,429.47 245.93,429.47 245.93,429.47 248.77,423.80 245.93,418.13 245.93,418.13 ' style='stroke-width: 0.64; fill: #1F78B4;' />
+<polygon points='280.90,418.13 280.90,429.47 270.42,429.47 270.42,429.47 267.58,423.80 270.42,418.13 270.42,418.13 ' style='stroke-width: 0.64; fill: #FCBC72;' />
+<polygon points='286.55,418.13 286.55,429.47 283.74,429.47 283.74,429.47 280.90,423.80 283.74,418.13 283.74,418.13 ' style='stroke-width: 0.64; fill: #E2B8A3;' />
+<polygon points='264.62,418.13 264.62,429.47 258.58,429.47 258.58,429.47 255.75,423.80 258.58,418.13 258.58,418.13 ' style='stroke-width: 0.64; fill: #FF0000;' />
+<text x='45.79' y='424.85' style='font-size: 4.22px; font-family: "Arial";' textLength='38.01px' lengthAdjust='spacingAndGlyphs'>Phage portal protein</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8NDkzLjA5fDU5Mi42OQ=='>
+    <rect x='8.22' y='493.09' width='504.41' height='99.61' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8NDkzLjA5fDU5Mi42OQ==)'>
+<polyline points='8.22,542.89 512.63,542.89 ' style='stroke-width: 2.13; stroke: #BEBEBE; stroke-linecap: butt;' />
+<polygon points='15.17,537.22 15.17,548.56 11.05,548.56 11.05,548.56 8.22,542.89 11.05,537.22 11.05,537.22 ' style='stroke-width: 0.64; fill: #CFBACF;' />
+<polygon points='17.81,537.22 17.81,548.56 39.72,548.56 39.72,548.56 42.55,542.89 39.72,537.22 39.72,537.22 ' style='stroke-width: 0.64; fill: #CFBACF;' />
+<polygon points='57.56,537.22 57.56,548.56 45.46,548.56 45.46,548.56 42.63,542.89 45.46,537.22 45.46,537.22 ' style='stroke-width: 0.64; fill: #EFE8AB;' />
+<polygon points='71.64,537.22 71.64,548.56 60.31,548.56 60.31,548.56 57.48,542.89 60.31,537.22 60.31,537.22 ' style='stroke-width: 0.64; fill: #EFE8AB;' />
+<polygon points='117.58,537.22 117.58,548.56 76.19,548.56 76.19,548.56 73.35,542.89 76.19,537.22 76.19,537.22 ' style='stroke-width: 0.64; fill: #DDF1A6;' />
+<polygon points='125.96,537.22 125.96,548.56 120.23,548.56 120.23,548.56 117.40,542.89 120.23,537.22 120.23,537.22 ' style='stroke-width: 0.64; fill: #99D7C2;' />
+<polygon points='138.69,537.22 138.69,548.56 129.21,548.56 129.21,548.56 126.37,542.89 129.21,537.22 129.21,537.22 ' style='stroke-width: 0.64; fill: #C4E8BD;' />
+<polygon points='158.91,537.22 158.91,548.56 141.22,548.56 141.22,548.56 138.39,542.89 141.22,537.22 141.22,537.22 ' style='stroke-width: 0.64; fill: #F9F9B6;' />
+<polygon points='191.94,537.22 191.94,548.56 161.67,548.56 161.67,548.56 158.84,542.89 161.67,537.22 161.67,537.22 ' style='stroke-width: 0.64; fill: #D3D0CD;' />
+<polygon points='209.96,537.22 209.96,548.56 198.33,548.56 198.33,548.56 195.49,542.89 198.33,537.22 198.33,537.22 ' style='stroke-width: 0.64; fill: #CEAABD;' />
+<polygon points='227.53,537.22 227.53,548.56 236.63,548.56 236.63,548.56 239.46,542.89 236.63,537.22 236.63,537.22 ' style='stroke-width: 0.64; fill: #E2B8A3;' />
+<polygon points='239.46,537.22 239.46,548.56 249.95,548.56 249.95,548.56 252.78,542.89 249.95,537.22 249.95,537.22 ' style='stroke-width: 0.64; fill: #FCBC72;' />
+<polygon points='278.35,537.22 278.35,548.56 317.28,548.56 317.28,548.56 320.12,542.89 317.28,537.22 317.28,537.22 ' style='stroke-width: 0.64; fill: #F28780;' />
+<polygon points='320.37,537.22 320.37,548.56 342.28,548.56 342.28,548.56 345.12,542.89 342.28,537.22 342.28,537.22 ' style='stroke-width: 0.64; fill: #1F78B4;' />
+<polygon points='412.83,537.22 412.83,548.56 364.85,548.56 364.85,548.56 362.01,542.89 364.85,537.22 364.85,537.22 ' style='stroke-width: 0.64; fill: #C2969E;' />
+<polygon points='419.94,537.22 419.94,548.56 415.59,548.56 415.59,548.56 412.76,542.89 415.59,537.22 415.59,537.22 ' style='stroke-width: 0.64; fill: #86B1CC;' />
+<polygon points='512.63,537.22 512.63,548.56 426.07,548.56 426.07,548.56 423.24,542.89 426.07,537.22 426.07,537.22 ' style='stroke-width: 0.64; fill: #D1B289;' />
+<polygon points='255.75,537.22 255.75,548.56 261.76,548.56 261.76,548.56 264.59,542.89 261.76,537.22 261.76,537.22 ' style='stroke-width: 0.64; fill: #FF0000;' />
+<text x='76.19' y='543.88' style='font-size: 4.01px; font-family: "Arial";' textLength='38.48px' lengthAdjust='spacingAndGlyphs'>Phosphoglucomutase</text>
+<text x='426.07' y='544.41' style='font-size: 6.04px; font-family: "Arial";' textLength='70.42px' lengthAdjust='spacingAndGlyphs'>CotH kinase family protein</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8NjEyLjE3fDcxMS43OA=='>
+    <rect x='8.22' y='612.17' width='504.41' height='99.61' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8NjEyLjE3fDcxMS43OA==)'>
+<polyline points='8.22,661.98 512.63,661.98 ' style='stroke-width: 2.13; stroke: #BEBEBE; stroke-linecap: butt;' />
+<polygon points='274.61,656.31 274.61,667.65 269.50,667.65 269.50,667.65 266.66,661.98 269.50,656.31 269.50,656.31 ' style='stroke-width: 0.64; fill: #D28609;' />
+<polygon points='320.65,656.31 320.65,667.65 284.94,667.65 284.94,667.65 282.10,661.98 284.94,656.31 284.94,656.31 ' style='stroke-width: 0.64; fill: #EBBE63;' />
+<polygon points='334.61,656.31 334.61,667.65 323.90,667.65 323.90,667.65 321.06,661.98 323.90,656.31 323.90,656.31 ' style='stroke-width: 0.64; fill: #BED767;' />
+<polygon points='341.49,656.31 341.49,667.65 339.51,667.65 339.51,667.65 336.68,661.98 339.51,656.31 339.51,656.31 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='344.20,656.31 344.20,667.65 344.20,667.65 344.20,667.65 341.54,661.98 344.20,656.31 344.20,656.31 ' style='stroke-width: 0.64; fill: #D2D69E;' />
+<polygon points='352.73,656.31 352.73,667.65 347.08,667.65 347.08,667.65 344.25,661.98 347.08,656.31 347.08,656.31 ' style='stroke-width: 0.64; fill: #FBCDE4;' />
+<polygon points='382.77,656.31 382.77,667.65 354.57,667.65 354.57,667.65 351.74,661.98 354.57,656.31 354.57,656.31 ' style='stroke-width: 0.64; fill: #E6D4DD;' />
+<polygon points='400.26,656.31 400.26,667.65 386.86,667.65 386.86,667.65 384.02,661.98 386.86,656.31 386.86,656.31 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='423.72,656.31 423.72,667.65 404.27,667.65 404.27,667.65 401.43,661.98 404.27,656.31 404.27,656.31 ' style='stroke-width: 0.64; fill: #D2C5D2;' />
+<polygon points='440.59,656.31 440.59,667.65 426.66,667.65 426.66,667.65 423.82,661.98 426.66,656.31 426.66,656.31 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='451.48,656.31 451.48,667.65 443.45,667.65 443.45,667.65 440.62,661.98 443.45,656.31 443.45,656.31 ' style='stroke-width: 0.64; fill: #2A8F63;' />
+<polygon points='508.36,656.31 508.36,667.65 454.40,667.65 454.40,667.65 451.56,661.98 454.40,656.31 454.40,656.31 ' style='stroke-width: 0.64; fill: #C190C2;' />
+<polygon points='255.75,656.31 255.75,667.65 261.78,667.65 261.78,667.65 264.62,661.98 261.78,656.31 261.78,656.31 ' style='stroke-width: 0.64; fill: #FF0000;' />
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8NjAwLjkxfDYxMi4xNw=='>
+    <rect x='8.22' y='600.91' width='504.41' height='11.26' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8NjAwLjkxfDYxMi4xNw==)'>
+<text x='260.43' y='610.85' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='176.72px' lengthAdjust='spacingAndGlyphs'>Caudoviricetes sp. isolate ctlNO7</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8NDgxLjgzfDQ5My4wOQ=='>
+    <rect x='8.22' y='481.83' width='504.41' height='11.26' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8NDgxLjgzfDQ5My4wOQ==)'>
+<text x='260.43' y='491.76' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='260.13px' lengthAdjust='spacingAndGlyphs'>Clostridiales bacterium isolate KR001_HIC_0007</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8MzYyLjc0fDM3NC4wMA=='>
+    <rect x='8.22' y='362.74' width='504.41' height='11.26' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8MzYyLjc0fDM3NC4wMA==)'>
+<text x='260.43' y='372.68' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='177.40px' lengthAdjust='spacingAndGlyphs'>Caudoviricetes sp. isolate ctUyu4</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8MjQzLjY1fDI1NC45MQ=='>
+    <rect x='8.22' y='243.65' width='504.41' height='11.26' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8MjQzLjY1fDI1NC45MQ==)'>
+<text x='260.43' y='253.59' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='180.75px' lengthAdjust='spacingAndGlyphs'>Caudoviricetes sp. isolate ctInE22</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8MTI0LjU3fDEzNS44Mw=='>
+    <rect x='8.22' y='124.57' width='504.41' height='11.26' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8MTI0LjU3fDEzNS44Mw==)'>
+<text x='260.43' y='134.50' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='187.39px' lengthAdjust='spacingAndGlyphs'>Caudoviricetes sp. isolate ctvmC44</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+</g>
+<defs>
+  <clipPath id='cpOC4yMnw1MTIuNjN8NS40OHwxNi43NA=='>
+    <rect x='8.22' y='5.48' width='504.41' height='11.26' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpOC4yMnw1MTIuNjN8NS40OHwxNi43NA==)'>
+<text x='260.43' y='15.42' text-anchor='middle' style='font-size: 12.00px; font-family: "Arial";' textLength='172.07px' lengthAdjust='spacingAndGlyphs'>Caudoviricetes sp. isolate ctiL05</text>
+</g>
+<g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw3MjAuMDA=)'>
+<rect x='523.59' y='31.20' width='334.93' height='666.12' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='529.07' y='45.79' style='font-size: 11.00px; font-family: "Arial";' textLength='26.91px' lengthAdjust='spacingAndGlyphs'>Gene</text>
+<rect x='530.49' y='53.90' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #FF0000;' />
+<rect x='530.49' y='71.18' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #D2D69E;' />
+<rect x='530.49' y='88.46' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #F28780;' />
+<rect x='530.49' y='105.74' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #BED767;' />
+<rect x='530.49' y='123.02' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #FFEA6C;' />
+<rect x='530.49' y='140.30' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #EFE8AB;' />
+<rect x='530.49' y='157.58' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #D1B289;' />
+<rect x='530.49' y='174.86' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #FBCDE4;' />
+<rect x='530.49' y='192.14' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #99D7C2;' />
+<rect x='530.49' y='209.42' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #AD8269;' />
+<rect x='530.49' y='226.70' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #C190C2;' />
+<rect x='530.49' y='243.98' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #D2C5D2;' />
+<rect x='530.49' y='261.26' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #86B1CC;' />
+<rect x='530.49' y='278.54' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #C2969E;' />
+<rect x='530.49' y='295.82' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #D28609;' />
+<rect x='530.49' y='313.10' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #1F78B4;' />
+<rect x='530.49' y='330.38' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #FBA68B;' />
+<rect x='530.49' y='347.66' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #F9F9B6;' />
+<rect x='530.49' y='364.94' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #BBD58C;' />
+<rect x='530.49' y='382.22' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #AA8987;' />
+<rect x='530.49' y='399.50' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #EBBE63;' />
+<rect x='530.49' y='416.78' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #754187;' />
+<rect x='530.49' y='434.06' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #CEAABD;' />
+<rect x='530.49' y='451.34' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #FFA82A;' />
+<rect x='530.49' y='468.62' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #FCBC72;' />
+<rect x='530.49' y='485.90' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #A6C7D8;' />
+<rect x='530.49' y='503.18' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #ACD7B2;' />
+<rect x='530.49' y='520.46' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #DDF1A6;' />
+<rect x='530.49' y='537.74' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #E6D4DD;' />
+<rect x='530.49' y='555.02' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #C4E8BD;' />
+<rect x='530.49' y='572.30' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #9F5243;' />
+<rect x='530.49' y='589.58' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #599923;' />
+<rect x='530.49' y='606.86' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #CFBACF;' />
+<rect x='530.49' y='624.14' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #E2B8A3;' />
+<rect x='530.49' y='641.42' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #E7AC94;' />
+<rect x='530.49' y='658.70' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #D3D0CD;' />
+<rect x='530.49' y='675.98' width='14.45' height='14.45' style='stroke-width: 0.64; fill: #2A8F63;' />
+<text x='551.83' y='64.28' style='font-size: 8.80px; font-family: "Arial";' textLength='19.07px' lengthAdjust='spacingAndGlyphs'>AMP</text>
+<text x='551.83' y='81.56' style='font-size: 8.80px; font-family: "Arial";' textLength='128.14px' lengthAdjust='spacingAndGlyphs'>ASCH domain-containing protein</text>
+<text x='551.83' y='98.84' style='font-size: 8.80px; font-family: "Arial";' textLength='287.25px' lengthAdjust='spacingAndGlyphs'>c("D-alanyl-lipoteichoic acid acyltransferase DltB", " MBOAT superfamily")</text>
+<text x='551.83' y='116.12' style='font-size: 8.80px; font-family: "Arial";' textLength='301.21px' lengthAdjust='spacingAndGlyphs'>c("PilA", " PilC", " PilN", " PilO", " PilM", " pilus", " ring", " membrane channel")</text>
+<text x='551.83' y='133.40' style='font-size: 8.80px; font-family: "Arial";' textLength='146.72px' lengthAdjust='spacingAndGlyphs'>CBM-cenC domain-containing protein</text>
+<text x='551.83' y='150.68' style='font-size: 8.80px; font-family: "Arial";' textLength='83.63px' lengthAdjust='spacingAndGlyphs'>Chromate transporter</text>
+<text x='551.83' y='167.96' style='font-size: 8.80px; font-family: "Arial";' textLength='102.67px' lengthAdjust='spacingAndGlyphs'>CotH kinase family protein</text>
+<text x='551.83' y='185.24' style='font-size: 8.80px; font-family: "Arial";' textLength='141.36px' lengthAdjust='spacingAndGlyphs'>DUF1292 domain-containing protein</text>
+<text x='551.83' y='202.52' style='font-size: 8.80px; font-family: "Arial";' textLength='141.36px' lengthAdjust='spacingAndGlyphs'>DUF2007 domain-containing protein</text>
+<text x='551.83' y='219.80' style='font-size: 8.80px; font-family: "Arial";' textLength='141.36px' lengthAdjust='spacingAndGlyphs'>DUF4355 domain-containing protein</text>
+<text x='551.83' y='237.08' style='font-size: 8.80px; font-family: "Arial";' textLength='141.36px' lengthAdjust='spacingAndGlyphs'>DUF5048 domain-containing protein</text>
+<text x='551.83' y='254.36' style='font-size: 8.80px; font-family: "Arial";' textLength='141.36px' lengthAdjust='spacingAndGlyphs'>DUF6273 domain-containing protein</text>
+<text x='551.83' y='271.64' style='font-size: 8.80px; font-family: "Arial";' textLength='75.79px' lengthAdjust='spacingAndGlyphs'>FeoA family protein</text>
+<text x='551.83' y='288.92' style='font-size: 8.80px; font-family: "Arial";' textLength='122.26px' lengthAdjust='spacingAndGlyphs'>Ferrous iron transport protein B</text>
+<text x='551.83' y='306.20' style='font-size: 8.80px; font-family: "Arial";' textLength='20.04px' lengthAdjust='spacingAndGlyphs'>Holin</text>
+<text x='551.83' y='323.48' style='font-size: 8.80px; font-family: "Arial";' textLength='76.31px' lengthAdjust='spacingAndGlyphs'>hypothetical protein</text>
+<text x='551.83' y='340.76' style='font-size: 8.80px; font-family: "Arial";' textLength='108.10px' lengthAdjust='spacingAndGlyphs'>J domain-containing protein</text>
+<text x='551.83' y='358.04' style='font-size: 8.80px; font-family: "Arial";' textLength='106.61px' lengthAdjust='spacingAndGlyphs'>MBL fold metallo-hydrolase</text>
+<text x='551.83' y='375.32' style='font-size: 8.80px; font-family: "Arial";' textLength='95.89px' lengthAdjust='spacingAndGlyphs'>Metallophosphoesterase</text>
+<text x='551.83' y='392.60' style='font-size: 8.80px; font-family: "Arial";' textLength='89.97px' lengthAdjust='spacingAndGlyphs'>Minor structural protein</text>
+<text x='551.83' y='409.88' style='font-size: 8.80px; font-family: "Arial";' textLength='127.12px' lengthAdjust='spacingAndGlyphs'>Muramidase (Flagellum-specific)</text>
+<text x='551.83' y='427.16' style='font-size: 8.80px; font-family: "Arial";' textLength='145.74px' lengthAdjust='spacingAndGlyphs'>N-acetylmuramoyl-L-alanine amidase</text>
+<text x='551.83' y='444.44' style='font-size: 8.80px; font-family: "Arial";' textLength='67.96px' lengthAdjust='spacingAndGlyphs'>NUDIX hydrolase</text>
+<text x='551.83' y='461.72' style='font-size: 8.80px; font-family: "Arial";' textLength='154.56px' lengthAdjust='spacingAndGlyphs'>peptidoglycan recognition family protein</text>
+<text x='551.83' y='479.00' style='font-size: 8.80px; font-family: "Arial";' textLength='133.97px' lengthAdjust='spacingAndGlyphs'>Peptidyl-prolyl cis-trans isomerase</text>
+<text x='551.83' y='496.28' style='font-size: 8.80px; font-family: "Arial";' textLength='79.25px' lengthAdjust='spacingAndGlyphs'>Phage portal protein</text>
+<text x='551.83' y='513.56' style='font-size: 8.80px; font-family: "Arial";' textLength='266.07px' lengthAdjust='spacingAndGlyphs'>Phage terminase large subunit N-terminal domain-containing protein</text>
+<text x='551.83' y='530.84' style='font-size: 8.80px; font-family: "Arial";' textLength='84.64px' lengthAdjust='spacingAndGlyphs'>Phosphoglucomutase</text>
+<text x='551.83' y='548.12' style='font-size: 8.80px; font-family: "Arial";' textLength='130.57px' lengthAdjust='spacingAndGlyphs'>Retron-type reverse transcriptase</text>
+<text x='551.83' y='565.40' style='font-size: 8.80px; font-family: "Arial";' textLength='196.57px' lengthAdjust='spacingAndGlyphs'>Ribosomal RNA large subunit methyltransferase H</text>
+<text x='551.83' y='582.68' style='font-size: 8.80px; font-family: "Arial";' textLength='147.16px' lengthAdjust='spacingAndGlyphs'>SGNH/GDSL hydrolase family protein</text>
+<text x='551.83' y='599.96' style='font-size: 8.80px; font-family: "Arial";' textLength='86.06px' lengthAdjust='spacingAndGlyphs'>Site-specific integrase</text>
+<text x='551.83' y='617.24' style='font-size: 8.80px; font-family: "Arial";' textLength='73.86px' lengthAdjust='spacingAndGlyphs'>Sporulation protein</text>
+<text x='551.83' y='634.52' style='font-size: 8.80px; font-family: "Arial";' textLength='79.73px' lengthAdjust='spacingAndGlyphs'>SsrA-binding protein</text>
+<text x='551.83' y='651.80' style='font-size: 8.80px; font-family: "Arial";' textLength='95.35px' lengthAdjust='spacingAndGlyphs'>Terminase small subunit</text>
+<text x='551.83' y='669.08' style='font-size: 8.80px; font-family: "Arial";' textLength='205.87px' lengthAdjust='spacingAndGlyphs'>UDP-N-acetylglucosamine 1-carboxyvinyltransferase</text>
+<text x='551.83' y='686.36' style='font-size: 8.80px; font-family: "Arial";' textLength='93.42px' lengthAdjust='spacingAndGlyphs'>Uncharacterized protein</text>
+</g>
+</svg>

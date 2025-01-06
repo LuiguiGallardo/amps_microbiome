@@ -1,0 +1,19 @@
+##gff-version 3
+CP103125.1	BLASTP	match	5381122	5382918	0.0	-	.	ID=CP103125.1_4694;subject=DUF1738 domain-containing protein;score=1115.1
+CP103125.1	BLASTP	match	5383015	5384625	2.7e-301	+	.	ID=CP103125.1_4695;subject=Tyrosine-type recombinase/integrase;score=1043.5
+CP103125.1	BLASTP	match	5384622	5385584	4.3999999999999996e-166	+	.	ID=CP103125.1_4696;subject=Tyrosine-type recombinase/integrase;score=593.6
+CP103125.1	BLASTP	match	5385562	5386593	7.7e-193	+	.	ID=CP103125.1_4697;subject=Tyrosine-type recombinase/integrase;score=682.6
+CP103125.1	BLASTP	match	5386692	5387693	5.5999999999999996e-188	+	.	ID=CP103125.1_4698;subject=DUF1738 domain-containing protein (Fragment);score=666.4
+CP103125.1	BLASTP	match	5387909	5389861	0.0	-	.	ID=CP103125.1_4699;subject=histidine kinase;score=1318.1
+CP103125.1	BLASTP	match	5389845	5391875	0.0	-	.	ID=CP103125.1_4700;subject=histidine kinase;score=1412.9
+CP103125.1	BLASTP	match	5392071	5392241	3e-25	-	.	ID=CP103125.1_4701;subject=Uncharacterized protein;score=123.2
+CP103125.1	BLASTP	match	5392806	5393519	1.2e-128	-	.	ID=CP103125.1_4702;subject=Uncharacterized protein;score=468.8
+CP103125.1	BLASTP	match	5393636	5394763	5.5e-192	+	.	ID=CP103125.1_4703;subject=Helix-turn-helix transcriptional regulator;score=679.9
+CP103125.1	BLASTP	match	5394965	5396065	2.1000000000000003e-164	+	.	ID=CP103125.1_4704;subject=DUF3575 domain-containing protein;score=588.2
+CP103125.1	BLASTP	match	5396115	5396969	5.9e-154	+	.	ID=CP103125.1_4705;subject=DUF5119 domain-containing protein;score=553.1
+CP103125.1	BLASTP	match	5396990	5397877	2.9e-140	+	.	ID=CP103125.1_4706;subject=Fimbrillin family protein;score=507.7
+CP103125.1	BLASTP	match	5397912	5399483	2.2e-276	+	.	ID=CP103125.1_4707;subject=Fimbrillin family protein;score=960.7
+CP103125.1	BLASTP	match	5399496	5401202	1.4000000000000001e-260	+	.	ID=CP103125.1_4708;subject=Fimbrillin family protein;score=908.3
+CP103125.1	BLASTP	match	5401279	5401422	3.3e-17	+	.	ID=CP103125.1_4709;subject=Uncharacterized protein;score=96.3
+CP103125.1	BLASTP	match	5401432	5401926	1.8e-78	+	.	ID=CP103125.1_4710;subject=DUF2589 domain-containing protein;score=301.6
+CP103125.1	AMP	match	5392452	5392670	0	-	.	ID=AMP_138200_c2_g1_i1;subject=AMP

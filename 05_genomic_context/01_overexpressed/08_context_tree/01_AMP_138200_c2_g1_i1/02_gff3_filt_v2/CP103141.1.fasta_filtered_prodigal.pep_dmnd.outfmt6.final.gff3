@@ -1,0 +1,18 @@
+##gff-version 3
+CP103141.1	BLASTP	match	6790178	6790927	1.7999999999999998e-138	+	.	ID=CP103141.1_5842;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP103141.1	BLASTP	match	6793172	6794452	2.3e-250	+	.	ID=CP103141.1_5843;subject=DUF1566 domain-containing protein;score=874.0
+CP103141.1	BLASTP	match	6794534	6794986	1.4e-77	+	.	ID=CP103141.1_5844;subject=Fimbrillin family protein;score=298.5
+CP103141.1	BLASTP	match	6794989	6795480	3.8e-89	+	.	ID=CP103141.1_5845;subject=DUF1566 domain-containing protein;score=337.0
+CP103141.1	BLASTP	match	6796050	6800015	0.0	-	.	ID=CP103141.1_5846;subject=histidine kinase;score=2721.4
+CP103141.1	BLASTP	match	6800211	6800381	3e-25	-	.	ID=CP103141.1_5847;subject=Uncharacterized protein;score=123.2
+CP103141.1	BLASTP	match	6800921	6801352	4.1e-71	+	.	ID=CP103141.1_5848;subject=Transposase;score=276.9
+CP103141.1	BLASTP	match	6801336	6801701	1.6e-52	+	.	ID=CP103141.1_5849;subject=Transposase;score=214.9
+CP103141.1	BLASTP	match	6801784	6802398	1.2e-108	+	.	ID=CP103141.1_5850;subject=hypothetical protein;score=402.1
+CP103141.1	BLASTP	match	6802373	6802729	3.7999999999999996e-62	+	.	ID=CP103141.1_5851;subject=Transposase;score=246.9
+CP103141.1	BLASTP	match	6802726	6803370	1.3000000000000002e-124	+	.	ID=CP103141.1_5852;subject=Transposase;score=455.3
+CP103141.1	BLASTP	match	6804474	6805280	4.3e-146	+	.	ID=CP103141.1_5853;subject=AraC family transcriptional regulator;score=526.9
+CP103141.1	BLASTP	match	6805944	6807149	1.6e-226	+	.	ID=CP103141.1_5854;subject=Uncharacterized protein;score=794.7
+CP103141.1	BLASTP	match	6807183	6807452	5.4000000000000003e-45	+	.	ID=CP103141.1_5855;subject=Uncharacterized protein;score=189.5
+CP103141.1	BLASTP	match	6807494	6807694	4e-29	+	.	ID=CP103141.1_5856;subject=Transposase;score=136.3
+CP103141.1	BLASTP	match	6807702	6808799	2.4e-200	+	.	ID=CP103141.1_5857;subject=Transposase DDE domain-containing protein;score=707.6
+CP103141.1	BLASTP	match	6808801	6810960	0.0	-	.	ID=CP103141.1_5858;subject=BACON domain-containing protein;score=1472.2

@@ -1,0 +1,12 @@
+##gff-version 3
+BK027835.1	BLASTP	match	4341	5393	8.699999999999999e-99	-	.	ID=BK027835.1_6;subject=Gp7 (Fragment);score=370.2
+BK027835.1	BLASTP	match	5457	6356	9e-20	-	.	ID=BK027835.1_7;subject=DUF4355 domain-containing protein;score=107.5
+BK027835.1	BLASTP	match	6469	8178	3.1e-186	-	.	ID=BK027835.1_8;subject=Phage portal protein;score=661.4
+BK027835.1	BLASTP	match	8525	9934	5.3e-184	-	.	ID=BK027835.1_10;subject=Phage terminase large subunit N-terminal domain-containing protein;score=653.7
+BK027835.1	BLASTP	match	10178	10969	4.6e-68	-	.	ID=BK027835.1_12;subject=Metallophosphoesterase;score=267.7
+BK027835.1	BLASTP	match	11538	11927	5.6e-19	-	.	ID=BK027835.1_13;subject=Terminase small subunit;score=103.6
+BK027835.1	BLASTP	match	13455	13955	1.3000000000000002e-60	+	.	ID=BK027835.1_15;subject=J domain-containing protein;score=242.3
+BK027835.1	BLASTP	match	14053	14520	2.3e-43	+	.	ID=BK027835.1_16;subject=hypothetical protein;score=184.9
+BK027835.1	BLASTP	match	15256	15777	1.1e-73	-	.	ID=BK027835.1_17;subject=Peptidyl-prolyl cis-trans isomerase;score=285.8
+BK027835.1	BLASTP	match	15777	15998	3.1e-22	-	.	ID=BK027835.1_18;subject=SsrA-binding protein;score=113.6
+BK027835.1	AMP	match	14793	15140	.	-	0	ID=AMP_138681_c7_g1_i1;subject=AMP

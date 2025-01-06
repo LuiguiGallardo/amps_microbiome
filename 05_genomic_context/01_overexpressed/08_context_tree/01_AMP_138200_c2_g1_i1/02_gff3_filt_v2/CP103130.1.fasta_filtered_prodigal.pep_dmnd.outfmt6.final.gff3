@@ -1,0 +1,20 @@
+##gff-version 3
+CP103130.1	BLASTP	match	5640258	5641007	1.7999999999999998e-138	+	.	ID=CP103130.1_4703;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP103130.1	BLASTP	match	5643252	5644532	1.9e-249	+	.	ID=CP103130.1_4704;subject=DUF1566 domain-containing protein;score=870.9
+CP103130.1	BLASTP	match	5644614	5645066	1.4e-77	+	.	ID=CP103130.1_4705;subject=Fimbrillin family protein;score=298.5
+CP103130.1	BLASTP	match	5645069	5645560	3.8e-89	+	.	ID=CP103130.1_4706;subject=DUF1566 domain-containing protein;score=337.0
+CP103130.1	BLASTP	match	5646132	5646932	5.2e-152	-	.	ID=CP103130.1_4707;subject=histidine kinase;score=546.6
+CP103130.1	BLASTP	match	5646925	5648193	1.9e-241	-	.	ID=CP103130.1_4708;subject=histidine kinase;score=844.3
+CP103130.1	BLASTP	match	5648581	5649744	1.5e-216	-	.	ID=CP103130.1_4710;subject=histidine kinase;score=761.5
+CP103130.1	BLASTP	match	5649782	5650099	5.7e-54	-	.	ID=CP103130.1_4711;subject=Uncharacterized protein;score=219.5
+CP103130.1	BLASTP	match	5651005	5651436	4.1e-71	+	.	ID=CP103130.1_4712;subject=Transposase;score=276.9
+CP103130.1	BLASTP	match	5651420	5651785	1.6e-52	+	.	ID=CP103130.1_4713;subject=Transposase;score=214.9
+CP103130.1	BLASTP	match	5651868	5652812	4.3e-174	+	.	ID=CP103130.1_4714;subject=Transposase;score=620.2
+CP103130.1	BLASTP	match	5652809	5653453	1.3000000000000002e-124	+	.	ID=CP103130.1_4715;subject=Transposase;score=455.3
+CP103130.1	BLASTP	match	5654557	5655681	6.7e-190	+	.	ID=CP103130.1_4716;subject=Helix-turn-helix transcriptional regulator;score=672.9
+CP103130.1	BLASTP	match	5656028	5657233	1.6e-226	+	.	ID=CP103130.1_4717;subject=Uncharacterized protein;score=794.7
+CP103130.1	BLASTP	match	5657267	5657536	5.4000000000000003e-45	+	.	ID=CP103130.1_4718;subject=Uncharacterized protein;score=189.5
+CP103130.1	BLASTP	match	5657578	5657778	4e-29	+	.	ID=CP103130.1_4719;subject=Transposase;score=136.3
+CP103130.1	BLASTP	match	5657786	5658883	8.200000000000001e-201	+	.	ID=CP103130.1_4720;subject=Transposase DDE domain-containing protein;score=709.1
+CP103130.1	BLASTP	match	5658885	5661044	0.0	-	.	ID=CP103130.1_4721;subject=BACON domain-containing protein;score=1472.2
+CP103130.1	AMP	match	5650676	5650894	0	-	.	ID=AMP_138200_c2_g1_i1;subject=AMP

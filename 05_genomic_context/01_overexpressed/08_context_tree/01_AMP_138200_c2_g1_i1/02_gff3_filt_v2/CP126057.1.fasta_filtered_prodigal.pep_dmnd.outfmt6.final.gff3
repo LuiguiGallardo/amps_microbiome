@@ -1,0 +1,20 @@
+##gff-version 3
+CP126057.1	BLASTP	match	62201	62839	8.999999999999999e-107	+	.	ID=CP126057.1_81;subject=Resolvase/invertase-type recombinase catalytic domain-containing protein;score=396.0
+CP126057.1	BLASTP	match	62967	63893	9.8e-171	+	.	ID=CP126057.1_82;subject=Fido domain-containing protein;score=609.0
+CP126057.1	BLASTP	match	63902	64387	1.6000000000000001e-87	+	.	ID=CP126057.1_83;subject=Fic family protein;score=331.6
+CP126057.1	BLASTP	match	64498	64896	6.9e-73	+	.	ID=CP126057.1_84;subject=Exo-poly-alpha-D-galacturonosidase;score=282.7
+CP126057.1	BLASTP	match	66135	67109	3.5e-179	+	.	ID=CP126057.1_85;subject=DUF1738 domain-containing protein (Fragment);score=637.1
+CP126057.1	BLASTP	match	67435	68103	1.2e-109	-	.	ID=CP126057.1_86;subject=histidine kinase;score=405.6
+CP126057.1	BLASTP	match	68100	69641	6.6e-289	-	.	ID=CP126057.1_87;subject=histidine kinase;score=1002.3
+CP126057.1	BLASTP	match	69593	70441	1.2e-85	-	.	ID=CP126057.1_88;subject=histidine kinase;score=326.2
+CP126057.1	BLASTP	match	70441	71286	1.1e-157	-	.	ID=CP126057.1_89;subject=Uncharacterized protein;score=565.5
+CP126057.1	BLASTP	match	71482	71700	2.3999999999999999e-35	-	.	ID=CP126057.1_90;subject=Uncharacterized protein;score=157.1
+CP126057.1	BLASTP	match	72217	72459	4.9e-37	-	.	ID=CP126057.1_91;subject=Uncharacterized protein;score=162.9
+CP126057.1	BLASTP	match	73267	74172	7.800000000000001e-165	+	.	ID=CP126057.1_92;subject=HTH araC/xylS-type domain-containing protein;score=589.3
+CP126057.1	BLASTP	match	74373	75467	1.6e-172	+	.	ID=CP126057.1_93;subject=DUF3575 domain-containing protein;score=615.1
+CP126057.1	BLASTP	match	75517	76371	1.4e-152	+	.	ID=CP126057.1_94;subject=DUF5119 domain-containing protein;score=548.5
+CP126057.1	BLASTP	match	76470	77357	2.2e-143	+	.	ID=CP126057.1_95;subject=Fimbrillin family protein;score=518.1
+CP126057.1	BLASTP	match	77392	78954	5.7000000000000005e-272	+	.	ID=CP126057.1_96;subject=Fimbrillin family protein;score=946.0
+CP126057.1	BLASTP	match	78977	80683	5.6e-257	+	.	ID=CP126057.1_97;subject=GLUG domain-containing protein;score=896.3
+CP126057.1	BLASTP	match	80759	80842	2.8e-08	+	.	ID=CP126057.1_98;subject=Uncharacterized protein;score=65.9
+CP126057.1	AMP	match	71863	72081	0	-	.	ID=AMP_138200_c2_g1_i1;subject=AMP

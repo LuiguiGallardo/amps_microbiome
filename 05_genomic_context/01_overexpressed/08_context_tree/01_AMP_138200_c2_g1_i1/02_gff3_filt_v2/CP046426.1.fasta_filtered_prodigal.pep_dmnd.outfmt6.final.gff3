@@ -1,0 +1,16 @@
+##gff-version 3
+CP046426.1	BLASTP	match	1620432	1622183	0.0	+	.	ID=CP046426.1_1322;subject=Fimbrillin family protein;score=1204.5
+CP046426.1	BLASTP	match	1622280	1622666	6.1e-66	+	.	ID=CP046426.1_1323;subject=Fimbrillin family protein;score=259.6
+CP046426.1	BLASTP	match	1622673	1623953	6.100000000000001e-248	+	.	ID=CP046426.1_1324;subject=DUF1566 domain-containing protein;score=865.9
+CP046426.1	BLASTP	match	1624035	1624487	4.3e-79	+	.	ID=CP046426.1_1325;subject=Fimbrillin family protein;score=303.5
+CP046426.1	BLASTP	match	1624490	1624981	3.8e-89	+	.	ID=CP046426.1_1326;subject=DUF1566 domain-containing protein;score=337.0
+CP046426.1	BLASTP	match	1625551	1629516	0.0	-	.	ID=CP046426.1_1327;subject=histidine kinase;score=2721.4
+CP046426.1	BLASTP	match	1630447	1631160	2.7e-128	-	.	ID=CP046426.1_1328;subject=Uncharacterized protein;score=467.6
+CP046426.1	BLASTP	match	1631277	1632404	2.4000000000000003e-195	+	.	ID=CP046426.1_1329;subject=Helix-turn-helix transcriptional regulator;score=691.0
+CP046426.1	BLASTP	match	1632605	1633699	7.5e-170	+	.	ID=CP046426.1_1330;subject=DUF3575 domain-containing protein;score=606.3
+CP046426.1	BLASTP	match	1633749	1634603	9.999999999999999e-154	+	.	ID=CP046426.1_1331;subject=DUF5119 domain-containing protein;score=552.4
+CP046426.1	BLASTP	match	1634702	1635589	9.499999999999999e-139	+	.	ID=CP046426.1_1332;subject=Fimbrillin family protein;score=502.7
+CP046426.1	BLASTP	match	1635624	1637195	4e-273	+	.	ID=CP046426.1_1333;subject=Fimbrillin family protein;score=949.9
+CP046426.1	BLASTP	match	1637208	1638914	2.3000000000000004e-258	+	.	ID=CP046426.1_1334;subject=Fimbrillin family protein;score=901.0
+CP046426.1	BLASTP	match	1639142	1639636	4.7e-79	+	.	ID=CP046426.1_1335;subject=DUF2589 domain-containing protein;score=303.5
+CP046426.1	BLASTP	match	1639629	1639904	2.2e-38	+	.	ID=CP046426.1_1336;subject=AAA domain family protein;score=167.5

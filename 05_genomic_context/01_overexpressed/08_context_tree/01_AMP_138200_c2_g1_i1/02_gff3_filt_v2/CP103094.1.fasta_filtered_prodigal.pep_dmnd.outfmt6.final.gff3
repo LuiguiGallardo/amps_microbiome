@@ -1,0 +1,19 @@
+##gff-version 3
+CP103094.1	BLASTP	match	3361163	3363322	0.0	+	.	ID=CP103094.1_2649;subject=BACON domain-containing protein;score=1469.5
+CP103094.1	BLASTP	match	3363324	3364421	8.200000000000001e-201	-	.	ID=CP103094.1_2650;subject=Transposase DDE domain-containing protein;score=709.1
+CP103094.1	BLASTP	match	3364429	3364629	4e-29	-	.	ID=CP103094.1_2651;subject=Transposase;score=136.3
+CP103094.1	BLASTP	match	3364671	3364940	5.4000000000000003e-45	-	.	ID=CP103094.1_2652;subject=Uncharacterized protein;score=189.5
+CP103094.1	BLASTP	match	3364974	3366179	1.6e-226	-	.	ID=CP103094.1_2653;subject=Uncharacterized protein;score=794.7
+CP103094.1	BLASTP	match	3366526	3367650	3e-190	-	.	ID=CP103094.1_2654;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP103094.1	BLASTP	match	3368754	3369398	1.3000000000000002e-124	-	.	ID=CP103094.1_2655;subject=Transposase;score=455.3
+CP103094.1	BLASTP	match	3369395	3370339	1.3e-175	-	.	ID=CP103094.1_2656;subject=Transposase;score=625.2
+CP103094.1	BLASTP	match	3370422	3370787	1.6e-52	-	.	ID=CP103094.1_2657;subject=Transposase;score=214.9
+CP103094.1	BLASTP	match	3370771	3371202	4.1e-71	-	.	ID=CP103094.1_2658;subject=Transposase;score=276.9
+CP103094.1	BLASTP	match	3371742	3371912	3e-25	+	.	ID=CP103094.1_2659;subject=Uncharacterized protein;score=123.2
+CP103094.1	BLASTP	match	3372108	3373022	2.2e-175	+	.	ID=CP103094.1_2660;subject=Uncharacterized protein;score=624.4
+CP103094.1	BLASTP	match	3373328	3376075	0.0	+	.	ID=CP103094.1_2661;subject=histidine kinase;score=1831.2
+CP103094.1	BLASTP	match	3376645	3377136	3.8e-89	-	.	ID=CP103094.1_2662;subject=DUF1566 domain-containing protein;score=337.0
+CP103094.1	BLASTP	match	3377139	3377591	1.4e-77	-	.	ID=CP103094.1_2663;subject=Fimbrillin family protein;score=298.5
+CP103094.1	BLASTP	match	3377673	3378953	2.3e-250	-	.	ID=CP103094.1_2664;subject=DUF1566 domain-containing protein;score=874.0
+CP103094.1	BLASTP	match	3381199	3381948	1.7999999999999998e-138	-	.	ID=CP103094.1_2665;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP103094.1	AMP	match	3371735	3371953	0	+	.	ID=AMP_138200_c2_g1_i1;subject=AMP

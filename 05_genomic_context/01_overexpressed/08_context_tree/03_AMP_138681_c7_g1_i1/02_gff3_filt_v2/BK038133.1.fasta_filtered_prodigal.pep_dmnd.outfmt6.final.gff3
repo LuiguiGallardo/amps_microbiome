@@ -1,0 +1,15 @@
+##gff-version 3
+BK038133.1	BLASTP	match	543	854	3.8e-34	-	.	ID=BK038133.1_1;subject=Holin;score=153.7
+BK038133.1	BLASTP	match	1147	2655	2.0000000000000002e-157	-	.	ID=BK038133.1_2;subject=Muramidase (Flagellum-specific);score=565.5
+BK038133.1	BLASTP	match	2671	3201	3.1e-60	-	.	ID=BK038133.1_3;subject=PilA, PilC, PilN, PilO, PilM, pilus, ring, membrane channel;score=241.1
+BK038133.1	BLASTP	match	3282	3470	1.4e-15	-	.	ID=BK038133.1_4;subject=Uncharacterized protein;score=91.3
+BK038133.1	BLASTP	match	3472	3576	8.6e-07	-	.	ID=BK038133.1_5;subject=ASCH domain-containing protein;score=61.2
+BK038133.1	BLASTP	match	3578	3910	3.6e-43	-	.	ID=BK038133.1_6;subject=DUF1292 domain-containing protein;score=183.7
+BK038133.1	BLASTP	match	3871	5085	2.5e-182	-	.	ID=BK038133.1_7;subject=Retron-type reverse transcriptase;score=647.9
+BK038133.1	BLASTP	match	5134	5769	2.5e-93	-	.	ID=BK038133.1_8;subject=Uncharacterized protein;score=351.3
+BK038133.1	BLASTP	match	5815	6687	4.1999999999999994e-139	-	.	ID=BK038133.1_9;subject=DUF6273 domain-containing protein;score=503.8
+BK038133.1	BLASTP	match	6691	7347	3e-89	-	.	ID=BK038133.1_10;subject=Uncharacterized protein;score=337.8
+BK038133.1	BLASTP	match	7348	7773	1.8e-66	-	.	ID=BK038133.1_11;subject=Uncharacterized protein;score=261.5
+BK038133.1	BLASTP	match	7776	9998	0.0	-	.	ID=BK038133.1_12;subject=DUF5048 domain-containing protein;score=1310.0
+BK038133.1	BLASTP	match	10398	15011	1.3e-231	-	.	ID=BK038133.1_14;subject=Phage-related protein;score=813.5
+BK038133.1	AMP	match	116	463	.	+	0	ID=AMP_138681_c7_g1_i1;subject=AMP

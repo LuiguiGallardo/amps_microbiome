@@ -1,0 +1,17 @@
+##gff-version 3
+CP041230.1	BLASTP	match	5572920	5573669	1.7999999999999998e-138	+	.	ID=CP041230.1_4437;subject=Glycerophosphodiester phosphodiesterase family protein;score=501.5
+CP041230.1	BLASTP	match	5575914	5577194	2.3e-250	+	.	ID=CP041230.1_4438;subject=DUF1566 domain-containing protein;score=874.0
+CP041230.1	BLASTP	match	5577276	5577728	1.4e-77	+	.	ID=CP041230.1_4439;subject=Fimbrillin family protein;score=298.5
+CP041230.1	BLASTP	match	5577731	5578222	3.8e-89	+	.	ID=CP041230.1_4440;subject=DUF1566 domain-containing protein;score=337.0
+CP041230.1	BLASTP	match	5578794	5582759	0.0	-	.	ID=CP041230.1_4441;subject=histidine kinase;score=2725.3
+CP041230.1	BLASTP	match	5583664	5584095	4.1e-71	+	.	ID=CP041230.1_4442;subject=Transposase;score=276.9
+CP041230.1	BLASTP	match	5584079	5584444	1.6e-52	+	.	ID=CP041230.1_4443;subject=Transposase;score=214.9
+CP041230.1	BLASTP	match	5584527	5585471	1.3e-175	+	.	ID=CP041230.1_4444;subject=Transposase;score=625.2
+CP041230.1	BLASTP	match	5585468	5586112	1.3000000000000002e-124	+	.	ID=CP041230.1_4445;subject=Transposase;score=455.3
+CP041230.1	BLASTP	match	5587216	5588340	3e-190	+	.	ID=CP041230.1_4446;subject=Helix-turn-helix transcriptional regulator;score=674.1
+CP041230.1	BLASTP	match	5588687	5589892	1.3e-226	+	.	ID=CP041230.1_4447;subject=Lipoprotein;score=795.0
+CP041230.1	BLASTP	match	5589926	5590195	5.4000000000000003e-45	+	.	ID=CP041230.1_4448;subject=Uncharacterized protein;score=189.5
+CP041230.1	BLASTP	match	5590237	5590437	4e-29	+	.	ID=CP041230.1_4449;subject=Transposase;score=136.3
+CP041230.1	BLASTP	match	5590445	5591542	8.200000000000001e-201	+	.	ID=CP041230.1_4450;subject=Transposase DDE domain-containing protein;score=709.1
+CP041230.1	BLASTP	match	5591544	5593703	0.0	-	.	ID=CP041230.1_4451;subject=BACON domain-containing protein;score=1472.2
+CP041230.1	AMP	match	5583336	5583554	0	-	.	ID=AMP_138200_c2_g1_i1;subject=AMP
