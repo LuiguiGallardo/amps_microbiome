@@ -1,38 +1,36 @@
-megan6.classification	count
-Faecalibacterium prausnitzii	76
-Unclassified	45
-Phocaeicola	8
-Bacteroides	8
-uncultured human fecal virus	7
-Siphoviridae sp.	7
-Eubacteriales	4
-Parabacteroides	3
-Caudovirales	3
-Ruminococcus bicirculans	2
-Oscillospiraceae	2
-Lachnospiraceae bacterium	2
-Bacteria	2
-uncultured Blautia sp.	1
-unclassified Lachnospiraceae	1
-Ruthenibacterium lactatiformans	1
-Ruminococcus torques	1
-Roseburia intestinalis	1
-Romboutsia ilealis	1
-Romboutsia	1
-Pusillimonas faecalis	1
-Phocaeicola vulgatus	1
-Paraprevotella xylaniphila	1
-Neisseriaceae	1
-Myoviridae sp.	1
-Lachnospiraceae bacterium NSJ-29	1
-Flavonifractor plautii	1
-EubacterialesLachnospiraceae	1
-Escherichia coli	1
-Dysosmobacter sp. Marseille-Q4140	1
-Coprococcus comes	1
-Clostridiaceae bacterium Marseille-Q4143	1
-Bacteroides xylanisolvens	1
-Bacteroides caccae	1
-BacteroidalesBacteroidaceae	1
-Bacteroidales	1
-Anaerostipes hadrus	1
+megan6.classification	rank	count
+Faecalibacterium prausnitzii	Species	76
+Unclassified	Other	45
+Phocaeicola	Genus	8
+Bacteroides	Genus	8
+Human fecal viruses	Other	7
+Siphoviridae	Family	7
+Eubacteriales	Order	4
+Parabacteroides	Genus	3
+Caudovirales	Order	3
+Ruminococcus bicirculans	Species	2
+Oscillospiraceae	Family	2
+Lachnospiraceae bacterium	Species	3
+Bacteria	Domain	2
+Blautia sp.	Species	1
+Lachnospiraceae	Family	2
+Ruthenibacterium lactatiformans	Species	1
+Ruminococcus torques	Species	1
+Roseburia intestinalis	Species	1
+Romboutsia ilealis	Species	1
+Romboutsia	Genus	1
+Pusillimonas faecalis	Species	1
+Phocaeicola vulgatus	Species	1
+Paraprevotella xylaniphila	Species	1
+Neisseriaceae	Family	1
+Myoviridae	Family	1
+Flavonifractor plautii	Species	1
+Escherichia coli	Species	1
+Dysosmobacter sp.	Species	1
+Coprococcus comes	Species	1
+Clostridiaceae bacterium	Species	1
+Bacteroides xylanisolvens	Species	1
+Bacteroides caccae	Species	1
+Plasmid	Other	1
+Bacteroidales	Order	1
+Anaerostipes hadrus	Species	1
