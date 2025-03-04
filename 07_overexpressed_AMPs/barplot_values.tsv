@@ -1,12 +1,12 @@
-species	group	number_AMPs
-Phocaeicola dorei plasmid	O	1
-Caudovirales	O	1
-Faecalibacterium prausnitzii	O	3
-Unclassified	O	1
-Caudovirales	OMS	1
-Escherichia coli	OMS	1
-Faecalibacterium prausnitzii	OMS	2
-Phocaeicola	OMS	2
-Romboutsia ilealis	OMS	1
-Unclassified	OMS	8
-uncultured human fecal virus	OMS	4
+species	rank	group	number_AMPs
+Phocaeicola dorei plasmid	Other	O	1
+Caudovirales	Order	O	1
+Faecalibacterium prausnitzii	Species	O	3
+Unclassified	Other	O	1
+Caudovirales	Order	OMS	1
+Escherichia coli	Species	OMS	1
+Faecalibacterium prausnitzii	Species	OMS	2
+Phocaeicola	Genus	OMS	2
+Romboutsia ilealis	Species	OMS	1
+Unclassified	Other	OMS	8
+Human fecal viruses	Other	OMS	4
