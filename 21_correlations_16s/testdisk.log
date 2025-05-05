@@ -1,0 +1,142 @@
+
+
+Thu Apr 24 02:13:03 2025
+Command line: TestDisk
+
+TestDisk 7.2, Data Recovery Utility, February 2024
+Christophe GRENIER <grenier@cgsecurity.org>
+https://www.cgsecurity.org
+OS: Darwin, kernel 24.3.0 (Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:16 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T6000) arm64
+Compiler: GCC 4.2
+ext2fs lib: none, ntfs lib: none, reiserfs lib: none, ewf lib: none, curses lib: ncurses 6.0
+Hard disk list
+Disk /dev/disk4 - 8994 MB / 8578 MiB - 17567811 sectors (RO), sector size=512
+Disk /dev/disk6 - 19 GB / 18 GiB - 38760515 sectors (RO), sector size=512
+Disk /dev/disk8 - 17 GB / 16 GiB - 34295875 sectors (RO), sector size=512
+Disk /dev/disk10 - 51 MB / 48 MiB - 100000 sectors (RO), sector size=512
+Disk /dev/disk12 - 256 GB / 238 GiB - 500118192 sectors (RO), sector size=512
+Disk /dev/rdisk1 - 524 MB / 500 MiB - 128000 sectors (RO), sector size=4096
+Disk /dev/rdisk4 - 8994 MB / 8578 MiB - 17567811 sectors (RO), sector size=512
+Disk /dev/rdisk5 - 8994 MB / 8578 MiB - 2195968 sectors (RO), sector size=4096
+Disk /dev/rdisk6 - 19 GB / 18 GiB - 38760515 sectors (RO), sector size=512
+Disk /dev/rdisk7 - 19 GB / 18 GiB - 4845056 sectors (RO), sector size=4096
+Disk /dev/rdisk8 - 17 GB / 16 GiB - 34295875 sectors (RO), sector size=512
+Disk /dev/rdisk9 - 17 GB / 16 GiB - 4286976 sectors (RO), sector size=4096
+Disk /dev/rdisk10 - 51 MB / 48 MiB - 100000 sectors (RO), sector size=512
+Disk /dev/rdisk12 - 256 GB / 238 GiB - 500118192 sectors (RO), sector size=512
+Disk /dev/rdisk13 - 361 MB / 345 MiB - 706561 sectors, sector size=512
+
+Partition table type (auto): EFI GPT
+Media is opened in read-only.
+Disk /dev/rdisk12 - 256 GB / 238 GiB (RO)
+Partition table type: EFI GPT
+
+Analyse Disk /dev/rdisk12 - 256 GB / 238 GiB - 500118192 sectors (RO)
+hdr_size=92
+hdr_lba_self=1
+hdr_lba_alt=500118191 (expected 500118191)
+hdr_lba_start=34
+hdr_lba_end=500118158
+hdr_lba_table=2
+hdr_entries=128
+hdr_entsz=128
+Current partition structure:
+ 1 P EFI System                    40     409639     409600 [EFI System Partition]
+ 2 P MS Data                   411648  500117503  499705856
+
+search_part()
+Disk /dev/rdisk12 - 256 GB / 238 GiB - 500118192 sectors (RO)
+FAT32 at 40/0/1
+check_FAT: Unusual media descriptor (0xf0!=0xf8)
+FAT1 : 32-3182
+FAT2 : 3183-6333
+start_rootdir : 6334 root cluster : 2
+Data : 6334-409599
+sectors : 409600
+cluster_size : 1
+no_of_cluster : 403266 (2 - 403267)
+fat_length 3151 calculated 3151
+heads/cylinder 16 (FAT) != 1 (HD)
+sect/track 32 (FAT) != 1 (HD)
+
+FAT32 at 40/0/1
+     EFI System                    40     409639     409600 [EFI System Partition] [EFI]
+     FAT32, blocksize=512, 209 MB / 200 MiB
+     MS Data                   411648  500117503  499705856
+     exFAT, blocksize=131072, 255 GB / 238 GiB
+
+Results
+   P EFI System                    40     409639     409600 [EFI System Partition] [EFI]
+     FAT32, blocksize=512, 209 MB / 200 MiB
+   P MS Data                   411648  500117503  499705856
+     exFAT, blocksize=131072, 255 GB / 238 GiB
+
+interface_write()
+ 1 P EFI System                    40     409639     409600 [EFI System Partition] [EFI]
+ 2 P MS Data                   411648  500117503  499705856
+
+search_part()
+Disk /dev/rdisk12 - 256 GB / 238 GiB - 500118192 sectors (RO)
+FAT32 at 40/0/1
+check_FAT: Unusual media descriptor (0xf0!=0xf8)
+FAT1 : 32-3182
+FAT2 : 3183-6333
+start_rootdir : 6334 root cluster : 2
+Data : 6334-409599
+sectors : 409600
+cluster_size : 1
+no_of_cluster : 403266 (2 - 403267)
+fat_length 3151 calculated 3151
+heads/cylinder 16 (FAT) != 1 (HD)
+sect/track 32 (FAT) != 1 (HD)
+
+FAT32 at 40/0/1
+     EFI System                    40     409639     409600 [EFI System Partition] [EFI]
+     FAT32, blocksize=512, 209 MB / 200 MiB
+FAT32 at 46/0/1
+check_FAT: Unusual media descriptor (0xf0!=0xf8)
+FAT1 : 32-3182
+FAT2 : 3183-6333
+start_rootdir : 6334 root cluster : 2
+Data : 6334-409599
+sectors : 409600
+cluster_size : 1
+no_of_cluster : 403266 (2 - 403267)
+fat_length 3151 calculated 3151
+heads/cylinder 16 (FAT) != 1 (HD)
+sect/track 32 (FAT) != 1 (HD)
+set_FAT_info: name from BS used
+
+FAT32 at 46/0/1
+     EFI System                    46     409645     409600 [EFI System Partition] [EFI]
+     FAT32, blocksize=512, 209 MB / 200 MiB
+NTFS at 240880/0/1
+heads/cylinder 255 (NTFS) != 1 (HD)
+sect/track 63 (NTFS) != 1 (HD)
+filesystem size           716800
+sectors_per_cluster       8
+mft_lcn                   29866
+mftmirr_lcn               2
+clusters_per_mft_record   -10
+clusters_per_index_record 1
+NTFS part_offset=123330560, part_size=367001600, sector_size=512
+NTFS partition cannot be added (part_offset<part_size).
+NTFS at 240880/0/1
+heads/cylinder 255 (NTFS) != 1 (HD)
+sect/track 63 (NTFS) != 1 (HD)
+filesystem size           716800
+sectors_per_cluster       8
+mft_lcn                   29866
+mftmirr_lcn               2
+clusters_per_mft_record   -10
+clusters_per_index_record 1
+     MS Data                   240880     957679     716800
+     NTFS, blocksize=4096, 367 MB / 350 MiB
+     MS Data                   411648  500117503  499705856
+     exFAT, blocksize=131072, 255 GB / 238 GiB
+     MS Data                   411648  500117503  499705856
+     exFAT found using backup sector, blocksize=131072, 255 GB / 238 GiB
+     MS Data                   411648  500117503  499705856
+     exFAT found using backup sector, blocksize=131072, 255 GB / 238 GiB
+SIGINT detected! PhotoRec has been killed.
+SIGHUP detected! PhotoRec has been killed.
